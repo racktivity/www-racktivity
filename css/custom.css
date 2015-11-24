@@ -195,3 +195,26 @@ header a { color: #FFF; }
 .fa.fa-quote-right {font-size: 22px;margin: 0px 10px 0 14px;}
 .arrow-down { position: absolute;bottom: 73px;left: 0;width: 100%;text-align: center;}
 .fa-angle-double-down { color: #FFF; font-size: 54px !important;}
+.page-disc {height: 341px;}
+.page-disc h1 {color: #FFF;font-size: 25px;margin: 77px 0 10px 0;}
+.page-disc p {color: #FFF;max-width: 510px;line-height: 26px;max-height: 180px;overflow: hidden;}
+.bred-crum {background: #ededed;height: 37px;}
+.bred-crum ul {}
+.bred-crum li {display: inline;}
+.bred-crum li a { padding: 8px 15px; font-size: 14px; color: #313131; display: inline-block; background: url(../images/bred-pic.png) left 15px no-repeat;}
+.bred-crum li:first-child a { padding-left: 0;  background: none}
+.section-side { padding-right: 42px;}
+.section-title { color: #4491e1;font-size: 20px;margin: 30px 0 15px 0;}
+.section-side ul { }
+.section-side ul li { list-style: none;background: url(../images/bred-pic.png) 11px 15px no-repeat;border-top: 1px solid #bbbbbb;}
+.section-side ul li:first-child { border: 0;}
+.section-side ul li a { color: #515151;padding: 9px 10px 9px 25px;display: block;font-size: 14px;}
+.section-side .active {background: url(../images/arrow-white.png) 11px 15px no-repeat #4491E1; border: 0}
+.section-side .active + li {border: 0}
+.section-side .active a {color: #FFF}
+.sperator-side { height: 1px; background: #b1b1b1; margin: 20px 0;}
+.help-side h2 { color: #4491e1; font-size: 18px;margin: 30px 0 20px 0;}
+.content { padding: 0 0 80px 0;}
+.content-text p { line-height: 26px;}
+.content-text p a {color: #4491E1;}
+.content-text h1 {color: #4491e1;margin: 30px 0 15px 0;font-size: 20px;}

@@ -1,0 +1,125 @@
+
+		<!--	<section id="product">
+				<div class="container">
+				{{ range $element :=  .Data.Pages }}
+	                {{ if eq .Section "home" }}
+	                    {{ if eq .Title "product" }}
+					<header class="text-center">
+						<h2>{{ .Params.header }}</h2>
+						<p class="lead">{{ .Params.summary }}</p>
+						<div class="divider half-margins onepage center">						
+						</div>
+					</header>
+
+
+
+					<div class="row">
+						<div class="col-md-4">
+							<div class="featured-box noborder">							
+
+								<i class="fa PB"><img src="/images/PB.png"></i>
+								<h4>{{ .Params.block1_title_strong }}</h4>
+								<p>{{ .Params.block1_text }}</p>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="featured-box noborder">							
+
+								<i class="fa HC"><img src="/images/HC.png"></i>
+								<h4>{{ .Params.block2_title_strong }}</h4>
+								<p>{{ .Params.block2_text }}</p>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="featured-box noborder">						
+
+								<i class="fa HD"><img src="/images/HD.png"></i>
+								<h4>{{ .Params.block2_title_strong }}</h4>
+								<p>{{ .Params.block2_text }}</p>
+							</div>
+						</div>						
+					</div>
+
+
+							{{end}}
+						{{end}}
+					{{end}}
+				</div>
+			</section>	-->
+
+
+
+
+<!-- Content Block
+      ============================================ -->
+
+      {{ range $element :=  .Data.Pages }}
+                  {{ if eq .Section "home" }}
+                      {{ if eq .Title "product" }}
+      <section class="content-block default-bg">
+      
+        <!-- Container -->
+        <div class="container cont-main">
+
+          
+          <!-- Section Title -->
+          <div class="section-title">
+            <h2>{{ .Params.header}}</h2>
+            <p>{{ .Params.summary}}</p>
+          </div>
+          <!-- /Section Title -->
+          
+          <!-- Row -->
+          <div class="row">
+          
+            <!-- Col -->
+            <div class="col-sm-6 col-md-4">
+              <!-- hfeat -->
+              <div class="service hfeat hfeat-md">
+                <i class="icon ti-{{ .Params.block1_icon}}" ></i>
+                <a class="title">{{ .Params.block1_title_strong}}</a>
+                <p class="text">{{ .Params.block1_text}}</p>
+                <a class="more-link"><a href="{{.Params.block1_link}}">{{.Params.block1_text_link}}<i class="icon-right ti ti-arrow-right"></i></a>
+              </div>
+              <!-- /hfeat -->
+            </div>
+            <!-- /Col -->
+            
+            <!-- Col -->
+            <div class="col-sm-6 col-md-4">
+              <!-- hfeat -->
+              <div class="service hfeat hfeat-md">
+                <i class="icon ti-{{ .Params.block2_icon}}" ></i>
+                <a class="title">{{ .Params.block2_title_strong}}</a>
+                <p class="text">{{ .Params.block2_text}} </p>
+                <a class="more-link"><a href="{{.Params.block2_link}}">{{.Params.block2_text_link}}<i class="icon-right ti ti-arrow-right"></i></a>
+              </div>
+              <!-- /hfeat -->
+            </div>
+            <!-- /Col -->
+            
+            <!-- Col -->
+            <div class="col-sm-6 col-md-4">
+              <!-- hfeat -->
+              <div class="service hfeat hfeat-md">
+                <i class="icon ti-{{ .Params.block3_icon}}" ></i>
+                <a class="title">{{ .Params.block3_title_strong}}</a>
+                <p class="text">{{ .Params.block3_text}} </p>
+                <a class="more-link"><a href="{{.Params.block3_link}}">{{.Params.block3_text_link}}<i class="icon-right ti ti-arrow-right"></i></a>
+              </div>
+              <!-- /hfeat -->
+            </div>
+            <!-- /Col -->
+          
+          
+          </div>
+          <!-- /Row -->
+        
+        </div>
+        <!-- /Container -->
+      </section>
+      <!-- /Content Block
+      ============================================-->
+{{end}}
+{{end}}
+{{end}}

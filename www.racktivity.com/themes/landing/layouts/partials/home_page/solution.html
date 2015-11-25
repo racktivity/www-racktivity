@@ -1,0 +1,75 @@
+<!-- Intro Block
+============================================ -->
+{{ range $element :=  .Data.Pages }}
+   {{ if eq .Section "home" }}
+       {{ if eq .Title "solution_section" }}
+       <section class="content-block light-bg">
+        <!-- Container -->
+        <div class="container cont-main">
+
+
+          <!-- Section Title -->
+          <div class="section-title">
+            <h2>{{ .Params.header }}</h2>
+            <p>{{ .Params.summary }}</p>
+          </div>
+          <!-- /Section Title -->
+
+          <!-- Row -->
+          <div class="row">
+
+            <!-- Column -->
+            <div class="col-sm-6 col-md-6">
+
+              <img  src="{{ .Params.solution_image }}">
+
+            </div>
+            <!-- /Column -->
+
+            <!-- Column -->
+            <div class="col-sm-6 col-md-6 vspace-xs">
+              <h4>{{ .Params.second_header }}</h4>
+              <p>{{ .Params.second_summary }}</p>
+
+             <!-- Nested Row -->
+              <div class="row">
+
+                <!-- Column -->
+                <div class="col-xs-12 col-sm-6 col-md-6">
+                  <!-- vlinks -->
+                  <ul class="vlinks vlinks-iconed vlinks-md">
+                    <li><i class="icon fa fa-{{ .Params.first_solution_icon }}"></i><a class="title" href="{{ .Params.first_solution_link }}">{{ .Params.first_solution_title }}</a><span class="meta">{{ .Params.first_solution_date }}</span></li>
+                    <li><i class="icon fa fa-{{ .Params.second_solution_icon }}"></i><a class="title" href="{{ .Params.second_solution_link }}">{{ .Params.second_solution_title }}</a><span class="meta">{{ .Params.second_solution_date }}</span></li>
+                  </ul>
+                  <!-- /vlinks -->
+                </div>
+                <!-- /Column -->
+
+                <!-- Column -->
+                <div class="col-xs-12 col-sm-6 col-md-6">
+                  <!-- vlinks -->
+                  <ul class="vlinks vlinks-iconed vlinks-md">
+                    <li><i class="icon fa fa-{{ .Params.third_solution_icon }}"></i><a class="title" href="{{ .Params.third_solution_link }}">{{ .Params.third_solution_title }}</a><span class="meta">{{ .Params.third_solution_date }}</span></li>
+                    <li><i class="icon fa fa-{{ .Params.fourth_solution_icon }}"></i><a class="title" href="{{ .Params.fourth_solution_link }}">{{ .Params.fourth_solution_title }}</a><span class="meta">{{ .Params.fourth_solution_date }}</span></li>
+                  </ul>
+                  <!-- /vlinks -->
+                </div>
+                <!-- /Column -->
+
+              </div>
+              <!-- /Nested Row -->
+
+            </div>
+            <!-- /Column -->
+
+          </div>
+          <!-- /Row -->
+
+        </div>
+        <!-- /Container -->
+      </section>
+      <!-- /Content Block
+      ============================================-->
+       {{end}}
+    {{end}}
+{{end}}

@@ -1,0 +1,117 @@
+
+<!-- Intro Block
+      ============================================ -->
+      {{ range $element :=  .Site.Pages }}
+                            {{ if eq .Section "home" }}
+                                {{ if eq .Title "intro_slider_box" }}
+      <div class="intro-block intro-slider-block light-bg">
+      
+        <!-- Container -->
+        <div class="container cont-main">
+        
+          <!-- Row -->
+          <div class="row">
+          
+            <!-- Col -->
+            <div class="col-xs-10 col-sm-10 col-md-9">
+            
+              <!-- Intro Slider Wrapper -->
+              <div class="intro-slider">
+              
+                <!-- BxSlider -->
+                <div class="bxslider" data-call="bxslider" data-options="{controls:false, pagerCustom: '#intro-pager'}">
+                  
+                  <!-- Slide -->
+                  <div class="slide">
+                    <!-- Text -->
+                    <div class="text">
+                      <small class="pcolor case-u bx-layer" data-anim="slideInDown" data-dur="1000" data-delay="400">{{.Params.slide1_title_small}}</small>
+                      <h1 class="bx-layer case-u" data-anim="slideInDown" data-dur="1000" data-delay="200" >{{.Params.slide1_title_large}}</h1>
+                      <p class="bx-layer" data-anim="slideInDown" data-dur="1000" data-delay="0" >{{.Params.slide1_text}}</p>
+                      <a href="{{.Params.slide1_more_link}}" class="btn btn-primary no-border btn-bigger bx-layer" data-anim="slideInUp" data-dur="1000" data-delay="600">{{.Params.slide1_button}}</a>
+                    </div>
+                    <!-- /Text -->
+                    <img class="img-main" src="{{.Params.slide1_pic}}" alt=""/>
+                  </div>
+                  <!-- /Slide -->
+                  
+                  <!-- Slide -->
+                  <div class="slide">
+                    <!-- Text -->
+                    <div class="text">
+                      <small class="pcolor case-u bx-layer" data-anim="slideInDown" data-dur="1000" data-delay="400">{{.Params.slide2_title_small}}</small>
+                      <h1 class="bx-layer case-u" data-anim="slideInDown" data-dur="1000" data-delay="200" >{{.Params.slide2_title_large}}</h1>
+                      <p class="bx-layer" data-anim="slideInDown" data-dur="1000" data-delay="0" >{{.Params.slide2_text}}</p>
+                      <a href="{{.Params.slide2_more_link}}" class="btn btn-primary no-border btn-bigger bx-layer" data-anim="slideInUp" data-dur="1000" data-delay="600">{{.Params.slide2_button}}</a>
+                    </div>
+                    <!-- /Text -->
+                    <img class="img-main" src="{{.Params.slide2_pic}}" alt=""/>
+                  </div>
+                  <!-- /Slide -->
+                  
+                  <!-- Slide -->
+                  <div class="slide">
+                    <!-- Text -->
+                    <div class="text">
+                      <small class="pcolor case-u bx-layer" data-anim="slideInDown" data-dur="1000" data-delay="400">{{.Params.slide3_title_small}}</small>
+                      <h1 class="bx-layer case-u" data-anim="slideInDown" data-dur="1000" data-delay="200" >{{.Params.slide3_title_large}}</h1>
+                      <p class="bx-layer" data-anim="slideInDown" data-dur="1000" data-delay="0" >{{.Params.slide3_text}}</p>
+                      <a href="{{.Params.slide3_more_link}}" class="btn btn-primary no-border btn-bigger bx-layer" data-anim="slideInUp" data-dur="1000" data-delay="600">{{.Params.slide3_button}}</a>
+                    </div>
+                    <!-- /Text -->
+                    <img class="img-main" src="{{.Params.slide3_pic}}" alt=""/>
+                  </div>
+                  <!-- /Slide -->
+                  
+                  <!-- Slide -->
+                  <div class="slide">
+                    <!-- Text -->
+                    <div class="text">
+                      <small class="pcolor case-u bx-layer" data-anim="slideInDown" data-dur="1000" data-delay="400">{{.Params.slide4_title_small}}</small>
+                      <h1 class="bx-layer case-u" data-anim="slideInDown" data-dur="1000" data-delay="200" >{{.Params.slide4_title_large}}</h1>
+                      <p class="bx-layer" data-anim="slideInDown" data-dur="1000" data-delay="0" >{{.Params.slide4_text}}</p>
+                      <a href="{{.Params.slide4_more_link}}" class="btn btn-primary no-border btn-bigger bx-layer" data-anim="slideInUp" data-dur="1000" data-delay="600">{{.Params.slide4_button}}</a>
+                    </div>
+                    <!-- /Text -->
+                    <img class="img-main" src="{{.Params.slide4_pic}}" alt=""/>
+                  </div>
+                  <!-- /Slide -->
+                  
+                </div>
+                <!-- /BxSlider -->
+                
+              </div>
+              <!-- Intro Slider -->
+              
+            </div>
+            <!-- /Col -->
+            
+            <!-- Col -->
+            <div class="col-xs-2 col-sm-2 col-md-3">
+              <div class="pager-block vcenter">
+                <div class="vcenter-this">
+                  <!-- Pager -->
+                  <div id="intro-pager" class="tab-pager">
+                    <a data-slide-index="0" href="#"><i class="icon fa  fa-apple"></i><span>{{.Params.slide1_title_main_button}}</span></a>
+                    <a data-slide-index="1" href="#"><i class="icon fa fa-folder"></i><span>{{.Params.slide2_title_main_button}}</span></a>
+                    <a data-slide-index="2" href="#"><i class="icon fa fa-rocket"></i><span>{{.Params.slide3_title_main_button}}</span></a>
+                    <a data-slide-index="3" href="#"><i class="icon fa fa-desktop"></i><span>{{.Params.slide4_title_main_button}}</span></a>
+                  </div>
+                  <!-- /Pager -->
+                </div>
+              </div>
+            </div>
+            <!-- /Col -->
+            
+          </div>
+          <!-- /Row -->
+        </div>
+        <!-- /Container -->
+      
+      </div>
+      <!-- /Intro Block
+      ============================================ -->
+
+      {{end}}
+      {{end}}
+      {{end}}

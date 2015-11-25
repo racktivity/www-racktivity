@@ -1,0 +1,99 @@
+
+
+     <!-- Footer
+      =================================================== -->
+      {{ range $element :=  $.Site.Pages }}
+        {{ if eq .Section "home" }}
+          {{ if eq .Title "footer_box" }}
+            <footer class="footer-block">
+            
+              <!-- Container -->
+              <div class="container main clearfix">
+              
+                <!-- Brand -->
+                <div class="brand-col">
+                  <div class="brand">
+                    <img src="{{.Params.footer_logo}}" alt="logo"/>
+                  </div>
+                </div>
+                <!-- /Brand -->
+                
+                <!-- Links -->
+                <div class="links-col">
+                  <!-- Row -->
+                  <div class="row-fluid">
+                    <!-- Col -->
+                    <div class="col-xs-6 col-sm-3 col-md-3 col-md-offset-3">
+                      <h5>{{ .Params.first_section}}</h5>
+                      <ul class="v-links">
+                        <li><a href="{{.Params.first_section_link1}}">{{.Params.first_section_title1}}</a></li>
+                        <li><a href="{{.Params.first_section_link2}}">{{.Params.first_section_title2}}</a></li>
+                        <li><a href="{{.Params.first_section_link3}}">{{.Params.first_section_title3}}</a></li>
+                        <li><a href="{{.Params.first_section_link4}}">{{.Params.first_section_title4}}</a></li>
+                      </ul>
+                    </div>
+                    <!-- Col -->
+                    
+                    <!-- Col -->
+                    <div class="col-xs-6 col-sm-3 col-md-3">
+                      <h5>{{ .Params.second_section}}</h5>
+                      <ul class="v-links">
+                        <li><a href="{{.Params.second_section_link1}}">{{.Params.second_section_title1}}</a></li>
+                        <li><a href="{{.Params.second_section_link2}}">{{.Params.second_section_title2}}</a></li>
+                        <li><a href="{{.Params.second_section_link3}}">{{.Params.second_section_title3}}</a></li>
+                        <li><a href="{{.Params.second_section_link4}}">{{.Params.second_section_title4}}</a></li>
+                        <li><a href="{{.Params.second_section_link5}}">{{.Params.second_section_title5}}</a></li>
+                        <li><a href="{{.Params.second_section_link6}}">{{.Params.second_section_title6}}</a></li>
+                      </ul>
+                    </div>
+                    <!-- /Col -->
+                    
+                    <!-- Col -->
+                    <div class="col-xs-6 col-sm-3 col-md-3">
+                      <h5>member</h5>
+                      <ul class="v-links">
+                        <li><a href="{{.Params.third_section_link1}}">{{.Params.third_section_title1}}</a></li>
+                        <li><a href="{{.Params.third_section_link2}}">{{.Params.third_section_title2}}</a></li>
+                        <li><a href="{{.Params.third_section_link3}}">{{.Params.third_section_title3}}</a></li>
+                        <li><a href="{{.Params.third_section_link3}}">{{.Params.third_section_title4}}</a></li>
+                      </ul>
+                    </div>
+                    <!-- /Col -->
+                    
+                    <!-- Col -->
+                    <!--
+                    <div class="col-xs-6 col-sm-3 col-md-3 newsletter">
+                      <h5>newsletter</h5>
+                      <form>
+                        <input type="text" class="form-control" placeholder="Email Address">
+                        <button class="btn btn-primary" type="button">get newsletter</button>
+                      </form>
+                    </div>
+                  -->
+                    <!-- /Col -->
+                 </div>
+                 <!-- /Row -->
+                </div>
+                <!-- /Links -->
+
+              </div>
+              <!-- /Container ->
+              
+              <!-- Bottom -->
+              <div class="bottom">
+                <!-- Container -->
+                <div class="container">
+                  <span class="copy-text">&copy; 2015 Your Corporation. Theme by <a href="#">Rahisi</a> Themes.</span>
+                  
+                </div>
+                <!-- /Container -->
+              </div>
+              <!-- /Bottom -->
+              
+              
+            </footer>
+            {{end}}
+        {{end}}
+      {{end}}
+            <!-- /Footer
+            =================================================== -->

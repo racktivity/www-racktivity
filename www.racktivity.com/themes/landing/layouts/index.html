@@ -1,0 +1,35 @@
+{{ partial "head.html" . }}
+	<body class="page-bg preload">
+<!-- Preloader 
+    ============================================ -->
+    <div class="page-preloader">
+      <div class="vcenter"> <div class="vcenter-this"><img class="anim" src="images/loader.gif" alt="loading..." /></div></div>
+    </div>
+    <!-- /Preloader 
+    ============================================ --> 
+    
+    <!-- Page Wrapper
+    ++++++++++++++++++++++++++++++++++++++++++++ -->
+    <div class="page-wrapper">
+		
+
+
+			{{ partial "header.html" . }}
+			{{ partial "home_page/intro_slider.html" . }}
+			{{ partial "home_page/product.html" . }}
+			{{ partial "home_page/second_section.html" . }}
+			{{ partial "home_page/solution.html" . }}
+			
+			{{ partial "footer.html" . }}
+	</div>	
+	<!-- JAVASCRIPT FILES -->
+	<script src="/js/jquery-latest.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/uikit.min.js"></script>
+
+
+	</body>
+</html>
+
+
+

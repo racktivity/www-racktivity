@@ -3,39 +3,19 @@
 title = "intro_slider_box"
 
 
-slide1_title_main_button = "multipurpose"
-slide1_title_small = "multipurpose"
-slide1_title_large= "modular design"
-slide1_text = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud."
-slide1_button = "learn more"
-slide1_more_link = "#"
-slide1_pic = "/images/screen-4.png" 
+slider1_pic= "images/slider1.jpg"
+slider1_text1 = "Racktivity animated data center floor plan"
+slider1_text2 = "Want to find out where the Racktivity products go in your data center?! .. Check out our data center floor plane and find out."
+slider1_text3 = "LEARN ABOUT OUR NEW MOBILE APP"
+slider1_button = "WATCH A DEMO"
+slider1_text4 = "I've been in the sustainability field for more than 10 years, I've seen numerous solutions comeand go, but Panoramic Power has a solution that works, and works really well."
 
-
-slide2_title_main_button = "multipurpose"
-slide2_title_small = "multipurpose"
-slide2_title_large= "modular design"
-slide2_text = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud."
-slide2_button = "learn more"
-slide2_more_link = "#"
-slide2_pic = "/images/screen-4.png" 
-
-slide3_title_main_button = "multipurpose"
-slide3_title_small = "multipurpose"
-slide3_title_large= "modular design"
-slide3_text = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud."
-slide3_button = "learn more"
-slide3_more_link = "#"
-slide3_pic = "/images/screen-4.png" 
-
-
-slide4_title_main_button = "multipurpose"
-slide4_title_small = "multipurpose"
-slide4_title_large= "modular design"
-slide4_text = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud."
-slide4_button = "learn more"
-slide4_more_link = "#"
-slide4_pic = "/images/screen-4.png" 
+slider2_pic= "images/slider1.jpg"
+slider2_text1 = "Racktivity animated data center floor plan"
+slider2_text2 = "Want to find out where the Racktivity products go in your data center?! .. Check out our data center floor plane and find out."
+slider2_text3 = "LEARN ABOUT OUR NEW MOBILE APP"
+slider2_button = "WATCH A DEMO"
+slider2_text4 = "I've been in the sustainability field for more than 10 years, I've seen numerous solutions comeand go, but Panoramic Power has a solution that works, and works really well."
 
 
 +++

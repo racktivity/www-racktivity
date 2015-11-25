@@ -14,8 +14,8 @@ header a { color: #FFF; }
 .social li a { padding: 6px 5px; display: block; }
 .right-black { position: absolute; right: 0; top: 0; width: 50%; height: 43px; background: #333; display: inline-block; }
 .why-menu-wrap { position: relative; background: #333; }
-.social-menu-wrap { display: inline-block; margin-left: 24%; }
-.logo-row {  }
+.social-menu-wrap {   }
+.logo-row {  margin-top: 30px;}
 .callus-menu { padding: 0; margin-top: 5px; }
 .pdf-button { float: right; background: #21a6df; border: 0; padding: 8px 21px; color: #FFF; font-size: 14px; font-family: 'neotechalt-bold'; margin: 5px 0 0 0; }
 .callus-menu li { display: inline-block; font-size: 11px; padding: 0px 10px; border-left: 1px solid #eeeeee; }
@@ -39,8 +39,7 @@ header a { color: #FFF; }
 .slider { }
 .arrow-slider { position: absolute; top: 46%; z-index: 5; display: inline-block; margin-top: -10px; left: 37%; }
 .carousel-control { background-image: none !important; }
-/*ehab CSS*/
-
+/*css-new*/
 .services { background-image: url(../images/Services.jpg); padding-bottom: 43px; }
 .css-shapes-preview { position: relative; height: 0px; left: -15px; -webkit-transform: rotate(0deg) skew(0deg); transform: rotate(0deg) skew(0deg); border-top: 171px solid #21a6df; border-left: 130px solid transparent; border-right: 130px solid transparent; border-bottom: 0px transparent; }
 .services-header { text-align: center; color: #fff; position: absolute; top: -153px; left: 0; width: 100%; }
@@ -103,6 +102,48 @@ header a { color: #FFF; }
 .footer-side { position: absolute; right: 0; bottom: 0; width: 50%; height: 58px; background: #454545; display: inline-block; }
 .footer-shape { display: inline-block; position: absolute; width: 44px; height: 58px; background: #454545; left: -29px; -webkit-transform: skew(-26deg); transform: skew(-26deg); top: 0px; }
 .copy-text { line-height: 58px; color: #7a7a7a; }
+.navbar-default .navbar-collapse, .navbar-default .navbar-form { border: 0; }
+.carousel-caption { text-align: left; top: 0; padding-top: 70px; }
+.carousel-caption h1 { color: #21a6df; font-family: 'neotechalt-bold'; text-shadow: none; font-size: 36px; }
+.carousel-caption h4 { font-size: 26px;color: #4c4c4c;text-shadow: none;max-width: 690px;line-height: 34px;margin: 15px 0 11px 0;}
+.carousel-caption span { font-size: 18px;color: #333;text-shadow: none;font-family: 'neotechalt-bold';display: block;}
+.carousel-caption p { font-size: 20px;text-shadow: none;font-style: italic;float: left;display: inherit;max-width: 1110px;}
+.carousel-caption input { display: block; border: 0;background: rgba(33, 166, 223, 0.8);padding: 8px 30px;margin: 160px 0 20px 0;-webkit-border-radius: 5px;  -moz-border-radius: 5px;  border-radius: 5px;}
+.navbar-default .navbar-toggle .icon-bar {background-color: #FFF;}
+.navbar-default .navbar-toggle {border-color: #FFF;}
+.fa.fa-quote-left {font-size: 22px;margin: 0 10px 0 0;}
+.fa.fa-quote-right {font-size: 22px;margin: 0px 10px 0 14px;}
+.arrow-down { position: absolute;bottom: 73px;left: 0;width: 100%;text-align: center;}
+.fa-angle-double-down { color: #FFF; font-size: 54px !important;}
+.page-disc {height: 341px;}
+.page-disc h1 {color: #FFF;font-size: 25px;margin: 77px 0 10px 0;}
+.page-disc p {color: #FFF;max-width: 510px;line-height: 26px;max-height: 180px;overflow: hidden;}
+.bred-crum {background: #ededed;height: 37px;}
+.bred-crum ul {}
+.bred-crum li {display: inline;}
+.bred-crum li a { padding: 8px 15px; font-size: 14px; color: #313131; display: inline-block; background: url(../images/bred-pic.png) left 15px no-repeat;}
+.bred-crum li:first-child a { padding-left: 0;  background: none}
+.section-side { padding-right: 42px;}
+.section-title { color: #4491e1;font-size: 20px;margin: 30px 0 15px 0;}
+.section-side ul { }
+.section-side ul li { list-style: none;background: url(../images/bred-pic.png) 11px 15px no-repeat;border-top: 1px solid #bbbbbb;}
+.section-side ul li:first-child { border: 0;}
+.section-side ul li a { color: #515151;padding: 9px 10px 9px 25px;display: block;font-size: 14px;}
+.section-side .active {background: url(../images/arrow-white.png) 11px 15px no-repeat #4491E1; border: 0}
+.section-side .active + li {border: 0}
+.section-side .active a {color: #FFF}
+.sperator-side { height: 1px; background: #b1b1b1; margin: 20px 0;}
+.help-side h2 { color: #4491e1; font-size: 18px;margin: 30px 0 20px 0;}
+.content { padding: 0 0 80px 0;}
+.content-text p { line-height: 26px;}
+.content-text p a {color: #4491E1;}
+.content-text h1 {color: #4491e1;margin: 30px 0 15px 0;font-size: 20px;}
+.blue-wrap { position: relative;}
+.shape-text { position: relative; position: absolute; height: 0px; width: 0px; border-top: 10px solid #21A6DF; border-left: 10px solid #21A6DF; border-right: 10px solid transparent; border-bottom: 10px solid transparent; z-index: 111111111111111; left: 0; bottom: -73px;}
+.pdf-button:hover { background: #3FBEF5;}
+.carousel-caption input:hover {    background: rgba(37, 181, 243, 0.8);}
+.menu-footer li a:hover { color: #FFF;}
+.footer-button:hover {background: #505050;}
 @media (max-width: 1600px) {
 .carousel-caption {padding-top: 10px !important;}
 .carousel-caption input {margin: 50px 0 20px 0 !important;}
@@ -182,46 +223,5 @@ header a { color: #FFF; }
     .services-title {font-size: 22px;}
     .product-header h2 {font-size: 22px;}
 }
-.navbar-default .navbar-collapse, .navbar-default .navbar-form { border: 0; }
-.carousel-caption { text-align: left; top: 0; padding-top: 70px; }
-.carousel-caption h1 { color: #21a6df; font-family: 'neotechalt-bold'; text-shadow: none; font-size: 36px; }
-.carousel-caption h4 { font-size: 26px;color: #4c4c4c;text-shadow: none;max-width: 690px;line-height: 34px;margin: 15px 0 11px 0;}
-.carousel-caption span { font-size: 18px;color: #333;text-shadow: none;font-family: 'neotechalt-bold';display: block;}
-.carousel-caption p { font-size: 20px;text-shadow: none;font-style: italic;float: left;display: inherit;max-width: 1110px;}
-.carousel-caption input { display: block; border: 0;background: rgba(33, 166, 223, 0.8);padding: 8px 30px;margin: 160px 0 20px 0;-webkit-border-radius: 5px;  -moz-border-radius: 5px;  border-radius: 5px;}
-.navbar-default .navbar-toggle .icon-bar {background-color: #FFF;}
-.navbar-default .navbar-toggle {border-color: #FFF;}
-.fa.fa-quote-left {font-size: 22px;margin: 0 10px 0 0;}
-.fa.fa-quote-right {font-size: 22px;margin: 0px 10px 0 14px;}
-.arrow-down { position: absolute;bottom: 73px;left: 0;width: 100%;text-align: center;}
-.fa-angle-double-down { color: #FFF; font-size: 54px !important;}
-.page-disc {height: 341px;}
-.page-disc h1 {color: #FFF;font-size: 25px;margin: 77px 0 10px 0;}
-.page-disc p {color: #FFF;max-width: 510px;line-height: 26px;max-height: 180px;overflow: hidden;}
-.bred-crum {background: #ededed;height: 37px;}
-.bred-crum ul {}
-.bred-crum li {display: inline;}
-.bred-crum li a { padding: 8px 15px; font-size: 14px; color: #313131; display: inline-block; background: url(../images/bred-pic.png) left 15px no-repeat;}
-.bred-crum li:first-child a { padding-left: 0;  background: none}
-.section-side { padding-right: 42px;}
-.section-title { color: #4491e1;font-size: 20px;margin: 30px 0 15px 0;}
-.section-side ul { }
-.section-side ul li { list-style: none;background: url(../images/bred-pic.png) 11px 15px no-repeat;border-top: 1px solid #bbbbbb;}
-.section-side ul li:first-child { border: 0;}
-.section-side ul li a { color: #515151;padding: 9px 10px 9px 25px;display: block;font-size: 14px;}
-.section-side .active {background: url(../images/arrow-white.png) 11px 15px no-repeat #4491E1; border: 0}
-.section-side .active + li {border: 0}
-.section-side .active a {color: #FFF}
-.sperator-side { height: 1px; background: #b1b1b1; margin: 20px 0;}
-.help-side h2 { color: #4491e1; font-size: 18px;margin: 30px 0 20px 0;}
-.content { padding: 0 0 80px 0;}
-.content-text p { line-height: 26px;}
-.content-text p a {color: #4491E1;}
-.content-text h1 {color: #4491e1;margin: 30px 0 15px 0;font-size: 20px;}
-.blue-wrap { position: relative;}
-.shape-text { position: relative; position: absolute; height: 0px; width: 0px; border-top: 10px solid #21A6DF; border-left: 10px solid #21A6DF; border-right: 10px solid transparent; border-bottom: 10px solid transparent; z-index: 111111111111111; left: 0; bottom: -73px;}
-.pdf-button:hover { background: #3FBEF5;}
-.carousel-caption input:hover {    background: rgba(37, 181, 243, 0.8);}
-.menu-footer li a:hover { color: #FFF;}
-.footer-button:hover {background: #505050;}
+
 

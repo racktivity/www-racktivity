@@ -1,151 +1,29 @@
-
-<!--
-      <div class="intro-block intro-slider-block light-bg">
-      
-        
-        <div class="container cont-main">
-        
-          
-          <div class="row">
-          
-            
-            <div class="col-xs-10 col-sm-10 col-md-9">
-            
-              
-              <div class="intro-slider">
-              
-                
-                <div class="bxslider" data-call="bxslider" data-options="{controls:false, pagerCustom: '#intro-pager'}">
-                  
-                  
-                  <div class="slide">
-                    
-                    <div class="text">
-                      <small class="pcolor case-u bx-layer" data-anim="slideInDown" data-dur="1000" data-delay="400">{{.Params.slide1_title_small}}</small>
-                      <h1 class="bx-layer case-u" data-anim="slideInDown" data-dur="1000" data-delay="200" >{{.Params.slide1_title_large}}</h1>
-                      <p class="bx-layer" data-anim="slideInDown" data-dur="1000" data-delay="0" >{{.Params.slide1_text}}</p>
-                      <a href="{{.Params.slide1_more_link}}" class="btn btn-primary no-border btn-bigger bx-layer" data-anim="slideInUp" data-dur="1000" data-delay="600">{{.Params.slide1_button}}</a>
-                    </div>
-                    
-                    <img class="img-main" src="{{.Params.slide1_pic}}" alt=""/>
-                  </div>
-                  
-                  
-                  
-                  <div class="slide">
-                    
-                    <div class="text">
-                      <small class="pcolor case-u bx-layer" data-anim="slideInDown" data-dur="1000" data-delay="400">{{.Params.slide2_title_small}}</small>
-                      <h1 class="bx-layer case-u" data-anim="slideInDown" data-dur="1000" data-delay="200" >{{.Params.slide2_title_large}}</h1>
-                      <p class="bx-layer" data-anim="slideInDown" data-dur="1000" data-delay="0" >{{.Params.slide2_text}}</p>
-                      <a href="{{.Params.slide2_more_link}}" class="btn btn-primary no-border btn-bigger bx-layer" data-anim="slideInUp" data-dur="1000" data-delay="600">{{.Params.slide2_button}}</a>
-                    </div>
-                    
-                    <img class="img-main" src="{{.Params.slide2_pic}}" alt=""/>
-                  </div>
-                  
-                  
-                  
-                  <div class="slide">
-                    
-                    <div class="text">
-                      <small class="pcolor case-u bx-layer" data-anim="slideInDown" data-dur="1000" data-delay="400">{{.Params.slide3_title_small}}</small>
-                      <h1 class="bx-layer case-u" data-anim="slideInDown" data-dur="1000" data-delay="200" >{{.Params.slide3_title_large}}</h1>
-                      <p class="bx-layer" data-anim="slideInDown" data-dur="1000" data-delay="0" >{{.Params.slide3_text}}</p>
-                      <a href="{{.Params.slide3_more_link}}" class="btn btn-primary no-border btn-bigger bx-layer" data-anim="slideInUp" data-dur="1000" data-delay="600">{{.Params.slide3_button}}</a>
-                    </div>
-                    
-                    <img class="img-main" src="{{.Params.slide3_pic}}" alt=""/>
-                  </div>
-                  
-                  
-                  
-                  <div class="slide">
-                    
-                    <div class="text">
-                      <small class="pcolor case-u bx-layer" data-anim="slideInDown" data-dur="1000" data-delay="400">{{.Params.slide4_title_small}}</small>
-                      <h1 class="bx-layer case-u" data-anim="slideInDown" data-dur="1000" data-delay="200" >{{.Params.slide4_title_large}}</h1>
-                      <p class="bx-layer" data-anim="slideInDown" data-dur="1000" data-delay="0" >{{.Params.slide4_text}}</p>
-                      <a href="{{.Params.slide4_more_link}}" class="btn btn-primary no-border btn-bigger bx-layer" data-anim="slideInUp" data-dur="1000" data-delay="600">{{.Params.slide4_button}}</a>
-                    </div>
-                    
-                    <img class="img-main" src="{{.Params.slide4_pic}}" alt=""/>
-                  </div>
-                  
-                  
-                </div>
-                
-                
-              </div>
-              
-              
-            </div>
-            
-            
-            
-            <div class="col-xs-2 col-sm-2 col-md-3">
-              <div class="pager-block vcenter">
-                <div class="vcenter-this">
-                  
-                  <div id="intro-pager" class="tab-pager">
-                    <a data-slide-index="0" href="#"><i class="icon fa  fa-apple"></i><span>{{.Params.slide1_title_main_button}}</span></a>
-                    <a data-slide-index="1" href="#"><i class="icon fa fa-folder"></i><span>{{.Params.slide2_title_main_button}}</span></a>
-                    <a data-slide-index="2" href="#"><i class="icon fa fa-rocket"></i><span>{{.Params.slide3_title_main_button}}</span></a>
-                    <a data-slide-index="3" href="#"><i class="icon fa fa-desktop"></i><span>{{.Params.slide4_title_main_button}}</span></a>
-                  </div>
-                  
-                </div>
-              </div>
-            </div>
-            
-            
-          </div>
-          
-        </div>
-        
-      
-      </div>
-      
- -->  
-      
-{{ range $element :=  .Site.Pages }}
+      {{ range $element :=  .Site.Pages }}
 {{ if eq .Section "home" }}
 {{ if eq .Title "intro_slider_box" }}
-                                   
+
 <div class="slider">
   <div id="carousel-example-generic" class="carousel slide" data-ride="carousel"> 
-    <!-- Indicators
-    <ol class="carousel-indicators">
-      <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-      <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-    </ol> -->
-    
-    <!-- Wrapper for slides -->
+ <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
-      <div class="item active"> <img src="images/slider1.jpg" alt="">
+      <div class="item active"> <img src="{{.Params.slider1_pic}}" alt="">
         <div class="carousel-caption">
-          <h1>Racktivity animated data center floor plan</h1>
-          <h4>Want to find out where the Racktivity products go in your 
-            data center?! .. Check out our data center 
-            floor plane and find out.</h4>
-          <span>LEARN ABOUT OUR NEW MOBILE APP</span>
-          <input type="button" value="WATCH A DEMO">
+          <h1>{{.Params.slider1_text1}}</h1>
+          <h4>{{.Params.slider1_text2}}</h4>
+          <span>{{.Params.slider1_text3}}</span>
+          <input type="button" value="{{.Params.slider1_button}}">
           
-          <p><i class="fa fa-quote-left"></i>I've been in the sustainability field for more than 10 years, I've seen numerous solutions comeand go, but Panoramic
-Power has a solution that works, and works really well.<i class="fa fa-quote-right"></i></p>
+          <p><i class="fa fa-quote-left"></i>{{.Params.slider1_text4}}<i class="fa fa-quote-right"></i></p>
            </div>
       </div>
-      <div class="item"> <img src="images/slider1.jpg" alt="">
+      <div class="item"> <img src="{{.Params.slider2_pic}}" alt="">
         <div class="carousel-caption">
-          <h1>Racktivity animated data center floor plan</h1>
-          <h4>Want to find out where the Racktivity products go in your 
-            data center?! .. Check out our data center 
-            floor plane and find out.</h4>
-          <span>LEARN ABOUT OUR NEW MOBILE APP</span>
-          <input type="button" value="WATCH A DEMO">
+          <h1>{{.Params.slider2_text1}}</h1>
+          <h4>{{.Params.slider2_text2}}</h4>
+          <span>{{.Params.slider2_text3}}</span>
+          <input type="button" value="{{.Params.slider2_button}}">
           
-          <p><i class="fa fa-quote-left"></i>I've been in the sustainability field for more than 10 years, I've seen numerous solutions comeand go, but Panoramic
-Power has a solution that works, and works really well.<i class="fa fa-quote-right"></i></p>
+          <p><i class="fa fa-quote-left"></i>{{.Params.slider2_text4}}<i class="fa fa-quote-right"></i></p>
            </div>
       </div>
       <div class="arrow-down">

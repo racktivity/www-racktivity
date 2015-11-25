@@ -53,73 +53,51 @@
 <!-- Content Block
       ============================================ -->
 
-      {{ range $element :=  .Data.Pages }}
-                  {{ if eq .Section "home" }}
-                      {{ if eq .Title "product" }}
-      <section class="content-block default-bg">
-      
-        <!-- Container -->
-        <div class="container cont-main">
-
-          
-          <!-- Section Title -->
-          <div class="section-title">
-            <h2>{{ .Params.header}}</h2>
-            <p>{{ .Params.summary}}</p>
-          </div>
-          <!-- /Section Title -->
-          
-          <!-- Row -->
-          <div class="row">
-          
-            <!-- Col -->
-            <div class="col-sm-6 col-md-4">
-              <!-- hfeat -->
-              <div class="service hfeat hfeat-md">
-                <i class="icon ti-{{ .Params.block1_icon}}" ></i>
-                <a class="title">{{ .Params.block1_title_strong}}</a>
-                <p class="text">{{ .Params.block1_text}}</p>
-                <a class="more-link"><a href="{{.Params.block1_link}}">{{.Params.block1_text_link}}<i class="icon-right ti ti-arrow-right"></i></a>
-              </div>
-              <!-- /hfeat -->
-            </div>
-            <!-- /Col -->
-            
-            <!-- Col -->
-            <div class="col-sm-6 col-md-4">
-              <!-- hfeat -->
-              <div class="service hfeat hfeat-md">
-                <i class="icon ti-{{ .Params.block2_icon}}" ></i>
-                <a class="title">{{ .Params.block2_title_strong}}</a>
-                <p class="text">{{ .Params.block2_text}} </p>
-                <a class="more-link"><a href="{{.Params.block2_link}}">{{.Params.block2_text_link}}<i class="icon-right ti ti-arrow-right"></i></a>
-              </div>
-              <!-- /hfeat -->
-            </div>
-            <!-- /Col -->
-            
-            <!-- Col -->
-            <div class="col-sm-6 col-md-4">
-              <!-- hfeat -->
-              <div class="service hfeat hfeat-md">
-                <i class="icon ti-{{ .Params.block3_icon}}" ></i>
-                <a class="title">{{ .Params.block3_title_strong}}</a>
-                <p class="text">{{ .Params.block3_text}} </p>
-                <a class="more-link"><a href="{{.Params.block3_link}}">{{.Params.block3_text_link}}<i class="icon-right ti ti-arrow-right"></i></a>
-              </div>
-              <!-- /hfeat -->
-            </div>
-            <!-- /Col -->
-          
-          
-          </div>
-          <!-- /Row -->
-        
+{{ range $element :=  .Data.Pages }}
+{{ if eq .Section "home" }}
+{{ if eq .Title "product" }}
+      <section class="Product-part">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 product-title">
+        <div class="product-header">
+          <h2>OUR PRODUCT</h2>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero quod consequuntur quibusdam, enim <br />
+            expedita sed quia nesciunt incidunt accusamus necessitatibus modi adipisci officia libero <br />
+            accusantium esse hic, obcaecati, ullam, laboriosam!</p>
         </div>
-        <!-- /Container -->
-      </section>
-      <!-- /Content Block
-      ============================================-->
+      </div>
+      <div class="col-md-6 text-center box-product">
+        <div class="product-icon"> <i class="fa fa-server"></i> </div>
+        <div class="product-panel">
+          <h4>Rack power management</h4>
+          <p>Racktivity EnergySwitch Smart PDUs equips your data center with the industry’s most advanced metering and switching capability.</p>
+        </div>
+      </div>
+      <div class="col-md-6 text-center box-product">
+        <div class="product-icon"> <i class="fa fa-server"></i> </div>
+        <div class="product-panel">
+          <h4>Rack power management</h4>
+          <p>Racktivity EnergySwitch Smart PDUs equips your data center with the industry’s most advanced metering and switching capability.</p>
+        </div>
+      </div>
+      <div class="col-md-6 text-center box-product">
+        <div class="product-icon"> <i class="fa fa-server"></i> </div>
+        <div class="product-panel">
+          <h4>Rack power management</h4>
+          <p>Racktivity EnergySwitch Smart PDUs equips your data center with the industry’s most advanced metering and switching capability.</p>
+        </div>
+      </div>
+      <div class="col-md-6 text-center box-product">
+        <div class="product-icon"> <i class="fa fa-server"></i> </div>
+        <div class="product-panel">
+          <h4>Rack power management</h4>
+          <p>Racktivity EnergySwitch Smart PDUs equips your data center with the industry’s most advanced metering and switching capability.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 {{end}}
 {{end}}
 {{end}}

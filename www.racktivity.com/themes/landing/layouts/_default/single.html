@@ -1,0 +1,55 @@
+{{ partial "head.html" . }}
+
+	<body class="no-trans front-page transparent-header ">
+	    <div class="scrollToTop circle"><i class="icon-up-open-big"></i></div>
+	        <div class="page-wrapper">
+			{{ partial "header.html" . }}
+				<div id="wrap">
+				
+					<section class="page-title">
+				<div class="container">
+
+					<header>
+
+						<ul class="breadcrumb">
+							<li><a href="/">Home</a></li>
+							<li class="active">{{title .Section}}</li>
+						</ul>
+
+						<h2>
+							{{ .Title }}
+						</h2>
+
+					</header>
+
+				</div>			
+			</section>
+
+
+				<div class="main-container" id="main">
+					<div class="container page-container">
+						<p>{{ .Content }}</p>
+					</div>
+				</div>
+			</div>
+			{{ partial "footer.html" . }}
+			</div>
+			<script type="text/javascript" src="/plugins/jquery-2.1.4.min.js"></script>
+		<script type="text/javascript" src="/plugins/jquery.isotope.js"></script>
+		<script type="text/javascript" src="/plugins/masonry.js"></script>
+
+		<script type="text/javascript" src="/plugins/bootstrap/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+		<script type="text/javascript" src="/plugins/owl-carousel/owl.carousel.min.js"></script>
+		<script type="text/javascript" src="/plugins/knob/js/jquery.knob.js"></script>
+		<script type="text/javascript" src="/plugins/flexslider/jquery.flexslider-min.js"></script>
+
+		<!-- REVOLUTION SLIDER -->
+		<script type="text/javascript" src="/plugins/revolution-slider/js/jquery.themepunch.tools.min.js"></script>
+		<script type="text/javascript" src="/plugins/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
+		<script type="text/javascript" src="/js/revolution_slider.js"></script>
+		
+
+		<script type="text/javascript" src="/js/scripts.js"></script>
+	</body>
+</html>

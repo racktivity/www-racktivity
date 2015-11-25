@@ -1,0 +1,173 @@
+{{ range $element :=  .Data.Pages }}
+   {{ if eq .Section "home" }}
+       {{ if eq .Title "second_section" }}
+					<section id="work" class="content-block tab-slider tab-layout bcolor-bg">
+
+					  <!-- Container (for alignment)-->
+					  <div class="container page-align nav-cont">
+					    <!-- Nav Block -->
+					    <nav class="nav-panel">
+					      <div class="vcenter">
+
+					        <div class="vcenter-this">
+					        <!-- Tab Pager -->
+					          <div id="projects-pager" class="img-links clearfix">
+					            <a data-slide-index="0" href="#"><div class="wrapper"><span><i class="icon">1</i></span><img src="{{ .Params.slide1_image }}" alt="pic"/></div></a>
+					            <a data-slide-index="1" href="#"><div class="wrapper"><span><i class="icon">2</i></span><img src="{{ .Params.slide2_image }}" alt="pic"/></div></a>
+					            <a data-slide-index="2" href="#"><div class="wrapper"><span><i class="icon">3</i></span><img src="{{ .Params.slide3_image }}" alt="pic"/></div></a>
+					            <a data-slide-index="3" href="#"><div class="wrapper"><span><i class="icon">4</i></span><img src="{{ .Params.slide4_image }}" alt="pic"/></div></a>
+					          </div>
+					          <!-- /Tab Pager -->
+					          </div>
+					      </div>
+
+					    </nav>
+					    <!-- /Nav Block -->
+
+
+					  </div>
+					  <!-- /Container -->
+
+					  <div class="bx-controls-box bx-controls-bottom-right">
+					  <!-- BxSlider -->
+					  <div class="bxslider" data-call="bxslider" data-bxid="projectsSlider" data-options="{pagerCustom:'#projects-pager', controls:false}" data-breaks="[{screen:0, mode:'horizontal', controls:true}, {screen:992, mode: 'vertical'}]">
+					    <!-- Tab 1-->
+					    <div class="tab">
+					      <!-- Pic -->
+					      <div class="pic-panel">
+					        <img src="{{ .Params.slide1_image }}" alt="pic"/>
+					      </div>
+					      <!-- /Pic -->
+					      <!-- Icon -->
+					      <div class="tab-icon">
+					        <i class="icon ti ti-{{ .Params.slide1_icon }}"></i>
+					      </div>
+					      <!-- /Icon -->
+					      <!-- Container (for alignment) -->
+					      <div class="container page-align">
+					        <!-- Text -->
+					        <div class="text-panel">
+					          <div class="info vcenter">
+					            <div class="vcenter-this">
+
+					              <a class="case-u categ"><small>{{ .Params.slide1_category }}</small></a>
+					              <h4>{{ .Params.slide1_title }}</h4>
+					              <p>{{ .Params.slide1_text }}</p>
+					              <a class="btn btn-primary hidden-xs" href="{{ .Params.slide1_link }}">read more</a>
+
+					            </div>
+					          </div>
+					        </div>
+					         <!-- /Text -->
+					      </div>
+					      <!-- /Container -->
+					    </div>
+					    <!-- /Tab 1 -->
+
+					    <!-- Tab 2 -->
+					    <div class="tab">
+					      <!-- Pic -->
+					      <div class="pic-panel">
+					        <img src="{{ .Params.slide2_image }}" alt="pic"/>
+					      </div>
+					      <!-- /Pic -->
+					      <!-- Icon -->
+					      <div class="tab-icon">
+					        <i class="icon ti ti-{{ .Params.slide2_icon }}"></i>
+					      </div>
+					      <!-- /Icon -->
+					      <!-- Container (for alignment) -->
+					      <div class="container page-align">
+					        <!-- Text -->
+					        <div class="text-panel">
+					          <div class="info vcenter">
+					            <div class="vcenter-this">
+
+					              <a class="case-u categ"><small>{{ .Params.slide2_category }}</small></a>
+					              <h4>{{ .Params.slide2_title }}</h4>
+					              <p>{{ .Params.slide2_text }}</p>
+					              <a class="btn btn-white hidden-xs" href="{{ .Params.slide2_link }}">read more</a>
+
+					            </div>
+					          </div>
+					        </div>
+					         <!-- /Text -->
+					      </div>
+					      <!-- /Container -->
+					    </div>
+					    <!-- /Tab 2 -->
+
+					    <!-- Tab 3 -->
+					    <div class="tab">
+					      <!-- Pic -->
+					      <div class="pic-panel">
+					        <img src="{{ .Params.slide3_image }}" alt="pic"/>
+					      </div>
+					      <!-- /Pic -->
+					      <!-- Icon -->
+					      <div class="tab-icon">
+					        <i class="icon ti ti-{{ .Params.slide3_icon }}"></i>
+					      </div>
+					      <!-- /Icon -->
+					      <!-- Container (for alignment) -->
+					      <div class="container page-align">
+					        <!-- Text -->
+					        <div class="text-panel">
+					          <div class="info vcenter">
+					            <div class="vcenter-this">
+
+					              <a class="case-u categ"><small>{{ .Params.slide3_category }}</small></a>
+					              <h4>{{ .Params.slide3_title }}</h4>
+					              <p>{{ .Params.slide3_text }}</p>
+					              <a class="btn btn-white hidden-xs" href="{{ .Params.slide3_link }}">read more</a>
+
+					            </div>
+					          </div>
+					        </div>
+					         <!-- /Text -->
+					      </div>
+					      <!-- /Container -->
+					    </div>
+					    <!-- /Tab 3 -->
+
+					    <!-- Tab 4 -->
+					    <div class="tab">
+					      <!-- Pic -->
+					      <div class="pic-panel">
+					        <img src="{{ .Params.slide4_image }}" alt="pic"/>
+					      </div>
+					      <!-- /Pic -->
+					      <!-- Icon -->
+					      <div class="tab-icon">
+					        <i class="icon ti ti-{{ .Params.slide4_icon }}"></i>
+					      </div>
+					      <!-- /Icon -->
+					      <!-- Container (for alignment) -->
+					      <div class="container page-align">
+					        <!-- Text -->
+					        <div class="text-panel">
+					          <div class="info vcenter">
+					            <div class="vcenter-this">
+
+					              <a class="case-u categ"><small>{{ .Params.slide4_category }}</small></a>
+					              <h4>{{ .Params.slide4_title }}</h4>
+					              <p>{{ .Params.slide4_text }}</p>
+					              <a class="btn btn-white hidden-xs" href="{{ .Params.slide4_link }}">read more</a>
+
+					            </div>
+					          </div>
+					        </div>
+					         <!-- /Text -->
+					      </div>
+					      <!-- /Container -->
+					    </div>
+					    <!-- /Tab 4 -->
+
+					  </div>
+					  <!-- /BxSlider -->
+					  </div>
+
+					</section>
+					{{ end }}
+			{{ end }}
+{{ end }}

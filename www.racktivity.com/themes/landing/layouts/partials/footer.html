@@ -1,59 +1,3 @@
-
-     <!--
-            <footer class="footer-block">
-            
-            
-              <div class="container main clearfix">
-              
-               
-                <div class="brand-col">
-                  <div class="brand">
-                    <img src="{{.Params.footer_logo}}" alt="logo"/>
-                  </div>
-                </div>
-                
-                <div class="links-col">
-               
-                  <div class="row-fluid">
-                    
-                    <div class="col-xs-6 col-sm-3 col-md-3 col-md-offset-3">
-                      <h5>{{ .Params.first_section}}</h5>
-                      <ul class="v-links">
-                        <li><a href="{{.Params.first_section_link1}}">{{.Params.first_section_title1}}</a></li>
-                        <li><a href="{{.Params.first_section_link2}}">{{.Params.first_section_title2}}</a></li>
-                        <li><a href="{{.Params.first_section_link3}}">{{.Params.first_section_title3}}</a></li>
-                        <li><a href="{{.Params.first_section_link4}}">{{.Params.first_section_title4}}</a></li>
-                      </ul>
-                    </div>
-                    
-                    <div class="col-xs-6 col-sm-3 col-md-3">
-                      <h5>{{ .Params.second_section}}</h5>
-                      <ul class="v-links">
-                        <li><a href="{{.Params.second_section_link1}}">{{.Params.second_section_title1}}</a></li>
-                        <li><a href="{{.Params.second_section_link2}}">{{.Params.second_section_title2}}</a></li>
-                        <li><a href="{{.Params.second_section_link3}}">{{.Params.second_section_title3}}</a></li>
-                        <li><a href="{{.Params.second_section_link4}}">{{.Params.second_section_title4}}</a></li>
-                        <li><a href="{{.Params.second_section_link5}}">{{.Params.second_section_title5}}</a></li>
-                        <li><a href="{{.Params.second_section_link6}}">{{.Params.second_section_title6}}</a></li>
-                      </ul>
-                    </div>
-                    
-                    <div class="col-xs-6 col-sm-3 col-md-3">
-                      <h5>member</h5>
-                      <ul class="v-links">
-                        <li><a href="{{.Params.third_section_link1}}">{{.Params.third_section_title1}}</a></li>
-                        <li><a href="{{.Params.third_section_link2}}">{{.Params.third_section_title2}}</a></li>
-                        <li><a href="{{.Params.third_section_link3}}">{{.Params.third_section_title3}}</a></li>
-                        <li><a href="{{.Params.third_section_link3}}">{{.Params.third_section_title4}}</a></li>
-                      </ul>
-                    </div>
-                    
-              
-              
-            </footer>
--->
-
-
 {{ range $element :=  $.Site.Pages }}
 {{ if eq .Section "home" }}
 {{ if eq .Title "footer_box" }}
@@ -62,7 +6,7 @@
     <div class="row">
       <div class="col-md-4">
         <div class="quiq-links">
-          <h3 class="footer-header">Quiq-links</h3>
+          <h3 class="footer-header">{{.Params.links_title}}</h3>
           <ul class="menu-footer">
             <li><a href="#">Home</a></li>
             <li><a href="#">Solutions</a></li>
@@ -77,22 +21,23 @@
       <div class="col-md-5">
         <div class="quiq-links">
           <h3 class="footer-header">Contact us</h3>
-          <h3>Reach us</h3>
-          <p>Contact Address will appear here, some text gonna appear here, Ney York City, - 10001, USA</p>
+          <h3>{{.Params.contact_title}}</h3>
+          <p>{{.Params.contact_address}}</p>
           <br>
-          <span><strong>Phone:</strong> 591 7890 123</span> <span><strong>Email:</strong> info@racktivity.com</span> </div>
+          <span><strong>Phone:</strong>{{.Params.contact_phone}}</span> <span><strong>Email:</strong>{{.Params.contact_email}}</span> </div>
       </div>
       <div class="col-md-3">
         <div class="quiq-links">
           <h3 class="footer-header">For more information</h3>
-          <p class="footer-info">For more information you can downlaod Our PDF for free .</p>
-          <input class="footer-button" type="button" value="Get a free PDF">
+          <p class="footer-info">{{.Params.info}}</p>
+          <input class="footer-button" type="button" value="{{.Params.button_text}}" onclick="window.location='{{.Params.button_link}}';">
+
         </div>
       </div>
     </div>
     <div class="row copyright">
       <div class="footer-side"></div>
-      <div class="col-md-6 nopadding copy-text"> Copyright 2015. All Rights Reserved by Racktivity. </div>
+      <div class="col-md-6 nopadding copy-text">{{.Params.copyright}} </div>
       <div class="col-md-6 links"> <span class="footer-shape"></span>
         <ul>
           <li><a href="#">Terms Of Use</a></li>

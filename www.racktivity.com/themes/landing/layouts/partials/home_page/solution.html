@@ -1,139 +1,49 @@
-<!--
-       <section class="content-block light-bg">
-        
-        <div class="container cont-main">
-
-
-          
-          <div class="section-title">
-            <h2>{{ .Params.header }}</h2>
-            <p>{{ .Params.summary }}</p>
-          </div>
-          
-
-          
-          <div class="row">
-
-            
-            <div class="col-sm-6 col-md-6">
-
-              <img  src="{{ .Params.solution_image }}">
-
-            </div>
-            
-
-            
-            <div class="col-sm-6 col-md-6 vspace-xs">
-              <h4>{{ .Params.second_header }}</h4>
-              <p>{{ .Params.second_summary }}</p>
-
-             
-              <div class="row">
-
-                
-                <div class="col-xs-12 col-sm-6 col-md-6">
-                  
-                  <ul class="vlinks vlinks-iconed vlinks-md">
-                    <li><i class="icon fa fa-{{ .Params.first_solution_icon }}"></i><a class="title" href="{{ .Params.first_solution_link }}">{{ .Params.first_solution_title }}</a><span class="meta">{{ .Params.first_solution_date }}</span></li>
-                    <li><i class="icon fa fa-{{ .Params.second_solution_icon }}"></i><a class="title" href="{{ .Params.second_solution_link }}">{{ .Params.second_solution_title }}</a><span class="meta">{{ .Params.second_solution_date }}</span></li>
-                  </ul>
-                  
-                </div>
-                
-
-                
-                <div class="col-xs-12 col-sm-6 col-md-6">
-                  
-                  <ul class="vlinks vlinks-iconed vlinks-md">
-                    <li><i class="icon fa fa-{{ .Params.third_solution_icon }}"></i><a class="title" href="{{ .Params.third_solution_link }}">{{ .Params.third_solution_title }}</a><span class="meta">{{ .Params.third_solution_date }}</span></li>
-                    <li><i class="icon fa fa-{{ .Params.fourth_solution_icon }}"></i><a class="title" href="{{ .Params.fourth_solution_link }}">{{ .Params.fourth_solution_title }}</a><span class="meta">{{ .Params.fourth_solution_date }}</span></li>
-                  </ul>
-                  
-                </div>
-                
-
-              </div>
-              
-
-            </div>
-            
-
-          </div>
-          
-
-        </div>
-        
-      </section>-->
 
 {{ range $element :=  .Data.Pages }}
 {{ if eq .Section "home" }}
-{{ if eq .Title "solution_section" }}
-       
+{{ if eq .Title "solution_section" }}      
 <section id="services" class="services">
   <div class="container ">
     <div class="row">
       <div class="col-md-12">
         <div class="css-shapes-preview">
           <div class="services-header">
-            <h2 class="services-title">OUR SERVICES</h2>
-            <p class="services-prag">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero quod consequuntur <br>
-              quibusdam,enim expedita sed quia nesciunt incidunt</p>
+            <h2 class="services-title">{{.Params.section_title}}</h2>
+            <p class="services-prag">{{.Params.section_disc}}</p>
           </div>
         </div>
       </div>
       <div class="col-md-6">
         <div class="top-left">
-          <h4>Rack power management</h4>
-          <p>Want to find out where the Racktivity products go in your 
-            data center?! find one in the store Want to find out where
-            the Racktivity products go in your data center?!<br>
-            find one in the store Want to find out where the Racktivity
-            products go in your data center?! find one in the store 
-            Want to  find out where the Racktivity products go in.</p>
-          <div class="panel-shape"> <i class="fa fa-server"></i> </div>
+          <h4>{{.Params.service1_title}}</h4>
+          <p>{{.Params.service1_disc}}</p>
+          <div class="panel-shape"> <i class="{{.Params.service1_icon}}"></i> </div>
         </div>
       </div>
       <div class="col-md-6">
         <div class="top-left">
-          <h4>Rack power management</h4>
-          <p>Want to find out where the Racktivity products go in your 
-            data center?! find one in the store Want to find out where
-            the Racktivity products go in your data center?!<br>
-            find one in the store Want to find out where the Racktivity
-            products go in your data center?! find one in the store 
-            Want to  find out where the Racktivity products go in.</p>
-          <div class="panel-shape"> <i class="fa fa-server"></i> </div>
+          <h4>{{.Params.service2_title}}</h4>
+          <p>{{.Params.service2_disc}}</p>
+          <div class="panel-shape"> <i class="{{.Params.service2_icon}}"></i> </div>
         </div>
       </div>
       <div class="col-md-6">
         <div class="top-left">
-          <h4>Rack power management</h4>
-          <p>Want to find out where the Racktivity products go in your 
-            data center?! find one in the store Want to find out where
-            the Racktivity products go in your data center?!<br>
-            find one in the store Want to find out where the Racktivity
-            products go in your data center?! find one in the store 
-            Want to  find out where the Racktivity products go in.</p>
-          <div class="panel-shape"> <i class="fa fa-server"></i> </div>
+          <h4>{{.Params.service3_title}}</h4>
+          <p>{{.Params.service3_disc}}</p>
+          <div class="panel-shape"> <i class="{{.Params.service3_icon}}"></i> </div>
         </div>
       </div>
       <div class="col-md-6">
         <div class="top-left">
-          <h4>Rack power management</h4>
-          <p>Want to find out where the Racktivity products go in your 
-            data center?! find one in the store Want to find out where
-            the Racktivity products go in your data center?!<br>
-            find one in the store Want to find out where the Racktivity
-            products go in your data center?! find one in the store 
-            Want to  find out where the Racktivity products go in.</p>
-          <div class="panel-shape"> <i class="fa fa-server"></i> </div>
+          <h4>{{.Params.service4_title}}</h4>
+          <p>{{.Params.service4_disc}}</p>
+          <div class="panel-shape"> <i class="{{.Params.service4_icon}}"></i> </div>
         </div>
       </div>
     </div>
   </div>
-</section>
-     
-      
+</section>           
 {{end}}
 {{end}}
 {{end}}

@@ -30,4 +30,5 @@ contact_text2 = "info@admain.com"
 contact_title3 = "WORKING HOURS"
 contact_text3 = "Mon - Sat 8.00 - 19.00"
 button_text = "Get a free PDF"
+button_link = "#"
 +++

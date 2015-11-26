@@ -2,32 +2,25 @@
 #Don't remove title!
 title = "solution_section"
 
-header = "Our Solution"
-summary = "We are experts in both desktop and mobile design."
+section_title = "OUR SERVICES"
+section_disc = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero quod consequuntur quibusdam,enim expedita sed quia nesciunt incidunt"
 
-solution_image = "/images/screen-7.png"
 
-second_header = "Award winning service delivery"
-second_summary = "Dorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+service1_title = "Rack power management"
+service1_disc = "Want to find out where the Racktivity products go in your data center?! find one in the store Want to find out where the Racktivity products go in your data center?! find one in the store Want to find out where the Racktivity products go in your data center?! find one in the store Want to  find out where the Racktivity products go in."
+service1_icon = "fa fa-server"
 
-first_solution_icon = "trophy"
-first_solution_title = "Quality Award"
-first_solution_link = "#"
-first_solution_date = "1st Oct 2012"
+service2_title = "Rack power management"
+service2_disc = "Want to find out where the Racktivity products go in your  data center?! find one in the store Want to find out where the Racktivity products go in your data center?! find one in the store Want to find out where the Racktivity products go in your data center?! find one in the store  Want to  find out where the Racktivity products go in."
+service2_icon = "fa fa-server"
 
-second_solution_icon = "bookmark"
-second_solution_title = "ISO Certification"
-second_solution_link = "#"
-second_solution_date = "1st Oct 2013"
+service3_title = "Rack power management"
+service3_disc = "Want to find out where the Racktivity products go in your  data center?! find one in the store Want to find out where the Racktivity products go in your data center?! find one in the store Want to find out where the Racktivity products go in your data center?! find one in the store  Want to  find out where the Racktivity products go in."
+service3_icon = "fa fa-server"
 
-third_solution_icon = "cc"
-third_solution_title = "Company Recognition"
-third_solution_link = "#"
-third_solution_date = "1st Oct 2014"
+service4_title = "Rack power management"
+service4_disc = "Want to find out where the Racktivity products go in your  data center?! find one in the store Want to find out where the Racktivity products go in your data center?! find one in the store Want to find out where the Racktivity products go in your data center?! find one in the store  Want to  find out where the Racktivity products go in."
+service4_icon = "fa fa-server"
 
-fourth_solution_icon = "globe"
-fourth_solution_title = "Weby Awards"
-fourth_solution_link = "#"
-fourth_solution_date = "1st Oct 2015"
 
 +++

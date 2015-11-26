@@ -1,55 +1,72 @@
 {{ partial "head.html" . }}
-
-	<body class="no-trans front-page transparent-header ">
-	    <div class="scrollToTop circle"><i class="icon-up-open-big"></i></div>
-	        <div class="page-wrapper">
-			{{ partial "header.html" . }}
-				<div id="wrap">
-				
-					<section class="page-title">
-				<div class="container">
-
-					<header>
-
-						<ul class="breadcrumb">
-							<li><a href="/">Home</a></li>
-							<li class="active">{{title .Section}}</li>
-						</ul>
-
-						<h2>
-							{{ .Title }}
-						</h2>
-
-					</header>
-
-				</div>			
-			</section>
+<body>
+{{ partial "header.html" . }}
 
 
-				<div class="main-container" id="main">
-					<div class="container page-container">
-						<p>{{ .Content }}</p>
-					</div>
-				</div>
-			</div>
-			{{ partial "footer.html" . }}
-			</div>
-			<script type="text/javascript" src="/plugins/jquery-2.1.4.min.js"></script>
-		<script type="text/javascript" src="/plugins/jquery.isotope.js"></script>
-		<script type="text/javascript" src="/plugins/masonry.js"></script>
 
-		<script type="text/javascript" src="/plugins/bootstrap/js/bootstrap.min.js"></script>
-		<script type="text/javascript" src="/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
-		<script type="text/javascript" src="/plugins/owl-carousel/owl.carousel.min.js"></script>
-		<script type="text/javascript" src="/plugins/knob/js/jquery.knob.js"></script>
-		<script type="text/javascript" src="/plugins/flexslider/jquery.flexslider-min.js"></script>
+<section class="page-disc" style="background: url({{.Params.section_pic}}) center center no-repeat">
+<div class="container">
+  <div class="row">
+    <div class="col-md-12"><h1>{{.Title}}</h1>
+      <p>
+      {{.Params.page_disc}}
+      
+      </p>
+    </div>
+  </div>
+</div>
+  
+</section>
+<section class="bred-crum">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">{{title .Section}}</a></li>
 
-		<!-- REVOLUTION SLIDER -->
-		<script type="text/javascript" src="/plugins/revolution-slider/js/jquery.themepunch.tools.min.js"></script>
-		<script type="text/javascript" src="/plugins/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
-		<script type="text/javascript" src="/js/revolution_slider.js"></script>
-		
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="content">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 section-side">
+        <h1 class="section-title">{{title .Section}}</h1>
+        <ul>          
+        {{ range $element := where .Site.Pages "Section" .Section }}
+	        <li><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
+	    {{ end }}   
+        </ul>
+        <div class="sperator-side"></div>
+        <div class="help-side">
+          
+        <h2>Can we help?</h2>
+        Want to find out more how the Racktivity solutions can benefit your as a system integrator?<br><br>
 
-		<script type="text/javascript" src="/js/scripts.js"></script>
-	</body>
+        Send us an e-mail or give us a call, we will be happy to help!<br><br>
+        
+
+        T: +32 9 324 20 90<br>
+        M: sales@racktivity.com</div>
+        
+      </div>
+      <div class="col-md-9 content-text">
+        <h1>
+          {{ .Title }}
+        </h1>
+        <p>{{ .Content }}</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+{{ partial "footer.html" . }}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
+<script src="/js/bootstrap.min.js"></script>
+</body>
 </html>

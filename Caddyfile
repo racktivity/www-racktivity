@@ -1,4 +1,4 @@
-http://gig-hypergrid:8347 {
+http://gig-racktivity:8347 {
     bind 0.0.0.0
     gzip
     root www.racktivity.com

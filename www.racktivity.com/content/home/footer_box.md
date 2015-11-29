@@ -2,60 +2,13 @@
 #Don't remove name!
 title = "footer_box"
 
-footer_logo = "/images/logo-footer.png"
-
-first_section = "guest"
-
-first_section_title1 = "login"
-first_section_link1 = "#"
-
-first_section_title2 = "sign up"
-first_section_link2 = "#"
-
-first_section_title3 = "customer support"
-first_section_link3 = "#"
-
-first_section_title4 = "information"
-first_section_link4 = "#"
-
-
-
-
-second_section = "information"
-
-second_section_title1 = "About Us"
-second_section_link1 = "#"
-
-second_section_title2 = "Delivery Informations"
-second_section_link2 = "#"
-
-second_section_title3 = "Terms and conditions"
-second_section_link3 = "#"
-
-second_section_title4 = "Return Policy"
-second_section_link4 = "#"
-
-second_section_title5 = "Shipping and Deliveries"
-second_section_link5 = "#"
-
-second_section_title6 = "Enquiries"
-second_section_link6 = "#"
-
-
-third_section = "member"
-
-third_section_title1 = "Account"
-third_section_link1 = "#"
-
-third_section_title2 = "Wishlist and Favourites"
-third_section_link2 = "#"
-
-third_section_title3 = "Purchase History"
-third_section_link3 = "#"
-
-third_section_title4 = "View Cart"
-third_section_link4 = "#"
-
-
-copy_right = "© 2015 Your Corporation. Theme by Rahisi Themes."
+links_title = "Quick-links"
+contact_title = "Reach us"
+contact_address = "Contact Address will appear here, some text gonna appear here, Ney York City, - 10001, USA"
+contact_phone =  "591 7890 123"
+contact_email = "info@racktivity.com"
+info = "For more information you can downlaod Our PDF for free ."
+button_text = "Get a free PDF"
+button_link = "#"
+copyright = "Copyright 2015. All Rights Reserved by Racktivity."
 +++

@@ -1,6 +1,6 @@
 +++
 #Don't remove title!
-title = "solution_section"
+title = "our_services"
 
 section_title = "OUR SERVICES"
 section_disc = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero quod consequuntur quibusdam,enim expedita sed quia nesciunt incidunt"

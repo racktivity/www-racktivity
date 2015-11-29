@@ -1,0 +1,31 @@
+
+{{ range $element :=  .Data.Pages }}
+  {{ if eq .Section "home" }}
+    {{ if eq .Title "about_racktivity" }}
+      <section class="container-fluid media-part">
+        <div class="row">
+          <div class="col-md-6 video-side nopadding">
+            <div class="media"> <a href="#"><img src="images/media.jpg"></a> </div>
+          </div>
+          <div class="col-md-6 black-part nopadding">
+            <div class="about-us">
+              <h4 class="small-header">{{.Params.first_header}}</h4>
+              <h2 class="big-header">{{.Params.second_header}}</h2>
+              <div class="sperator"></div>
+              <p class="media-text">{{.Params.first_text}}</p>
+              <div class="blue-part">
+                
+                  <p>{{.Params.second_text}}</p>
+
+               
+              </div>
+              <span class="shape-text"></span>
+            </div>
+            <div class="optimize"> <strong>{{.Params.strong_header}}</strong> {{.Params.third_text}}</div>
+          </div>
+        </div>
+      </section> 
+    					
+    {{ end }}
+  {{ end }}
+{{ end }}

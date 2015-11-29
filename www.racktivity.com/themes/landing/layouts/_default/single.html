@@ -1,21 +1,17 @@
 {{ partial "head.html" . }}
 <body>
 {{ partial "header.html" . }}
-
-
-
 <section class="page-disc" style="background: url({{.Params.section_pic}}) center center no-repeat">
 <div class="container">
   <div class="row">
     <div class="col-md-12"><h1>{{.Title}}</h1>
       <p>
-      {{.Params.page_disc}}
-      
+        {{.Params.page_disc}}
       </p>
     </div>
   </div>
 </div>
-  
+
 </section>
 <section class="bred-crum">
   <div class="container">
@@ -24,7 +20,6 @@
         <ul>
           <li><a href="#">Home</a></li>
           <li><a href="#">{{title .Section}}</a></li>
-
         </ul>
       </div>
     </div>
@@ -35,23 +30,11 @@
     <div class="row">
       <div class="col-md-3 section-side">
         <h1 class="section-title">{{title .Section}}</h1>
-        <ul>          
-        {{ range $element := where .Site.Pages "Section" .Section }}
-	        <li><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
-	    {{ end }}   
+        <ul>
+          {{ range $element := where .Site.Pages "Section" .Section }}
+	         <li><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
+	        {{ end }}
         </ul>
-        <div class="sperator-side"></div>
-        <div class="help-side">
-          
-        <h2>Can we help?</h2>
-        Want to find out more how the Racktivity solutions can benefit your as a system integrator?<br><br>
-
-        Send us an e-mail or give us a call, we will be happy to help!<br><br>
-        
-
-        T: +32 9 324 20 90<br>
-        M: sales@racktivity.com</div>
-        
       </div>
       <div class="col-md-9 content-text">
         <h1>
@@ -62,11 +45,8 @@
     </div>
   </div>
 </section>
-
-
-
 {{ partial "footer.html" . }}
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 </body>
 </html>

@@ -1,7 +1,7 @@
 
 {{ range $element :=  .Data.Pages }}
 {{ if eq .Section "home" }}
-{{ if eq .Title "our_services" }}      
+{{ if eq .Title "solution_section" }}
 <section id="services" class="services">
   <div class="container ">
     <div class="row">
@@ -17,33 +17,33 @@
         <div class="top-left">
           <h4>{{.Params.service1_title}}</h4>
           <p>{{.Params.service1_disc}}</p>
-          <div class="panel-shape"> <i class="{{.Params.service1_icon}}"></i> </div>
+          <div class="panel-shape"> <i class="fa fa-{{.Params.service1_icon}}"></i> </div>
         </div>
       </div>
       <div class="col-md-6">
         <div class="top-left">
           <h4>{{.Params.service2_title}}</h4>
           <p>{{.Params.service2_disc}}</p>
-          <div class="panel-shape"> <i class="{{.Params.service2_icon}}"></i> </div>
+          <div class="panel-shape"> <i class="fa fa-{{.Params.service2_icon}}"></i> </div>
         </div>
       </div>
       <div class="col-md-6">
         <div class="top-left">
           <h4>{{.Params.service3_title}}</h4>
           <p>{{.Params.service3_disc}}</p>
-          <div class="panel-shape"> <i class="{{.Params.service3_icon}}"></i> </div>
+          <div class="panel-shape"> <i class="fa fa-{{.Params.service3_icon}}"></i> </div>
         </div>
       </div>
       <div class="col-md-6">
         <div class="top-left">
           <h4>{{.Params.service4_title}}</h4>
           <p>{{.Params.service4_disc}}</p>
-          <div class="panel-shape"> <i class="{{.Params.service4_icon}}"></i> </div>
+          <div class="panel-shape"> <i class="fa fa-{{.Params.service4_icon}}"></i> </div>
         </div>
       </div>
     </div>
   </div>
-</section>           
+</section>
 {{end}}
 {{end}}
 {{end}}

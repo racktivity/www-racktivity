@@ -105,8 +105,8 @@ header a { color: #FFF; }
 .fa.fa-quote-right {font-size: 22px;margin: 0px 10px 0 14px;}
 .arrow-down { position: absolute;bottom: 73px;left: 0;width: 100%;text-align: center;}
 .fa-angle-double-down { color: #FFF; font-size: 54px !important;}
-.page-disc {height: 341px;}
-.page-disc h1 {color: #FFF;font-size: 25px;margin: 77px 0 10px 0;}
+.page-disc {height: 261px;}
+.page-disc h1 {color: #FFF;font-size: 25px;margin: 59px 0 10px 0;}
 .page-disc p {color: #FFF;max-width: 510px;line-height: 26px;max-height: 180px;overflow: hidden;}
 .bred-crum {background: #ededed;height: 37px;}
 .bred-crum li {display: inline;}

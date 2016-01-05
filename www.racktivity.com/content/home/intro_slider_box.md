@@ -4,7 +4,7 @@ title = "intro_slider_box"
 
 
 slider1_pic= "images/slider1.jpg"
-slider1_text1 = "Racktivity animated data center floor plan"
+slider1_text1 = "Racktivity TEST animated data center floor plan"
 slider1_text2 = "Want to find out where the Racktivity products go in your data center?! .. Check out our data center floor plane and find out."
 slider1_text3 = "LEARN ABOUT OUR NEW MOBILE APP"
 slider1_button = "WATCH A DEMO"

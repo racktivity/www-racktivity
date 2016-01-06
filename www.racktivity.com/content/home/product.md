@@ -23,5 +23,5 @@ product3_disc = "Our environmental sensor beats all others. Packed with relevant
 product4_link = "#"
 product4_icon = "fa fa-server"
 product4_title = "DCPM - Power Management Software"
-product4_disc = "Fully distributed multi-location, multi-vendor performance management solution. Manage, visualize and control all of your energy from 1 pane of glass. Pure genius."
+product4_disc = "Fully distributed multi-location, multi-vendor performance management solution. Manage, visualize and control all of your energy from 1 place."
 +++

@@ -8,7 +8,7 @@ section_disc = "Racktivity offers an unrivalled set of products and features to 
 product1_link = "#"
 product1_icon = "fa fa-server"
 product1_title = "ES Series - Rack power management"
-product1_disc = "The EnergySwitch™ Family, Racktivity’s next-generation metered and switched Power Distribution Units (PDUs) with the optional WiC MODBUS compatible gateway."
+product1_disc = "The EnergySwitch™ Family, Racktivity’s metered and switched Power Distribution Units (PDUs) with the optional WiC MODBUS compatible gateway."
 
 product2_link = "#"
 product2_icon = "fa fa-server"

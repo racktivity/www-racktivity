@@ -24,13 +24,13 @@ logo_pic = "/images/logo.png"
 logo_link = "#"
 
 contact_title1 = "CALL US"
-contact_text1 = "1.800.987.6543"
+contact_text1 = "+32 9 324 2090"
 
 contact_title2 = "EMAIL US"
-contact_text2 = "info@admain.com"
+contact_text2 = "sales@racktivity.com"
 
 contact_title3 = "WORKING HOURS"
-contact_text3 = "Mon - Sat 8.00 - 19.00"
+contact_text3 = "Mon - Fri 9.00 - 17.00"
 
 button_text = "Get a free PDF"
 button_link = "#"

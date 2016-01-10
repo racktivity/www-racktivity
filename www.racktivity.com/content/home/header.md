@@ -32,7 +32,6 @@ contact_text2 = "sales@racktivity.com"
 contact_title3 = "WORKING HOURS"
 contact_text3 = "Mon - Fri 9.00 - 17.00"
 
-button_text = "Get a free PDF"
-button_link = "#"
+
 
 +++

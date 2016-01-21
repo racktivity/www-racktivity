@@ -1,0 +1,109 @@
+{{ partial "head.html" . }}
+<body>
+{{ partial "header.html" . }}
+<section class="bred-crum">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">{{title .Title}}</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="content">
+  <div class="container">
+    <div class="row">
+      
+      <div class="col-md-12 content-text">
+        <h1>
+          {{ .Title }}
+        </h1>
+        <div id="content" class="columns twelve">
+        <div class="content-system"> <a id="main-content"></a>
+
+              <div class="region region-content">
+                
+                </div>
+                <div id="block-views-solutions-block" class="block block-views">
+                  <div class="content">
+                    <div class="view view-solutions view-id-solutions view-display-id-block view-dom-id-6ba3ce7494088359dcdc1e4dc1e1d5f1">
+                      <div class="view-content">
+                        <div class="views-row views-row-1 views-row-odd views-row-first">
+                        {{ range $element := .Data.Pages }}
+                          {{ if eq .Section "products" }}
+                            {{ if eq .Params.parent "top" }}
+                              <div id="node-28" class="node node-product-category node-promoted node-teaser clearfix" typeof="sioc:Item foaf:Document">
+                                <table cellpadding="0" cellspacing="0">
+                                  <tr>
+                                    <td class="image"><a href="{{.RelPermalink}}" style="text-decoration:none;"> <img typeof="foaf:Image" src="{{ .Params.image }}" width="220" height="120" alt="" /></a></td>
+                                    <td class="content" valign="top"><h3><a href="{{.RelPermalink}}" style="text-decoration:none;">{{ .Title }}</a></h3>
+                                      <div class="summary"> {{ .Params.summary }} <a href="{{.RelPermalink}}" class="moreinfo">More info</a> </div></td>
+                                  </tr>
+                                </table>
+                              </div>
+                            {{ end }}
+                          {{ end }}
+                          {{ if eq .Section "solutions" }}
+                              <div id="node-28" class="node node-product-category node-promoted node-teaser clearfix" typeof="sioc:Item foaf:Document">
+                                <table cellpadding="0" cellspacing="0">
+                                    <tr>
+                                      <td><a style="width: 120px; display: block;" href="{{.RelPermalink}}" style="text-decoration:none;"> <img typeof="foaf:Image" src="{{ .Params.image }}" width="111" height="190" alt="" /></a></td>
+                                      <td class="content" valign="top"><h3><a href="{{.RelPermalink}}" style="text-decoration:none;">{{ .Title }}</a></h3>
+                                        <div class="summary"> {{ .Params.summary }} <a href="{{.RelPermalink}}" class="moreinfo">More info</a> </div></td>
+                                    </tr>
+                                </table>
+                              </div>
+                          {{ end }}
+
+                        {{ end }}
+
+                        {{ range $element := .Data.Pages }}
+                          {{ if eq .Section "resources" }}
+                            <div id="node-28" class="node node-product-category node-promoted node-teaser clearfix" typeof="sioc:Item foaf:Document">
+                                <table cellpadding="0" cellspacing="0">
+                                  <tr>
+                                    
+                                    <td class="content" valign="top"><h3><a href="{{.RelPermalink}}" style="text-decoration:none;">{{ .Title }}</a></h3>
+                                      <div class="summary"> {{ .Params.summary }} <a href="{{.RelPermalink}}" class="moreinfo">More info</a> </div></td>
+                                  </tr>
+                                </table>
+                              </div>
+                            {{ end }}
+                          {{ end }}
+                          {{ range $element := .Data.Pages }}
+                          {{ if eq .Section "case-studies" }}
+                            <div id="node-28" class="node node-product-category node-promoted node-teaser clearfix" typeof="sioc:Item foaf:Document">
+                                <table cellpadding="0" cellspacing="0">
+                                  <tr>
+                                    
+                                    <td class="content" valign="top"><h3><a href="{{.RelPermalink}}" style="text-decoration:none;">{{ .Title }}</a></h3>
+                                      <div class="summary"> {{ .Params.summary }} <a href="{{ .Params.pdf }}" class="moreinfo">Download PDF</a> </div></td>
+                                      <td><a href="{{.RelPermalink}}" style="text-decoration:none;"> <img typeof="foaf:Image" src="{{ .Params.image }}" width="220" height="120" alt="" /></a></td>
+                                  </tr>
+                                </table>
+                              </div>
+                            {{ end }}
+                          {{ end }}
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+
+        </div>
+        <br/>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ partial "footer.html" . }}
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+</body>
+</html>

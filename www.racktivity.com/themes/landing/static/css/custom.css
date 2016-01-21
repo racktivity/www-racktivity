@@ -26,7 +26,7 @@ header a { color: #FFF; }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus { color: #333; background: transparent; }
 .navbar-default .navbar-nav > li > a { color: #FFF; }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus { color: #333; background-color: transparent; }
-.main-menu .nav > li > a { position: relative; display: block;padding: 14px 45px;font-size: 15px; font-family: 'neotechalt-bold'; background: url(../images/menu-seperate.png) no-repeat 0px center;}
+.main-menu .nav > li > a { position: relative; display: block;padding: 14px 47px;font-size: 15px; font-family: 'neotechalt-bold'; background: url(../images/menu-seperate.png) no-repeat 0px center;}
 .shape-blue { display: inline-block; position: absolute; width: 37px; height: 48px; background: #21A6DF; left: 2px; -webkit-transform: skew(-26deg); transform: skew(-26deg); }
 .main-menu .navbar-collapse { padding-left: 0; }
 .right-blue { position: absolute; background: #21A6DF; width: 50%; right: 0; height: 48px; }
@@ -84,7 +84,7 @@ header a { color: #FFF; }
 .quiq-links span { display: block; margin: 0 0 0 0; }
 .quiq-links span strong {  font-family: 'neotechalt-bold'; font-weight: normal; }
 .quiq-links p { line-height: 25px; }
-.footer-info { margin: 44px 0 0 0; }
+.footer-info {margin: 17px 0 0 0;}
 .footer-button { background:#454545; font-size: 15px; color: #FFF; text-align: center; width: 100%; border: 0; padding: 10px 0; font-family: 'neotechalt-bold'; margin: 30px 0 0 0; }
 .links { background: #454545; padding: 18px 0; }
 .links ul li { display: inline; }
@@ -123,7 +123,7 @@ header a { color: #FFF; }
 .section-side .active a {color: #FFF}
 .sperator-side { height: 1px; background: #b1b1b1; margin: 20px 0;}
 .help-side h2 { color: #4491e1; font-size: 18px;margin: 30px 0 20px 0;}
-.content { padding: 0 0 80px 0;}
+.content {padding: 0 0 26px 0;}
 .content-text p { line-height: 26px;}
 .content-text p a {color: #4491E1;}
 .content-text h1 {color: #4491e1;margin: 30px 0 15px 0;font-size: 20px;}
@@ -217,3 +217,62 @@ header a { color: #FFF; }
 }
 .box-product a:hover {text-decoration: none;}
 
+.node-product-category.node-teaser {
+    padding-bottom: 20px;
+    border-bottom: 1px dotted #ccc;
+    margin-bottom: 0;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+table td {
+    vertical-align: top;
+}
+.node img {
+    display: block;
+    margin: 42px 0 0 0;
+    clip: rect(0px,119px,96px,0px);
+    position: absolute;
+}
+.node-product-category table .content {
+    padding-left: 20px;
+}
+h3, .header3 {
+    font-size: 16px;
+    color: #2ea4de;
+    font-family: 'Droid Sans',sans-serif !important;
+    line-height: 18px;
+}
+a.moreinfo {
+    text-transform: capitalize;
+    text-decoration: none;
+    color: #2DA3DC;
+    display: block;
+    margin-top: 20px;
+}
+.content-text h1, .header1, .block .content h1 {
+    font-size: 26px;
+    color: #2ea4de;
+    line-height: 30px;
+    font-family: 'Droid Sans',sans-serif !important;
+    margin: 0px 0px 20px 0px;
+    padding: 0px;
+    border: 0px;
+    text-transform: none;
+}
+.content-text { padding-top: 29px;}
+.dropdown:hover .dropdown-menu {display: block;}
+.dropdown-menu > li > a {
+  display: block;
+  padding: 10px 27px;
+  clear: both;
+  font-weight: normal;
+  line-height: 1.42857143;
+  color: #333;
+  white-space: nowrap;
+}
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}

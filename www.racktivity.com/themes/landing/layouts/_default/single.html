@@ -1,6 +1,26 @@
 {{ partial "head.html" . }}
 <body>
 {{ partial "header.html" . }}
+{{ if eq .Title "Company" }}
+  <style type="text/css">
+    .content-text img { float: right; display: block; margin-left: 57px; margin-top: 4px; margin-bottom: 41px; clear: both;}
+  </style>
+{{ end }}
+{{ if eq .Title "Support" }}
+  <style type="text/css">
+    p a img {width: 150px;}
+  </style>
+{{ end }}
+{{ if eq .Title "Contact" }}
+  <style type="text/css">
+  form input, form select, form textarea { margin: 10px 0}
+.office { float: right;}
+#contact-form {margin-bottom: 20px;float: left; display: inline-block;}
+#contact-form input[type="text"], #contact-form input[type="password"], #contact-form input[type="email"], #contact-form textarea, #contact-form select {    }
+label, legend {display: block;font-weight: bold;font-size: 13px;}
+  </style>
+{{ end }}
+
 <section class="page-disc" style="background: url({{.Params.section_pic}}) center center no-repeat">
 <div class="container">
   <div class="row">
@@ -19,15 +39,21 @@
       <div class="col-md-12">
         <ul>
           <li><a href="#">Home</a></li>
+          {{ if eq .Section "post" }}
+          <li><a href="#">{{.Title}}</a></li>
+          {{ else }}
           <li><a href="#">{{title .Section}}</a></li>
+          {{ end }}
         </ul>
       </div>
     </div>
   </div>
 </section>
-<section class="content">
+
+  <section class="content" style="padding-bottom: 50px;">
   <div class="container">
     <div class="row">
+    {{ if ne .Section "post" }}
       <div class="col-md-3 section-side">
         <h1 class="section-title">{{title .Section}}</h1>
         <ul>
@@ -36,7 +62,8 @@
 	        {{ end }}
         </ul>
       </div>
-      <div class="col-md-9 content-text">
+      {{ end }}
+      <div class="col-md-{{ if eq .Section "post" }}12{{else}}9{{end}} content-text">
         <h1>
           {{ .Title }}
         </h1>
@@ -45,6 +72,10 @@
     </div>
   </div>
 </section>
+
+
+
+
 {{ partial "footer.html" . }}
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>

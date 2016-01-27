@@ -34,7 +34,6 @@ Taxation Registration VAT: BE0809832610 (RPR Ghent)
 ### support contact
 
 [support@racktivity.com](mailto:sales@racktivity.com)
-
 </div>
 
 ### contact form
@@ -65,7 +64,7 @@ Taxation Registration VAT: BE0809832610 (RPR Ghent)
 	    </select>
 
 	    <textarea rows="4" cols="50" name="message" placeholder="Your Message" class="form-control"></textarea> 
-	    <button  type="submit" value="Send" class="btn btn-success">Submit</button>
+	    <button  type="submit" value="Send" class="btn submit">Submit</button>
 </form>
 
   

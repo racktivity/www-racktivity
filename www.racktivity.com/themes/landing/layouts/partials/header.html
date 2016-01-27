@@ -53,7 +53,7 @@
               <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                   <li class="active"><a href="/">Home <span class="sr-only">(current)</span></a></li>
-                  <li class="dropdown"> <a href="/solutions" class="dropdown-toggle" >Solutions <span class="caret"></span></a>
+                  <li class="dropdown"> <a href="/solutions/" class="dropdown-toggle" >Solutions <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                     {{ range $element := where .Site.Pages "Section" "solutions" }}
                      <li><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
@@ -74,9 +74,9 @@
                     </ul>
                   </li>
                   <li> <a href="#">Downloads</a></li>
-                  <li> <a href="/company">Company </a></li>
-                  <li> <a href="/support/support/">Support </a></li>
-                  <li> <a style="padding-right: 0;" href="/contact">Contact</a></li>
+                  <li> <a href="/company/">Company </a></li>
+                  <li> <a href="/support/">Support </a></li>
+                  <li> <a style="padding-right: 0;" href="/contact/">Contact</a></li>
                 </ul>
               </div>
               

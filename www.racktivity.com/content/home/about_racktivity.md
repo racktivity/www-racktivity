@@ -2,13 +2,13 @@
 #Don't remove title!
 title = "about_racktivity"
 
-first_header = "LITTLE ABOUT US"
-second_header = "ABOUT RACKTIVITY PRODUCT"
-first_text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero quod consequuntur quibusdam, enim expedita sed quia nesciunt incidunt accusamus necessitatibus modi adipisci officia libero accusantium esse hic, obcaecati, ullam, laboriosam!"
+first_header = "EnergyDNA™"
+second_header = "Racktivity's EnergyDNA"
+first_text = "EnergyDNA™ is the patent-pending set of technologies developed by Racktivity in direct response to the industry’s desire to better understand power within the data center. EnergyDNA is the core of the Data Center Performance Management system. In essence, it enables extremely detailed measurements to be collected, compared and visualized in real-time."
 
-second_text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero quod consequuntur quibusdam, enim expedita sed quia nesciunt incidunt accusamus necessitatibus modi adipisci officia libero accusantium esse hic, obcaecati, ullam, laboriosam!" 
+second_text = "In our EnergySwitch family of PDU devices, EnergyDNA takes the form of advanced Digital Signal Processors (DSP) which sample power at the per-outlet level then being interpreted by our own Fast-Fourier transformations." 
 
-strong_header = "OPTIMIZED FOR MOBILE & TOUCH"
-third_text = "Loremipsum dolor sit amet, consectetur adipisicing elit." 
+strong_header = "energyswitch™ family"
+third_text = "dcpm (service provider infrastructure & data center performance management system)" 
 
 +++

@@ -57,9 +57,28 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
       <div class="col-md-3 section-side">
         <h1 class="section-title">{{title .Section}}</h1>
         <ul>
-          {{ range $element := where .Site.Pages "Section" .Section }}
+          <!-- {{ range $element := where .Site.Pages "Section" .Section }}
 	         <li><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
-	        {{ end }}
+	        {{ end }} -->
+
+
+                  {{ range $element := where .Site.Pages "Section" .Section }}
+                    {{ if eq .Section "products" }}
+                      {{ if eq .Params.parent "top" }}
+                        <li class="first collapsed menu-mlid-601"><a href="{{.RelPermalink}}">{{.Title}}</a></li>
+                      {{end}}
+                    {{end}}
+                    {{ if ne .Section "products" }}
+                        <li class="first collapsed menu-mlid-601"><a href="{{.RelPermalink}}">{{.Title}}</a></li>
+                    {{end}}
+                    {{ if eq .Section "case-studies" }}
+                      {{ if eq .Params.parent "top" }}
+                        <li><a href="/customers/Quotes">Quotes</a></li>
+                      {{end}}
+                    {{end}}
+                  {{end}}
+
+
         </ul>
       </div>
       {{ end }}
@@ -79,5 +98,6 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
 {{ partial "footer.html" . }}
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
+<script src="/js/general.js"></script>
 </body>
 </html>

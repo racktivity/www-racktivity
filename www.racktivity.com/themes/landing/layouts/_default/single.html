@@ -57,12 +57,12 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
       <div class="col-md-3 section-side">
         <h1 class="section-title">{{title .Section}}</h1>
         <ul>
-          <!-- {{ range $element := where .Site.Pages "Section" .Section }}
+          {{ range $element := where .Site.Pages "Section" .Section }}
 	         <li><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
-	        {{ end }} -->
+	        {{ end }}
 
 
-                  {{ range $element := where .Site.Pages "Section" .Section }}
+                  <!-- {{ range $element := where .Site.Pages "Section" .Section }}
                     {{ if eq .Section "products" }}
                       {{ if eq .Params.parent "top" }}
                         <li class="first collapsed menu-mlid-601"><a href="{{.RelPermalink}}">{{.Title}}</a></li>
@@ -76,7 +76,7 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
                         <li><a href="/customers/Quotes">Quotes</a></li>
                       {{end}}
                     {{end}}
-                  {{end}}
+                  {{end}} -->
 
 
         </ul>

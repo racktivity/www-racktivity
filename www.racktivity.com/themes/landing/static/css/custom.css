@@ -276,12 +276,14 @@ a.moreinfo {
    padding: 0 !important;
    margin: 0 !important;
 }
-#contact-form input[type="text"], #contact-form input[type="password"], #contact-form input[type="email"], #contact-form textarea, #contact-form select {
-    border-radius: 0;
-}
+#contact-form input[type="text"], #contact-form input[type="password"], #contact-form input[type="email"], #contact-form textarea, #contact-form select {border-radius: 0;}
 .submit { background: #21A6DF; border-radius: 0;}
 .submit:hover { opacity: 0.9}
 .submit, .submit:hover { color: #FFF}
 .dropdown-menu {position: absolute;top: 98%;}
 .navbar-nav > li:first-child a, .navbar-nav > li.active:first-child a {background: none}
 .dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {color: #fff;text-decoration: none;background-color: #21A6DF;outline: 0;}
+.fancybox img {width: 175px;}
+.content-text ul { padding-left: 18px;}
+h6 + p img, h6 + p + p img { max-width: 150px; margin: 0 20px 0 0}
+h6 + p { float: left;}

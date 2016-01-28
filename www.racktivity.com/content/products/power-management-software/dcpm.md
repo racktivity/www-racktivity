@@ -23,6 +23,8 @@ Click here to read the article.](/post/uptime-maximization-opex-)
 Benefits
 --------
 
+###### .
+
 ![Reduce your opex - Racktivity](/images/reduce%20opex.jpg)
 
 ![Increase your service level - Racktivity](/images/increase%20service%20level.jpg)

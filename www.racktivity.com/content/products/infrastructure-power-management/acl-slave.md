@@ -1,7 +1,7 @@
 +++
 title= "ACL Slave"
 page_disc = "The **ACL Slave** Meter is an accurate power meter with 3 voltage inputs (+N) and 4 current clamp inputs connected to a RS485 Bus network."
-section_pic = "/images/page-pic.jpg"
+section_pic = "/images/product-banner2.jpg"
 parent = "infrastructure-power-management"
 real_link = "acl-slave"
 image = "/images/IMG_9162_0.jpg"

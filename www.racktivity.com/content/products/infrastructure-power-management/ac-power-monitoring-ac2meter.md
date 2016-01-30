@@ -1,7 +1,7 @@
 +++
 title= "AC power monitoring with AC²Meter"
 page_disc = "To give a total overview of your power consumption, Racktivity has complemented its product line with a new family of power meter and monitoring devices."
-section_pic = "/images/page-pic.jpg"
+section_pic = "/images/product-banner2.jpg"
 
 parent = "infrastructure-power-management"
 real_link = "ac-power-monitoring-ac2meter"

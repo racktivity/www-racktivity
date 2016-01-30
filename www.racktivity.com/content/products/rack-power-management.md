@@ -1,7 +1,7 @@
 +++
 title= "Rack power management"
 page_disc = "The EnergySwitch™ Family, Racktivity’s next-generation metered and switched Power Distribution Units (PDUs)."
-section_pic = "/images/page-pic.jpg"
+section_pic = "/images/product-banner1.jpg"
 parent = "top"
 summary = "The EnergySwitch™ Family, Racktivity’s next-generation metered and switched Power Distribution Units (PDUs)."
 image = "/images/pdu.jpg"

@@ -1,7 +1,7 @@
 +++
 title= "Infrastructure power management"
 page_disc = "The DC and AC monitoring and management solution focused on telecommunication, broadband, wireless and broadcast service providers."
-section_pic = "/images/page-pic.jpg"
+section_pic = "/images/product-banner2.jpg"
 parent = "top"
 summary = "The DC and AC monitoring and management solution focused on telecommunication, broadband, wireless and broadcast service providers."
 image = "/images/ac dc power management.jpg"

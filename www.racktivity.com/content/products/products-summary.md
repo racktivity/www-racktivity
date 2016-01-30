@@ -1,7 +1,7 @@
 +++
 title = "Products summary"
 page_disc = "Racktivity offers an unrivalled set of products and features to **distribute, measure, monitor and control the power of your infrastructure**"
-section_pic = "/images/page-pic.jpg"
+section_pic = "/images/product-banner1.jpg"
 parent = "summary"
 +++
 

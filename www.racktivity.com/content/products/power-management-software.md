@@ -1,7 +1,7 @@
 +++
 title= "Power management software"
 page_disc = "Fully distributed multi-location, multi-vendor performance management solution. Manage, visualize and control all of your energy from 1 pane of glass. Pure genius."
-section_pic = "/images/page-pic.jpg"
+section_pic = "/images/product-banner4.jpg"
 parent = "top"
 summary = "Fully distributed multi-location, multi-vendor performance management solution. Manage, visualize and control all of your energy from 1 pane of glass. Pure genius."
 image = "/images/dcpm-mini_1.jpg"

@@ -1,7 +1,7 @@
 +++
 title= "Environmental management"
 page_disc = "Our environmental sensor beats all others. Packed with relevant features it is the perfect addition to Racktivity monitoring devices."
-section_pic = "/images/page-pic.jpg"
+section_pic = "/images/product-banner3.jpg"
 parent = "top"
 summary = "Our environmental sensor beats all others. Packed with relevant features it is the perfect addition to Racktivity monitoring devices."
 image = "/images/environmental-managmeent.jpg"

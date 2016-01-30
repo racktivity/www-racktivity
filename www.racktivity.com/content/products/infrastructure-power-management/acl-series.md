@@ -1,7 +1,7 @@
 +++
 title= "ACL Series"
 page_disc = "Racktivity presents a brand new solution to remotely monitor and manage AC power within the tap off boxes of the busbar system or electrical cabinets."
-section_pic = "/images/page-pic.jpg"
+section_pic = "/images/product-banner2.jpg"
 parent = "infrastructure-power-management"
 real_link = "acl-series"
 image = "/images/acl series.jpg"

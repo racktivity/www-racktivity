@@ -1,7 +1,7 @@
 +++
 title= "ES2124-30 (1 phase, 30A - US model)"
 page_disc = "Racktivity's power distribution EnergySwitch Smart PDUs equip your data center with the industry’s most advanced metering and switching capability.  "
-section_pic = "/images/page-pic.jpg"
+section_pic = "/images/product-banner1.jpg"
 parent = "rack-power-management"
 image = "/images/products_energyswitch_0U_gallery1%5B1%5D%5B1%5D.png"
 real_link = "es2124-30-1-phase-30a-us"

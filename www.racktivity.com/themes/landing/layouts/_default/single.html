@@ -54,35 +54,53 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
   <div class="container">
     <div class="row">
     {{ if ne .Section "post" }}
-      <div class="col-md-3 section-side">
+      <div class="col-md-4 section-side">
         <h1 class="section-title">{{title .Section}}</h1>
         <ul>
-          {{ range $element := where .Site.Pages "Section" .Section }}
-	         <li><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
-	        {{ end }}
+          
+          <!-- {{ if eq .Section "products" }}
+
+          {{ else }}
+            {{ range $element := where .Site.Pages "Section" .Section }}
+             <li><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
+            {{ end }}
+          {{ end }} -->
 
 
-                  <!-- {{ range $element := where .Site.Pages "Section" .Section }}
-                    {{ if eq .Section "products" }}
-                      {{ if eq .Params.parent "top" }}
-                        <li class="first collapsed menu-mlid-601"><a href="{{.RelPermalink}}">{{.Title}}</a></li>
+          {{ $currentParent := replace .RelPermalink .Params.real_link "" }}
+                    {{ $currentParent := replace $currentParent .Section "" }}
+                    {{ $currentParent := replace $currentParent "/" "" }}
+
+                    {{ $cleancurrentParent := replace $currentParent "-" " " }}
+                    {{ $cleancurrentParent := title $cleancurrentParent }}
+
+                    {{ $currentParenLink := replace .RelPermalink .Params.real_link "" }}
+                  <li class="collapsed"><a href="{{$currentParenLink}}">{{$cleancurrentParent}}</a>
+                    <ul class="menu">
+                      {{ range $element := .Site.Pages }}
+                      {{ if eq .Section "products" }}
+                        {{ if eq .Params.parent $currentParent }}
+                          <li class="collapsed"><a href="{{$element.RelPermalink}}">{{$element.Title}}</a></li>
+                        {{end}}
+                        {{end}}
+                      {{end}}
+                    </ul>
+                  </li>
+                  {{ range $element := .Site.Pages }}
+                  {{ if eq .Section "products" }}
+                    {{ if eq .Params.parent "top" }}
+                    {{ $currentParenLink := replace $currentParenLink "//" "/" }}
+                      {{if ne $element.RelPermalink $currentParenLink }}
+                        <li class="collapsed"><a href="{{$element.RelPermalink}}">{{$element.Title}}</a></li>
                       {{end}}
                     {{end}}
-                    {{ if ne .Section "products" }}
-                        <li class="first collapsed menu-mlid-601"><a href="{{.RelPermalink}}">{{.Title}}</a></li>
-                    {{end}}
-                    {{ if eq .Section "case-studies" }}
-                      {{ if eq .Params.parent "top" }}
-                        <li><a href="/customers/Quotes">Quotes</a></li>
-                      {{end}}
-                    {{end}}
-                  {{end}} -->
-
-
+                  {{ end }}
+                  {{ end }}
+                </ul>
         </ul>
       </div>
       {{ end }}
-      <div class="col-md-{{ if eq .Section "post" }}12{{else}}9{{end}} content-text">
+      <div class="col-md-{{ if eq .Section "post" }}12{{else}}8{{end}} content-text">
         <h1>
           {{ .Title }}
         </h1>
@@ -96,8 +114,5 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
 
 
 {{ partial "footer.html" . }}
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="/js/bootstrap.min.js"></script>
-<script src="/js/general.js"></script>
 </body>
 </html>

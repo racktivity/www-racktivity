@@ -33,19 +33,6 @@
                       <div class="view-content">
                         <div class="views-row views-row-1 views-row-odd views-row-first">
                         {{ range $element := .Data.Pages }}
-                          {{ if eq .Section "products" }}
-                            {{ if eq .Params.parent "top" }}
-                              <div id="node-28" class="node node-product-category node-promoted node-teaser clearfix" typeof="sioc:Item foaf:Document">
-                                <table cellpadding="0" cellspacing="0">
-                                  <tr>
-                                    <td class="image"><a href="{{.RelPermalink}}" style="text-decoration:none;"> <img typeof="foaf:Image" src="{{ .Params.image }}" width="220" height="120" alt="" /></a></td>
-                                    <td class="content" valign="top"><h3><a href="{{.RelPermalink}}" style="text-decoration:none;">{{ .Title }}</a></h3>
-                                      <div class="summary"> {{ .Params.summary }} <a href="{{.RelPermalink}}" class="moreinfo">More info</a> </div></td>
-                                  </tr>
-                                </table>
-                              </div>
-                            {{ end }}
-                          {{ end }}
                           {{ if eq .Section "solutions" }}
                               <div id="node-28" class="node node-product-category node-promoted node-teaser clearfix" typeof="sioc:Item foaf:Document">
                                 <table cellpadding="0" cellspacing="0">
@@ -103,8 +90,5 @@
   </div>
 </section>
 {{ partial "footer.html" . }}
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="/js/bootstrap.min.js"></script>
-<script src="/js/general.js"></script>
 </body>
 </html>

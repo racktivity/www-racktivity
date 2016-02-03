@@ -1,12 +1,12 @@
 http://gig-racktivity:8347 {
     bind 0.0.0.0
     gzip
-    root www.racktivity.com
+    root www.racktivity.com/en
     git {
        repo git@git.aydo.com:static-websites/www-new-racktivity.git
        interval 300
        key ../keys/id_rsa
-       path ../
+       path ../..
        then ./hugo-init
     }
 }

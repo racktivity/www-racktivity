@@ -1,7 +1,7 @@
 +++
 title= "E²Sensor"
 page_disc = "Racktivity developed the E²Sensor Family to give you visibility of the environmental situation of your data centers and remote infrastructure."
-section_pic = "/images/product-banner3"
+section_pic = "/images/product-banner3.jpg"
 parent = "environmental-management"
 real_link = "E2Sensor"
 image = "/images/products_energysensor_gallery1.png"

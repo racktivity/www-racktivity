@@ -2,12 +2,12 @@
 #Don't remove name!
 title = "header"
 
-black_title1 = "Racktvity new"
-black_title2 = "Read Documentation"
-black_title3 = "Why us"
-black_link1 = "#"
-black_link2 = "#"
-black_link3 = "#"
+black_title1 = "Resources"
+black_title2 = "Partners"
+black_title3 = "Customers"
+black_link1 = "/resources/racktivity-warranty"
+black_link2 = "/partners/partners"
+black_link3 = "/customers/customers"
 
 social_icon1 = "facebook"
 social_icon2 = "google-plus"
@@ -21,7 +21,7 @@ social_link4 = "#"
 social_link5 = "#"
 
 logo_pic = "/images/logo.png"
-logo_link = "#"
+logo_link = "/"
 
 contact_title1 = "CALL US"
 contact_text1 = "+32 9 324 2090"

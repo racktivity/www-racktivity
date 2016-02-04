@@ -18,4 +18,4 @@ Our DCPM software solution gives you **full visibility** on your electrical and 
 Thanks to our intelligent tools, you can **measure and visualize power** to help you meet your evolving targets on **power savings and carbon footprint reduction** as part of your corporate social responsibility.
 Depending on your specific needs, our platform also provides you with detailed analyses regarding the power consumption of each individual server and appliance in a rack or data center, **allowing you to know the exact cost per application**.
 
-Want to find out where exactly the Racktivity products go in the datacenter? [Check out our animated floor plan.](/post/data-center-floor-plan-solution-overview)
+Want to find out where exactly the Racktivity products go in the datacenter? [Check out our animated floor plan.](/data-center-floor-plan-solution-overview)

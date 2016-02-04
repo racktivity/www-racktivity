@@ -17,4 +17,4 @@ Racktivity’s DCPM completes these solutions, allowing you to **measure, monito
 
 Alongside this, integration with third party equipment gives you full visibility on your power consumption, available capacity, temperature, potential alarms, CO footprint and indicate areas for potential savings and improvements.
 
-Want to find out where exactly the Racktivity products go in the datacenter? [Check out our animated floor plan.](/post/data-center-floor-plan-solution-overview)
+Want to find out where exactly the Racktivity products go in the datacenter? [Check out our animated floor plan.](/data-center-floor-plan-solution-overview)

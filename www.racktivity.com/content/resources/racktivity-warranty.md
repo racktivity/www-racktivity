@@ -1,9 +1,8 @@
 +++
 title= "Racktivity Warranty"
 parent = "top"
-summary = "Racktivity agrees to repair or replace Data Center Management Units (Products) that fail due to a defect within twenty four (24) months after the shipment date of each Product unit to Buyer (Warranty Period). For purposes of this Agreement the term defect shall mean the Product fails to operate or fails to conform to its applicable specifications. Any claim made pursuant to this Agreement shall be asserted or made in writing only by Buyer."
-
-image = "/images/environmental-managmeent.jpg"
+page_disc = "Racktivity agrees to repair or replace Data Center Management Units (Products) that fail due to a defect within twelve (12) months after the shipment date of each Product unit to Buyer"
+section_pic = "/images/product-banner1.jpg"
 +++
 Racktivity agrees to repair or replace Data Center Management Units ("Products") that fail due to a defect within twelve (12) months after the shipment date of each Product unit to Buyer ("Warranty Period"). For purposes of this Agreement the term "defect" shall mean the Product fails to operate or fails to conform to its applicable specifications. Any claim made pursuant to this Agreement shall be asserted or made in writing only by Buyer. Buyer shall comply with Racktivity's Standard Return Merchandise Authorization ("RMA") procedure for all warranty claims as set forth in Racktivity's operation manual. Buyer must return Products in original packaging and in good condition. This limited warranty does not include labor, transportation, or other expenses to repair or reinstall warranted Products on site or at Buyer's premises. The warranty only applies to the original Buyer.
 

@@ -1,6 +1,8 @@
 +++
 title= "Uptime maximization & opex reduction"
 real_link = "uptime-maximization-opex-"
+page_disc = "Racktivity's power distribution EnergySwitch Smart PDUs equip your data center with the industry’s most advanced metering and switching capability.  "
+section_pic = "/images/product-banner1.jpg"
 image = "/images/dc1.png"
 +++
 One of the major challenges of companies today is the increasing cost of electricity. Over the past decade the cost of electricity has increased significantly and this trend is not expected to fade away soon. Industry data and studies mention power costs can account for over 50% of the total data centre operational cost.

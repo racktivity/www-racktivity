@@ -1,6 +1,8 @@
 +++
 #Don't remove title!
 title = "White Papers"
+page_disc = "Racktivity's power distribution EnergySwitch Smart PDUs equip your data center with the industry’s most advanced metering and switching capability.  "
+section_pic = "/images/product-banner1.jpg"
 +++
 
 #### Learn all about the revolutionary technology and Green IT Globe’s vision to disrupt the IT industry.

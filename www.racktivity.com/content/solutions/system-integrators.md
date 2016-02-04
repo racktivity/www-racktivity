@@ -19,4 +19,4 @@ Thanks to our knowledge and flexibility, we can build you dedicated hardware, fi
 
 These unique solutions save on power and help you deliver green, but most of all reliable solutions to your customers.
 
-Want to find out where exactly the Racktivity products go in the datacenter? [Check out our animated floor plan.](/post/data-center-floor-plan-solution-overview)
+Want to find out where exactly the Racktivity products go in the datacenter? [Check out our animated floor plan.](/data-center-floor-plan-solution-overview)

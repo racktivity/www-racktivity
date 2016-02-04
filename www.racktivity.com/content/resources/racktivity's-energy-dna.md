@@ -1,8 +1,9 @@
 +++
 title= "Racktivity's EnergyDNA"
 parent = "top"
-summary = "EnergyDNA™ is the patent-pending set of technologies developed by Racktivity in direct response to the industry’s desire to better understand power within the data center. EnergyDNA™ is the core of the Data Center Performance Management system. In essence, it enables extremely detailed measurements to be collected, compared and visualized in real-time."
-image = "/images/environmental-managmeent.jpg"
+page_disc = "EnergyDNA™ is the patent-pending set of technologies developed by Racktivity in direct response to the industry’s desire to better understand power within the data center."
+section_pic = "/images/product-banner1.jpg"
+
 +++
 EnergyDNA™ is the patent-pending set of technologies developed by Racktivity in direct response to the industry’s desire to better understand power within the data center. EnergyDNA is the core of the Data Center Performance Management system. In essence, it enables extremely detailed measurements to be collected, compared and visualized in real-time.
 

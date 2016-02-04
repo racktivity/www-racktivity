@@ -1,5 +1,7 @@
 +++
 title = "Partner Information"
+page_disc = "Racktivity has formed partnerships across the globe with companies providing complementary energy management solutions"
+section_pic = "/images/page-pic.jpg"
 +++
 
 Racktivity has formed partnerships across the globe with companies providing complementary energy management solutions

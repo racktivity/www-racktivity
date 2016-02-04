@@ -20,4 +20,4 @@ The meters provide you with the missing element for a complete power monitoring 
 
 With this addition, Racktivity can now provide you a complete view of the power capacity usage and gives you the tools to analyze, simulate and reduce your carbon footprint.
 
-Want to find out where exactly the Racktivity products go in the datacenter? [Check out our animated floor plan.](/post/data-center-floor-plan-solution-overview)
+Want to find out where exactly the Racktivity products go in the datacenter? [Check out our animated floor plan.](/data-center-floor-plan-solution-overview)

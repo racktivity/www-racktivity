@@ -20,6 +20,6 @@ Thanks to our DCPM - Our Service Provider Infrastructure & Data Center Performan
 Depending on your specific needs, our platform can provide **detailed analyses** such as carbon footprint, power capacity management, PUE, power consumption of each individual server, aggregated data across multiple servers/appliances and even complete data centers.
 
 
-Want to find out where exactly the Racktivity products go in the datacenter? [Check out our animated floor plan.](/post/Data center floor plan - Solution overview)
+Want to find out where exactly the Racktivity products go in the datacenter? [Check out our animated floor plan.](/data-center-floor-plan-solution-overview/)
 
 \

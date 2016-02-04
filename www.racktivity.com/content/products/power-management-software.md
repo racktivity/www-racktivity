@@ -17,6 +17,6 @@ DCPM includes a highly interactive web-based user interface offering a single pa
 
 As of now, you have a central, clear and complete view of your energy usages across both physical and logical groupings.
 
-Want to find out more on how a good power management software can maximize your uptime and reduce your opex? [Click here to read the article.](/post/uptime-maximization-opex-)
+Want to find out more on how a good power management software can maximize your uptime and reduce your opex? [Click here to read the article.](/uptime-maximization-opex-)
 
-Want to know where exactly the Racktivity products go in the datacenter? [Check out our animated floor plan.](/post/data-center-floor-plan-solution-overview)
+Want to know where exactly the Racktivity products go in the datacenter? [Check out our animated floor plan.](/data-center-floor-plan-solution-overview)

@@ -19,7 +19,7 @@ The AC²Meter provides you with the missing element for a complete power monitor
 With this addition, Racktivity give you the tools to measure and analyse your data in order to prevent downtime and reduce your carbon footprint.
 
 Want to find out more on why our AC²Meter can help your business? 
-[Click here to read the article.](/post/accurate-ac-power-monitoring)
+[Click here to read the article.](/accurate-ac-power-monitoring)
 
 Benefits
 --------

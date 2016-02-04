@@ -58,13 +58,9 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
         <h1 class="section-title">{{title .Section}}</h1>
         <ul>
           
-          <!-- {{ if eq .Section "products" }}
+          {{ if eq .Section "products" }}
 
-          {{ else }}
-            {{ range $element := where .Site.Pages "Section" .Section }}
-             <li><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
-            {{ end }}
-          {{ end }} -->
+          
 
 
           {{ $currentParent := replace .RelPermalink .Params.real_link "" }}
@@ -97,6 +93,11 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
                   {{ end }}
                   {{ end }}
                 </ul>
+                {{ else }}
+            {{ range $element := where .Site.Pages "Section" .Section }}
+             <li><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
+            {{ end }}
+          {{ end }}
         </ul>
       </div>
       {{ end }}

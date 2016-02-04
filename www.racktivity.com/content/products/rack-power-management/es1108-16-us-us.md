@@ -14,7 +14,7 @@ All of this allows you to work with current, relevant and actionable power utili
 The Racktivity smart PDUs provide you with a powerful system for energy and capacity optimisation with reliable IT asset protection, all in one unit.
 
 Want to find out more on how our smart PDUs help protect your business continuity and reduce your opex?  
-[Click here to read the article.](/post/our-smart-pdus-increase-your-uptime-reduce-opex).
+[Click here to read the article.](/our-smart-pdus-increase-your-uptime-reduce-opex).
 
 ## benefits
 

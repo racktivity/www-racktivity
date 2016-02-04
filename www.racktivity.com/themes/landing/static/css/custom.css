@@ -8,7 +8,7 @@ header { border-top: 6px solid #333 }
 header a { color: #FFF; }
 .whyus-menu { padding: 0; }
 .whyus-menu li { list-style: none; display: inline-block; }
-.whyus-menu li a { padding: 8px 6px 12px 12px; display: block; font-size: 12px; }
+.whyus-menu li a {padding: 8px 20px 12px 12px; display: block; font-size: 12px;}
 .social { padding: 0; float: right; }
 .social li { list-style: none; display: inline-block; }
 .social li a { padding: 6px 5px; display: block; }
@@ -78,7 +78,7 @@ header a { color: #FFF; }
 .footer-header { color: #FFF; font-size: 18px; font-family: 'neotechalt-bold'; background: url(../images/footer-title.png) left bottom no-repeat; padding: 0 0 11px 0; }
 .quiq-links { margin: 40px 0; height: 180px; color: #636363; font-size: 16px; }
 .menu-footer { list-style: none; }
-.menu-footer li { width: 173px; display: inline-block; }
+.menu-footer li {width: 263px;display: inline-block;}
 .menu-footer li a { padding: 10px 0; display: block; text-decoration: none; border-bottom: 1px solid #343434; margin: 0 14px 0 0; color: #7a7a7a; font-size: 16px; }
 .footer-header + h3 { color: #FFF; font-size: 16px; font-family: 'neotechalt-bold'; }
 .quiq-links span { display: block; margin: 0 0 0 0; }

@@ -18,7 +18,7 @@ DCPM includes a highly interactive web-based user interface offering a single pa
 As of now, you have a central, clear and complete view of your energy usages across both physical and logical groupings.
 
 Want to find out more on how a good power management software can maximize your uptime and reduce your opex? [\
-Click here to read the article.](/post/uptime-maximization-opex-)
+Click here to read the article.](/uptime-maximization-opex-)
 
 Benefits
 --------

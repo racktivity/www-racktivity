@@ -4,21 +4,22 @@
 <footer class="footer">
   <div class="container">
     <div class="row">
-      <div class="col-md-4">
+      <div class="col-md-8">
         <div class="quiq-links">
           <h3 class="footer-header">{{.Params.links_title}}</h3>
           <ul class="menu-footer">
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Solutions</a></li>
-            <li><a href="#">Products</a></li>
-            <li><a href="#">Partners</a></li>
-            <li><a href="#">Customers</a></li>
-            <li><a href="#">Resources</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="/solutions/data-centers/">Data Centers</a></li>
+            <li><a href="/solutions/enterprises-banks-academic-world-hospitals-industrial-companies/">Enterprises</a></li>
+            <li><a href="/solutions/service-providers-telco-operators-mobile-operators-cable-operators-satellite-operators-0/">Service Providers</a></li>
+            <li><a href="/solutions/system-integrators/">System Integrators</a></li>
+            <li><a href="/products/environmental-management/">Environmental management</a></li>
+            <li><a href="/products/infrastructure-power-management/">Infrastructure power management</a></li>
+            <li><a href="/products/power-management-software/">Power management software</a></li>
+            <li><a href="/products/rack-power-management/">Rack power management</a></li>
           </ul>
         </div>
       </div>
-      <div class="col-md-5">
+      <div class="col-md-4">
         <div class="quiq-links">
           <h3 class="footer-header">Contact us</h3>
           <h3>{{.Params.contact_title}}</h3>
@@ -26,24 +27,17 @@
           <br>
           <span><strong>Phone:</strong>{{.Params.contact_phone}}</span> <span><strong>Email:</strong>{{.Params.contact_email}}</span> </div>
       </div>
-      <div class="col-md-3">
-        <div class="quiq-links">
-          <h3 class="footer-header">For more information</h3>
-          <p class="footer-info">{{.Params.info}}</p>
-          <input class="footer-button" type="button" value="{{.Params.button_text}}" onclick="window.location='{{.Params.button_link}}';">
-
-        </div>
-      </div>
+      
     </div>
     <div class="row copyright">
       <div class="footer-side"></div>
       <div class="col-md-6 nopadding copy-text">{{.Params.copyright}} </div>
       <div class="col-md-6 links"> <span class="footer-shape"></span>
         <ul>
-          <li><a href="#">Terms Of Use</a></li>
-          <li><a href="#">Privacy Policy</a></li>
-          <li><a href="#">Support</a></li>
-          <li><a style="padding-right: 0" href="#">Sitemap</a></li>
+          <li><a href="/">Home</a></li>
+          <li><a href="/company/">Company</a></li>
+          <li><a href="/support/">Supprort</a></li>
+          <li><a style="padding-right: 0" href="/contact/">Contact</a></li>
         </ul>
       </div>
     </div>
@@ -54,10 +48,10 @@
   <script src="/js/general.js"></script>
 
   <!-- TODO rename js files and take them from local -->
-  <script type="text/javascript" src="http://127.0.0.1:54225/files/js/js_0gj6QcpfRH2jzTbCQqf7kEkm4MXY0UA_sRhwPc8jC1o.js"></script>
-  <script type="text/javascript" src="http://127.0.0.1:54225/files/js/js_4ZrSfhQVOw6i9znJCZe7jUN7u2jzAKWco-Dev1ujF6I.js"></script>
-  <script type="text/javascript" src="http://127.0.0.1:54225/files/js/js_Dm5GgxzDCLGkkRC1Qvh38iGBgAqz3qgQ_b2FwVyffHs.js"></script>
-  <script type="text/javascript" src="http://127.0.0.1:54225/files/js/js_J3BcjR1wUWVlwX8fVzSnUu2sRIF7Ulyt9ERIWwaJtQU.js"></script>
+  <script type="text/javascript" src="/js/overlay1.js"></script>
+  <script type="text/javascript" src="/js/overlay2.js"></script>
+  <script type="text/javascript" src="/js/overlay3.js"></script>
+  <script type="text/javascript" src="/js/overlay4.js"></script>
 {{end}}
 {{end}}
 {{end}}

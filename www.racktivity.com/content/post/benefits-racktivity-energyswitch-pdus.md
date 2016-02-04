@@ -1,6 +1,8 @@
 +++
 #Don't remove title!
 title = "Benefits of Racktivity EnergySwitch PDUs"
+page_disc = "Racktivity's power distribution EnergySwitch Smart PDUs equip your data center with the industry’s most advanced metering and switching capability.  "
+section_pic = "/images/product-banner1.jpg"
 +++
 
 One of the major challenges of today’s companies is the need to achieve close to 100% uptime.

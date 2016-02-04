@@ -1,4 +1,4 @@
-http://gig-racktivity:8347 {
+http://gig-racktivity.aydo.com:8347 {
     bind 0.0.0.0
     gzip
     root www.racktivity.com/en
@@ -7,6 +7,6 @@ http://gig-racktivity:8347 {
        interval 300
        key ../keys/id_rsa
        path ../..
-       then ./hugo-init
+       then hugo -s www.racktivity.com
     }
 }

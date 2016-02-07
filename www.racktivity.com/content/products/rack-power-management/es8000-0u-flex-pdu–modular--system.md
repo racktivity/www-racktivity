@@ -1,10 +1,10 @@
 +++
-title= "ES2124-30 (0U, 1 phase, 30A, US, 21C13, 3C19)"
+title= "ES8000 (0U – Flex PDU – Modular system)"
 page_disc = "Racktivity's power distribution EnergySwitch Smart PDUs equip your data center with the industry’s most advanced metering and switching capability.  "
 section_pic = "/images/product-banner1.jpg"
 parent = "rack-power-management"
-image = "/images/products_energyswitch_0U_gallery1%5B1%5D%5B1%5D.png"
-real_link = "es2124-30-1-phase-30a-us"
+image = "/images/products_energyswitch_0U_gallery1.png"
+real_link = "es8000-0u-flex-pdu–modular--system"
 +++
 Racktivity's power distribution EnergySwitch Smart PDUs equip your data center with the industry’s most advanced metering and switching capability.  
 All Racktivity EnergySwitch smart PDUs are built upon Racktivity’s real-time operating system, EnergyOS™ to provide the highest degree of granular real-time PowerQuality type metrics. EnergyOS™ implements the hardware-related portions of Racktivity's EnergyDNA™ technology to provide real-time remote PDU-level and outlet-level true RMS monitoring of current (A), voltage (V), power (VA, W), power factor (%) and energy consumption (kWh) with +/- 1% accuracy.

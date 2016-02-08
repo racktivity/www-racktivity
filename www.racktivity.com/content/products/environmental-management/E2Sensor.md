@@ -43,7 +43,7 @@ M: [sales@racktivity.com](mailto:sales@racktivity.com)
 Technical specifications
 ------------------------
 
-Measure
+#### Measure
 
 -   Temperature
 -   Humidity
@@ -52,7 +52,7 @@ Measure
 -   Smoke detection
 -   Motion detection
 
-SECURE
+#### SECURE
 
 -   SNMP TRAPs, SETs, GETs support
 -   Secure web site (HTTPS)

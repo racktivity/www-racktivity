@@ -64,126 +64,42 @@ Communication trough RS485
 
 Technical specifications
 ------------------------
+|   ACL Slave                                           |  Available?            
+| -------------                                         |-------------
+|Dimensions in cm (WxHxD):                              |8.8 x 9 x 5.8
+|Dimensions in inch (WxHxD):                            |3.46 x 3.54 x 2.1    
+|RS485 Bus connection                                   |Yes     
+|Dimensions in cm (WxHxD):	                            |8.8 x 9 x 5.8
+|Dimensions in inch (WxHxD):	                        |3.46 x 3.54 x 2.1
+|RS485 Bus connection	                                |Yes
+|tRMS Voltage measurement per phase	                    |Yes, 3phase+N
+|tRMS Current measurement per phase	                    |Yes, 4
+|Real Power (W) per phase	                            |Yes
+|Total Real Power (W)	                                |Yes
+|Apparent Power (VA) per phase	                        |Yes
+|Total Apparent Power	                                |Yes
+|True Power Factor (tPF in %) per phase	                |Yes
+|Frequency (Hz) per phase	                            |Yes
+|Power consumption (kWh) per phase	                    |Yes
+|Total Power Consumption (kWh)	                        |Yes
+|Total Harmonic distortion (THD)	                    |Yes
+|Harmonic information Voltage (up to 59th) per phase	|Yes
+|Harmonic information Current (up to 59th) per phase	|Yes
+|Oscilloscope view (Voltage, current, harmonics)	    |Yes
+|Dry contact input	                                    |4 inputs
+|Maximum number node per RS485 bus	                    |32
+|Power over RS485	                                    |Yes
+|Power over phase1	                                    |Yes
+|Led indicators	                                        |Yes
+|Built-in webserver	                                    |No Built into Cloud Connector
+|SNMP read/write/traps	                                |No Built into Cloud Connector
+|Open API over Ethernet	                                |No Built into Cloud Connector
+|Internal temperature sensor	                        |Yes
+|Din-Rail mountable	                                    |Yes
+|RS485 Network Connector	                            |2x RJ45
+|CT connector	                                        |Yes
 
-**ACL Slave**
 
-**Available?**
-
-Dimensions in cm (WxHxD):
-
-8.8 x 9 x 5.8
-
-Dimensions in inch (WxHxD):
-
-3.46 x 3.54 x 2.1
-
-RS485 Bus connection
-
-Yes
-
-tRMS Voltage measurement per phase
-
-Yes, 3phase+N
-
-tRMS Current measurement per phase
-
-Yes, 4
-
-Real Power (W) per phase
-
-Yes
-
-Total Real Power (W)
-
-Yes
-
-Apparent Power (VA) per phase
-
-Yes
-
-Total Apparent Power
-
-Yes
-
-True Power Factor (tPF in %) per phase
-
-Yes
-
-Frequency (Hz) per phase
-
-Yes
-
-Power consumption (kWh) per phase
-
-Yes
-
-Total Power Consumption (kWh)
-
-Yes
-
-Total Harmonic distortion (THD)
-
-Yes
-
-Harmonic information Voltage (up to 59^th^) per phase
-
-Yes
-
-Harmonic information Current (up to 59^th^) per phase
-
-Yes
-
-Oscilloscope view (Voltage, current, harmonics)
-
-Yes
-
-Dry contact input
-
-4 inputs
-
-Maximum number node per RS485 bus
-
-32
-
-Power over RS485
-
-Yes
-
-Power over phase1
-
-Yes
-
-Led indicators
-
-Yes
-
-Built-in webserver
-
-No Built into Cloud Connector
-
-SNMP read/write/traps
-
-No Built into Cloud Connector
-
-Open API over Ethernet
-
-No Built into Cloud Connector
-
-Internal temperature sensor
-
-Yes
-
-Din-Rail mountable
-
-Yes
-
-RS485 Network Connector
-
-2x RJ45
-
-CT connector
-
-Yes
 
 Look & Feel
 -----------
@@ -199,3 +115,4 @@ Documentation
 
 [Connection on 3 phase breakers + N](/images/Tap%20off%20box_slave_3ph.jpg "Tap off box_slave_3ph.jpg")  
 [Download the ACL Series user manual](/pdf/ACL%20Series%20-%20User%20Manual_11.pdf "ACL Series - User Manual.pdf")
+

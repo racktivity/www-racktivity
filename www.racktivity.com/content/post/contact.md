@@ -10,9 +10,10 @@ section_pic = "/images/page-pic.jpg"
 ### We welcome your questions, comments and inquiries.
 Contact Racktivity for more information, questions, partner inquiries or to learn more about how the Racktivity solutions can help you save energy and improve your uptime.
 <div class="office col-md-4">
-### the office
 
-#### Racktivity NV
+* the office
+
+**Racktivity NV**<br>
 Antwerpsesteenweg 19
 <br>
 9080 Lochristi
@@ -21,22 +22,22 @@ Belgium
 <br>
 Taxation Registration VAT: BE0809832610 (RPR Ghent)
 
-### general contact details
+* general contact details
 
 [sales@racktivity.com](sales@racktivity.com)
 <br> 
 +32 9 324 20 90
 
-### media/analyst/ investor contact
+* media/analyst/ investor contact
 
 [marketing@racktivity.com](marketing@racktivity.com)
 
-### support contact
+* support contact
 
 [support@racktivity.com](mailto:sales@racktivity.com)
 </div>
 
-### contact form
+* contact form
 
 <form id="contact-form" action="//formspree.io/magedf@codescalers.com" method="POST" class="col-md-7 nopadding">
 <!-- <form id="contact-form" action="//formspree.io/info@openvstorage.com" method="POST" class="col-md-7 nopadding"> -->

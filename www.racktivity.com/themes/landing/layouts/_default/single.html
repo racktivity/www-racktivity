@@ -4,6 +4,7 @@
 {{ if eq .Title "Company" }}
   <style type="text/css">
     .content-text img { float: right; display: block; margin-left: 57px; margin-top: 4px; margin-bottom: 41px; clear: both;max-width: 185px;}
+    .content-text p{ text-align: justify;}
   </style>
 {{ end }}
 {{ if eq .Title "Support" }}
@@ -18,6 +19,18 @@
 #contact-form {margin-bottom: 20px;float: left; display: inline-block;}
 #contact-form input[type="text"], #contact-form input[type="password"], #contact-form input[type="email"], #contact-form textarea, #contact-form select {    }
 label, legend {display: block;font-weight: bold;font-size: 13px;}
+.content-text ul{font-size: 16px; color:#34A4DE;}
+
+  </style>
+{{ end }}
+{{ if eq .Title "ACL Slave" }}
+  <style type="text/css">
+  table td{padding-right: 30px;}
+  </style>
+{{ end }}
+{{ if eq .Title "ACLD Display" }}
+  <style>
+  table td{padding-right: 30px;}
   </style>
 {{ end }}
 

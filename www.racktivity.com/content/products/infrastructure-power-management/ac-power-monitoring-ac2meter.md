@@ -46,7 +46,7 @@ Features
 Technical specifications
 ------------------------
 
-Measure
+#### Measure
 
 -   True RMS 25.000+ samples per outlet
 -   Billing Grade Accuracy, +/- 1%
@@ -60,7 +60,7 @@ Measure
 -   Detailed logging: besides logging all measurements every 5 minutes, all power related behaviour deemed ‘deviant’ is logged for several seconds before and after occurring.
 -   Oscilloscope view: Realtime wave form graph of voltage and current per sensor
 
-Control
+#### Control
 
 -   Ethernet 10/100 Mbps auto detecting, half/full duplex connection
 -   Racktivity R-BUS connectors for connecting E²Sensors™
@@ -68,7 +68,7 @@ Control
 -   CLI (Command Line Interface) over Telnet and Telnet secure remote access
 -   Display: monitor voltage, frequency, phase shift , current
 
-Secure
+#### Secure
 
 -   SNMP TRAPs, SETs, GETs support
 -   Integrated secure web site (HTTPS)
@@ -78,7 +78,7 @@ Secure
 -   Extensive logging
 -   Server-based authentication/authorization
 
-Mechanical
+#### Mechanical
 
 -   Form-factor: DIN rail 4M
 -   OLED with 4 control buttons

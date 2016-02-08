@@ -17,7 +17,7 @@ DCPM includes a highly interactive web-based user interface offering a single pa
 
 As of now, you have a central, clear and complete view of your energy usages across both physical and logical groupings.
 
-Want to find out more on how a good power management software can maximize your uptime and reduce your opex? [\
+Want to find out more on how a good power management software can maximize your uptime and reduce your opex? [
 Click here to read the article.](/uptime-maximization-opex-)
 
 Benefits
@@ -50,7 +50,7 @@ Benefits
 Technical specifications
 ------------------------
 
-Monitor
+#### Monitor
 
 -   Collection of power, environmental & other data
 -   Collection of power billing data
@@ -63,7 +63,7 @@ Monitor
 -   Feed and subfeed monitoring
 -   Third party device monitoring
 
-Alarm
+#### Alarm
 
 -   Event notification
 -   Event handling
@@ -72,7 +72,7 @@ Alarm
 -   Trending alarms
 -   Periodic alarms
 
-Analyse
+#### Analyse
 
 -   Power usage efficiency through formulas
 -   Capacity
@@ -81,13 +81,13 @@ Analyse
 -   Seasonality
 -   Manage dataflow charts
 
-Automate
+#### Automate
 
 -   Firmware upgrades
 -   Gracefull shutdown
 -   Auto discovery of PDU's
 
-Control
+#### Control
 
 -   Remote reboot & graceful operational shutdown
 -   Remote control of alarms
@@ -99,14 +99,14 @@ Control
 -   Camera integration
 -   PDU remote switching control
 
-Report
+#### Report
 
 -   Easy integration with third party reporting solutions such as Business Objects, Crystal Reports...
 -   Extensive logging possibilities
 -   Custom reporting possibilities
 -   Export of data
 
-Simulate
+#### Simulate
 
 -   Total cost of ownership
 -   Impact of temperature changes in efficiency

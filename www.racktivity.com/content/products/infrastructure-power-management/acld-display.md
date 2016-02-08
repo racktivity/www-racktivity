@@ -43,61 +43,23 @@ Benefits
 Technical specifications
 ------------------------
 
-Dimensions cm (WxHxD)
+|                                                       |              
+| -------------                                         |-------------
+|Dimensions cm (WxHxD)                                  |9 x 9 x 5.9
+|Dimensions inch (WxHxD):                               |3.54 x 3.54 x 2.32   
+|Power over R-Bus                                       |Yes     
+|Line Voltage of the slave devices (3ph + N)	        |8.8 x 9 x 5.8
+|Frequency per line (3ph + N)	                        |3.46 x 3.54 x 2.1
+|Power factor per line (3ph + N)	                    |Yes
+|Total harmonic Distortion per line (3ph + N)	        |Yes, 3phase+N
+|Real Power per line (3ph)	                            |Yes, 4
+|Apparent power per line (3ph)	                        |Yes
+|Total power of the selected ACLS device	            |Yes
+|Total Energy of the selected ACLS device               |Yes
+|Dry contact state of the selected slave device	        |Yes
+|Internal temperature state of the slave devices	    |Yes
 
-9 x 9 x 5.9
 
-Dimensions inch (WxHxD)
-
-3.54 x 3.54 x 2.32
-
-Power over R-Bus
-
-yes
-
-Current values per line (3ph + N)
-
-yes
-
-Line Voltage of the slave devices (3ph + N)
-
-yes
-
-Frequency per line (3ph + N)
-
-yes
-
-Power factor per line (3ph + N)
-
-yes
-
-Total harmonic Distortion per line (3ph + N)
-
-yes
-
-Real Power per line (3ph)
-
-yes
-
-Apparent power per line (3ph)
-
-yes
-
-Total power of the selected ACLS device
-
-yes
-
-Total Energy of the selected ACLS device
-
-yes
-
-Dry contact state of the selected slave device
-
-yes
-
-Internal temperature state of the slave devices
-
-yes
 
 Look & Feel
 -----------

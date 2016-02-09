@@ -44,6 +44,11 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
   p img{float: right;}
   </style>
 {{ end }}
+{{ if eq .Title "Data center floor plan" }}
+  <style>
+  .content-text p a{margin-right:20px;}
+  </style>
+{{ end }}
 
 <section class="page-disc" style="background: url({{.Params.section_pic}}) center center no-repeat">
 <div class="container">

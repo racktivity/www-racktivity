@@ -7,11 +7,17 @@
     .content-text p{ text-align: justify;}
   </style>
 {{ end }}
+
 {{ if eq .Title "Support" }}
   <style type="text/css">
-    p a img {width: 150px;}
+    p a img {height: 130px; margin-bottom: 40px;}
+    p a {float: left;margin-left: 20px;}
+  p img{} 
+  .content-text p{line-height: 21px;}
+  hr{ margin-top: 40px;}
   </style>
 {{ end }}
+
 {{ if eq .Title "Contact" }}
   <style type="text/css">
   form input, form select, form textarea { margin: 10px 0}
@@ -31,6 +37,11 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
 {{ if eq .Title "ACLD Display" }}
   <style>
   table td{padding-right: 30px;}
+  </style>
+{{ end }}
+{{ if eq .Title "Partners" }}
+  <style>
+  p img{float: right;}
   </style>
 {{ end }}
 

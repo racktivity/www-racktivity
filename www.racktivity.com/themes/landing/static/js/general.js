@@ -6,6 +6,6 @@
  
  $('.carousel').carousel({
  	interval: 10000,
- 	pause: hover,
+ 	pause: 'hover'
  	
 })

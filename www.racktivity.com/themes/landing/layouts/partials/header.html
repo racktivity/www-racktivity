@@ -30,7 +30,7 @@
          
         </ul>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-4 mobile-center">
 
         <a href="http://www.greenitglobe.com" target="_blank"><img class="right-logo" src="/images/greenitglobe.png"></a>
       </div>
@@ -50,7 +50,7 @@
               <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                   <li class="active"><a href="/">Home <span class="sr-only">(current)</span></a></li>
-                  <li class="dropdown"> <a href="#" class="dropdown-toggle" >Solutions <span class="caret"></span></a>
+                  <li class="dropdown"> <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Solutions <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                     {{ range $element := where .Site.Pages "Section" "solutions" }}
                      <li><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
@@ -61,7 +61,7 @@
                       <li><a href="#">System Integrators</a></li>-->
                     </ul>
                   </li>
-                  <li class="dropdown"> <a href="#" class="dropdown-toggle" >Products <span class="caret"></span></a>
+                  <li class="dropdown"> <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" >Products <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                       {{ range $element := where .Site.Pages "Section" "products" }}
                         {{ if eq .Params.parent "top" }}
@@ -70,7 +70,7 @@
                     {{ end }}
                     </ul>
                   </li>
-                  <li> <a href="#">Downloads</a></li>
+                  <li> <a href="javascript:void(0);">Downloads</a></li>
                   <li> <a href="/company/">Company </a></li>
                   <li> <a href="/support/">Support </a></li>
                   <li> <a style="padding-right: 0;" href="/contact/">Contact</a></li>

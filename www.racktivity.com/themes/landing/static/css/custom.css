@@ -119,9 +119,10 @@ header a { color: #FFF; }
 .section-side ul li li { list-style: none; background: url(../images/bred-pic.png) 23px 15px no-repeat; border-top: none; }
 .section-side ul li:first-child { border: 0; }
 .section-side ul li a { color: #515151; padding: 9px 10px 9px 25px; display: block; font-size: 14px; }
-.section-side ul li a:hover{background-color:rgba(68,145,255,0.4); text-decoration: none;}
+.section-side ul li a:hover{ text-decoration: none;color: #4491E1;}
 .section-side ul li li a { padding: 9px 10px 9px 38px; }
 .section-side li .active { background: url(../images/arrow-white.png) 11px 15px no-repeat #4491E1; border: 0; color: #FFF; }
+.section-side li a.active:hover { color:#FFF; opacity: 0.9 }
 .section-side li li .active { background: url(../images/arrow-white.png) 24px 15px no-repeat #4491E1; border: 0; color: #FFF; }
 .section-side .active + li { border: 0 }
 .section-side .active a { color: #FFF }
@@ -248,6 +249,7 @@ a.moreinfo { text-transform: capitalize; text-decoration: none; color: #2DA3DC; 
 .submit, .submit:hover { color: #FFF }
 .dropdown-menu { position: absolute; top: 98%; }
 .navbar-nav > li:first-child a, .navbar-nav > li.active:first-child a { background: none }
+.navbar-nav > li:first-child a, .navbar-nav > li.active:first-child a:hover { background: none }
 .dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus { color: #fff; text-decoration: none; background-color: #21A6DF; outline: 0; }
 .fancybox img { width: 175px; }
 .content-text ul { padding-left: 18px; }

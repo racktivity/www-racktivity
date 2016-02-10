@@ -186,6 +186,7 @@ header a { color: #FFF; }
 .video-side iframe {margin-bottom: 0px;margin-top: 0px !important;height: 300px;}
 .main-menu .nav > li > a {padding: 14px 16px !important;}
 .row .black-part {display: inline-block;margin-top: 45px !important;}
+.office {float: none !important; padding-left: 0 !important;}
 }
 @media (max-width: 768px) {
 .product-header { font-size: 14px; }

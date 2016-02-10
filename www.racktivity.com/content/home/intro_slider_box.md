@@ -17,5 +17,11 @@ slider2_text3 = "LEARN ABOUT OUR NEW MODULAR FLEX PDU"
 slider2_button = "WATCH A DEMO"
 slider2_text4 = "Racktivity has a distinctive vision on what value add in power management means - Luc Neysens, CEO at Isabel"
 
+slider3_pic= "images/slider1.jpg"
+slider3_text1 = "Did you know?"
+slider3_text2 = "Our EnergySwitchss PDUs are equipped with unique features such as 'Electronic Fast Fuse Protection'"
+slider3_text3 = "LEARN ABOUT OUR NEW MODULAR FLEX PDU"
+slider3_button = "WATCH A DEMO"
+slider3_text4 = "Racktivity has a distinctive vision on what value add in power management means - Luc Neysens, CEO at Isabel"
 
 +++

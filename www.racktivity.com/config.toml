@@ -6,6 +6,7 @@ contentdir = "content"
 staticdir = "static"
 publishdir = "en"
 relativeURLs = true
+port = 9090
 
 [permalinks]
     post = "/:filename"

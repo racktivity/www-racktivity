@@ -1,4 +1,5 @@
 +++
+weight=3
 title= "ACL Series – Master/Slave Power Monitoring"
 page_disc = "Racktivity presents a brand new solution to remotely monitor and manage AC power within the tap off boxes of the busbar system or electrical cabinets."
 section_pic = "/images/product-banner2.jpg"
@@ -6,7 +7,7 @@ parent = "infrastructure-power-management"
 real_link = "acl-series"
 image = "/images/acl series.jpg"
 +++
-Racktivity presents a brand new solution to remotely monitor and manage AC power within the tap off boxes of the busbar system or electrical cabinets. The solution uses a RS485 bus connection (via RJ45 cable) between the different meter units that will be installed in the tap off boxes or electrical cabinets. 
+Racktivity presents a brand new solution to remotely monitor and manage AC power within the tap off boxes of the busbar system or electrical cabinets. The solution uses a RS485 bus connection (via RJ45 cable) between the different meter units that will be installed in the tap off boxes or electrical cabinets.
 
 Following items are available in this product range:
 

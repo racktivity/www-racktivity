@@ -2,9 +2,8 @@
 title= "ACL Slave"
 page_disc = "The **ACL Slave** Meter is an accurate power meter with 3 voltage inputs (+N) and 4 current clamp inputs connected to a RS485 Bus network."
 section_pic = "/images/product-banner2.jpg"
-parent = "infrastructure-power-management"
-real_link = "acl-slave"
 image = "/images/IMG_9162_0.jpg"
+hide_menu = "True"
 +++
 The **ACL Slave** Meter is an accurate power meter with 3 voltage inputs (+N) and 4 current clamp inputs connected to a RS485 Bus network. In addition the power meter has 4 dry inputs to connect any input like special circuit breakers (with dry contact outputs) or raid contact for the tap off boxes. Those contacts can generate SNMP traps that can be used for monitoring purposes.
 
@@ -115,4 +114,3 @@ Documentation
 
 [Connection on 3 phase breakers + N](/images/Tap%20off%20box_slave_3ph.jpg "Tap off box_slave_3ph.jpg")  
 [Download the ACL Series user manual](/pdf/ACL%20Series%20-%20User%20Manual_11.pdf "ACL Series - User Manual.pdf")
-

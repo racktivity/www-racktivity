@@ -1,4 +1,5 @@
 +++
+weight=11
 title= "ES8000 (0U – Flex PDU – Modular system)"
 page_disc = "Racktivity's power distribution EnergySwitch Smart PDUs equip your data center with the industry’s most advanced metering and switching capability.  "
 section_pic = "/images/product-banner1.jpg"

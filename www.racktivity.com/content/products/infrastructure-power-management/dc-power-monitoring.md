@@ -1,4 +1,5 @@
 +++
+weight=2
 title= "DC² - DC Power monitoring"
 page_disc = "To give a total overview of your power consumption, Racktivity has complemented its product line with a new family of power meter and monitoring devices."
 section_pic = "/images/product-banner2.jpg"
@@ -13,7 +14,7 @@ The DC²Meter also supports our [E²Sensor](/products/environmental-management/E
 
 The meter is fully compatible with our [DCPM, a Service Provider Infrastructure & Data Center Performance Management System](/products/power-management-software/dcpm), allowing you to remotely monitor and manage power and critical environment metrics in your data centers and/or smaller distributed infrastructures.
 
-The DC²Meter provides you with the missing element for a complete power monitoring solution and solves any issues with large or distributed estates of DC powered equipment. 
+The DC²Meter provides you with the missing element for a complete power monitoring solution and solves any issues with large or distributed estates of DC powered equipment.
 With this addition, Racktivity gives you the tools to measure and analyse your data in order to prevent downtime and reduce your carbon footprint.
 
 Benefits

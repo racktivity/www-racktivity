@@ -2,9 +2,8 @@
 title= "ACL Master"
 page_disc = "The **ACL Master** will act as a gateway between Ethernet and up to 32 RS485 ACL Slave devices on one single IP address. It is compact DIN-Rail Gateway module with a 24V DC input for providing power to the ACL Slave devices or ACL Display via the RS485 Bus,"
 section_pic = "/images/product-banner2.jpg"
-parent = "infrastructure-power-management"
-real_link = "acl-master"
 image = "/images/IMG_9163.jpg"
+hide_menu = "True"
 +++
 The **ACL Master** will act as a gateway between Ethernet and up to 32 RS485 ACL Slave devices on one single IP address. It is compact DIN-Rail Gateway module with a 24V DC input for providing power to the ACL Slave devices or ACL Display via the RS485 Bus, an Ethernet connection, a compact OLED screen and 4 buttons for full configuration.
 

@@ -2,9 +2,8 @@
 title= "ACLD Display"
 page_disc = "Racktivity has developed a user friendly display (ACLD) to complete its new AC power monitoring link system (ACL). The ACL is typically used to monitor and meter AC power busbar systems on top off datacenter racks or in electrical cabinets."
 section_pic = "/images/product-banner2.jpg"
-parent = "infrastructure-power-management"
-real_link = "acld-display"
 image = "/images/IMG_6756_0.JPG"
+hide_menu = "True"
 +++
 Racktivity has developed a user friendly display (ACLD) to complete its new AC power monitoring link system (ACL). The ACL is typically used to monitor and meter AC power busbar systems on top off datacenter racks or in electrical cabinets.
 

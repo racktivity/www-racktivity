@@ -1,8 +1,8 @@
 +++
+weight=1
 title= "AC² - AC Power monitoring"
 page_disc = "To give a total overview of your power consumption, Racktivity has complemented its product line with a new family of power meter and monitoring devices."
 section_pic = "/images/product-banner2.jpg"
-
 parent = "infrastructure-power-management"
 real_link = "ac-power-monitoring-ac2meter"
 image = "/images/dc1.png"
@@ -18,7 +18,7 @@ The meter is fully compatible with our [DCPM, a Service Provider Infrastructure 
 The AC²Meter provides you with the missing element for a complete power monitoring solution and solves any issues with large or distributed estates of AC powered equipment.
 With this addition, Racktivity give you the tools to measure and analyse your data in order to prevent downtime and reduce your carbon footprint.
 
-Want to find out more on why our AC²Meter can help your business? 
+Want to find out more on why our AC²Meter can help your business?
 [Click here to read the article.](/accurate-ac-power-monitoring)
 
 Benefits

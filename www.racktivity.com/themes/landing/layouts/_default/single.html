@@ -12,7 +12,7 @@
   <style type="text/css">
     p a img {height: 130px; margin-bottom: 40px;}
     p a {float: left;margin-left: 20px;}
-  p img{} 
+  p img{}
   .content-text p{line-height: 21px;}
   hr{ margin-top: 40px;}
   </style>
@@ -83,13 +83,14 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
   <div class="container">
     <div class="row">
     {{ if ne .Section "post" }}
+    {{if ne .Params.hide_menu "True"}}
       <div class="col-md-4 section-side">
         <h1 class="section-title">{{title .Section}}</h1>
         <ul>
-          
+
           {{ if eq .Section "products" }}
 
-          
+
 
 
           {{ $currentParent := replace .RelPermalink .Params.real_link "" }}
@@ -102,11 +103,15 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
                     {{ $currentParenLink := replace .RelPermalink .Params.real_link "" }}
                   <li class="collapsed"><a href="{{$currentParenLink}}">{{$cleancurrentParent}}</a>
                     <ul class="menu">
-                      {{ range $element := .Site.Pages }}
-                      {{ if eq .Section "products" }}
-                        {{ if eq .Params.parent $currentParent }}
-                          <li class="collapsed"><a href="{{$element.RelPermalink}}">{{$element.Title}}</a></li>
-                        {{end}}
+                      {{ range sort .Site.Pages ".Weight" }}
+                        {{ if eq .Section "products" }}
+                          {{ if eq .Params.parent $currentParent }}
+                            <li class="collapsed">
+                              <a href="{{.RelPermalink}}">
+                                {{ .Title }}
+                              </a>
+                            </li>
+                          {{end}}
                         {{end}}
                       {{end}}
                     </ul>
@@ -129,6 +134,7 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
           {{ end }}
         </ul>
       </div>
+      {{ end }}
       {{ end }}
       <div class="col-md-{{ if eq .Section "post" }}12{{else}}8{{end}} content-text">
         <h1>

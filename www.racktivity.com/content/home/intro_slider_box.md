@@ -10,7 +10,7 @@ slider1_text3 = "LEARN ABOUT OUR NEW MODULAR FLEX PDU"
 slider1_button = "WATCH A DEMO"
 slider1_text4 = "This is nog an evolution, this is a revolution! - Berre Janssens, European Datacenter Energy Efficiency Leader at IBM"
 
-slider2_pic= "images/slider1.jpg"
+slider2_pic= "images/slider2-2.jpg"
 slider2_text1 = "Did you know?"
 slider2_text2 = "Our EnergySwitch PDUs are equipped with unique features such as 'Electronic Fast Fuse Protection'"
 slider2_text3 = "LEARN ABOUT OUR NEW MODULAR FLEX PDU"

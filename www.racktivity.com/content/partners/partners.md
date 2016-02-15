@@ -14,6 +14,49 @@ Racktivity’s unique approach to power management and environmental monitoring 
 
 -------------------------------
 
+### Kannegieter
+
+**The Netherlands**
+![image](/images/kannegieter.png)
+
+See map: [Google Maps](http://maps.google.nl?q=%2C+%2C+%2C+nl)  
+**xxx**  
+xxx
+xxx 
+xxx 
+
+xxx \
+xxx :
+
+-   xxx
+-   xxx 
+-   xxx 
+  
+-   [www.kannegieter.nl](http://www.kannegieter.nl)
+
+---------------------------------------
+
+### Enertronic S.A.
+
+**Spain**
+![image](/images/enertronic.png)
+
+See map: [Google Maps](http://maps.google.es?q=%2C+%2C+%2C+es)  
+**Your technology partner**  
+Enertronic S.A. provides Technological solutions in energy management, UPS, automation, surge protection and control. 
+Founded in 2006 we are a Spanish reference in Data Centers energy management, providing solutions for some of the biggest Data Centers in Spain, requiring TIER IV certification.  
+We provide true and reliable solutions to improve P.U.E. and to certify to ISO 50.001 in the field of IT, Data Centers, Telecom, Utilities, Cable operators, Broadcast, etc. 
+
+Our services :
+
+-   We provide state of the art technology and solutions for data center energy management
+-   We have our own local support team to assure and guarantee customer satisfaction via our exclusive ESP Program (Enertronic Soporte Próximo)
+-   We are ISO9001 certified
+  
+-   [www.enertronic.es](http://www.enertronic.es)
+
+---------------------------------------
+
 ### Datasign
 
 **Switzerland**
@@ -38,7 +81,7 @@ Our services:
 
 ### MERA-TECH
 
-**United Kingdom**
+**Middle East & UK**
 ![image](/images/meratech.png)
 
 See map: [Google Maps](http://maps.google.co.uk?q=%2C+%2C+%2C+gb)
@@ -89,6 +132,28 @@ Gila is considered as the main pillar for distributing the products of the major
 
 ---------------------------------------
 
+### Belcom
+
+**France**
+![image](/images/datasign-logo_0.jpg)
+
+See map: [Google Maps](http://maps.google.fr?q=%2C+%2C+%2C+fr)  
+**xxx**  
+xxx
+xxx 
+xxx 
+
+xxx \
+xxx :
+
+-   xxx
+-   xxx 
+-   xxx 
+  
+-   [www.belcom.fr](http://www.belcom.fr)
+
+---------------------------------------
+
 ### APT
 ![image](/images/logo-apt copie.jpg)
 
@@ -132,18 +197,6 @@ Critical Power Supplies is a leading independent UK multi-brand supplier of crit
 
 ---------------------------------------
 
-### Datumstruct
-![image](/images/partners_datumstruct_logo.png)
-
-**Singapore**
-
-Datumstruct offers a comprehensive and holistic suite of products and services that include solutions for Command and Control Centres, Ergonomic Mounting and Mobility Applications, IT Infrastructures as well as Professional Audio Video Connectivity.\
-Their team of consultants will work to your specifications to create an effective yet aesthetic environment to ensure your Command and Control Centre is developed according to rigid standards with quality materials, intelligent technologies and innovative designs.
-
-[www.datumstruct.com](http://www.datumstruct.com/)
-
----------------------------------------
-
 ### Prime Technologies
 ![image](/images/partners_primetechnologies_logo.png)
 
@@ -179,4 +232,3 @@ Sent your request for quotation to [info@itcare.it](mailto:ractivity@itcare.it)
 [http://www.itcare.it](http://www.itcare.it)
 
 ---------------------------------------
-

@@ -23,7 +23,7 @@ See map: [Google Maps](http://maps.google.nl?q=%2C+%2C+%2C+nl)
 
 Kannegieter is al meer dan 55 jaar jong. Opgericht in 1959, groot geworden in de distributie van coax-kabel en sinds jaar en dag door kennis gedreven op het gebied van databekabeling, netwerkapparatuur en slimme distributieoplossingen. Kannegieter verbindt werelden!
  
-  -   [www.kannegieter.nl](http://www.kannegieter.nl)
+[www.kannegieter.nl](http://www.kannegieter.nl)
 
 ---------------------------------------
 
@@ -44,7 +44,7 @@ Our services :
 -   We have our own local support team to assure and guarantee customer satisfaction via our exclusive ESP Program (Enertronic Soporte Próximo)
 -   We are ISO9001 certified
   
--   [www.enertronic.es](http://www.enertronic.es)
+[www.enertronic.es](http://www.enertronic.es)
 
 ---------------------------------------
 
@@ -133,7 +133,7 @@ See map: [Google Maps](http://maps.google.fr?q=%2C+%2C+%2C+fr)
  
 Belcom247 is an experienced and trustworthy provider of round the clock specialist field operations services to global data network operators. Belcom247 designs, installs and maintains critical network and storage infrastructure on behalf of its multinational clients and guarantees best in class emergency maintenance response times at the world’s top 100 data centres.
 
--   [www.belcom247.com](http://www.belcom247.com)
+[www.belcom247.com](http://www.belcom247.com)
 
 ---------------------------------------
 
@@ -208,7 +208,7 @@ xxx
 xxx 
 
 
--   [www.elmitel.com](http://www.elmitel.com)
+[www.elmitel.com](http://www.elmitel.com)
 
 ---------------------------------------
 
@@ -223,14 +223,7 @@ xxx
 xxx 
 xxx 
 
-xxx \
-xxx :
-
--   xxx
--   xxx 
--   xxx 
-  
--   [www.watticonsume.com/iwatt](http://watticonsume.com/iwatt/)
+[www.watticonsume.com/iwatt](http://watticonsume.com/iwatt/)
 
 ---------------------------------------
 

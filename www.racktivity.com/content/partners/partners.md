@@ -81,7 +81,7 @@ Our services:
 
 ### MERA-TECH
 
-**United Kingdom**
+**Middle East & UK**
 ![image](/images/meratech.png)
 
 See map: [Google Maps](http://maps.google.co.uk?q=%2C+%2C+%2C+gb)

@@ -17,7 +17,7 @@ Racktivity’s unique approach to power management and environmental monitoring 
 ### Kannegieter
 
 **The Netherlands**
-![image](/images/datasign-logo_0.jpg)
+![image](/images/kannegieter.png)
 
 See map: [Google Maps](http://maps.google.nl?q=%2C+%2C+%2C+nl)  
 **xxx**  

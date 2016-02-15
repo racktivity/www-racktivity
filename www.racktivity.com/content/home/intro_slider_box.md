@@ -22,7 +22,7 @@ slider3_text1 = "AC or DC Monitoring?"
 slider3_text2 = "Our AC² and DC² allow for easy and flexible remote power monitoring, integrated to the main Building Infrastructure Systems via SNMP or the optional MODBUS interface"
 slider3_text3 = "LEARN ABOUT OUR NEW MODULAR FLEX PDU"
 slider3_button = "More"
-slider3_text4 = "EnergyDNA™ is the patent-pending set of technologies developed by Racktivity in direct response to the industry’s desire to better understand power within the data center."
+slider3_text4 = "With the AC² units installed in all our electrical cabinets with can see any micro interruptions and at the same time invoice each department accurately for energy consumption - Chief Facility Coordinator - Electricity of a main Belgian Industrial company."
 
 slider4_pic= "images/slider4.jpg"
 slider4_text1 = "Did you know?"

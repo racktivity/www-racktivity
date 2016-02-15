@@ -20,17 +20,9 @@ Racktivity’s unique approach to power management and environmental monitoring 
 ![image](/images/kannegieter.png)
 
 See map: [Google Maps](http://maps.google.nl?q=%2C+%2C+%2C+nl)  
-**xxx**  
-xxx
-xxx 
-xxx 
 
-xxx \
-xxx :
-
--   xxx
--   xxx 
--   xxx 
+Kannegieter is al meer dan 55 jaar jong. Opgericht in 1959, groot geworden in de distributie van coax-kabel en sinds jaar en dag door kennis gedreven op het gebied van databekabeling, netwerkapparatuur en slimme distributieoplossingen. Kannegieter verbindt werelden!xxx
+ 
   
 -   [www.kannegieter.nl](http://www.kannegieter.nl)
 

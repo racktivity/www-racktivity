@@ -135,7 +135,7 @@ Gila is considered as the main pillar for distributing the products of the major
 ### Belcom
 
 **France**
-![image](/images/datasign-logo_0.jpg)
+![image](/images/belcom.png)
 
 See map: [Google Maps](http://maps.google.fr?q=%2C+%2C+%2C+fr)  
 **xxx**  

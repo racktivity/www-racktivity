@@ -112,19 +112,20 @@ Wires & Wireless was founded in 2001, as a structured cabling company, to design
 ---------------------------------------
 
 ### EO Smart Building
+
+**Tunisie**
 ![image](/images/eo-logo.png)
 
-**Tunisia**
-<br>
-<br>
-<br>
+EO Smartbuilding, innove en tant que premier intégrateur de salles informatiques et datacenters, garantissant ses installations plus de vingt ans et assurant une économie substantielle d’espace et d’énergie, ceci grâce à ses ingénieurs certifiés et ses partenaires, leaders mondiaux dans la fourniture d’équipements et de solutions pour datacenters.
+
+[www.eodatacenter.com/](http://www.eodatacenter.com/)
 
 ---------------------------------------
 
 ### Gila
-![image](/images/gila-logo.jpg)
 
 **Egypt**
+![image](/images/gila-logo.jpg)
 
 Gila is considered as the main pillar for distributing the products of the major international electrical agencies in Egypt as well as a reliable partner for other distinguished companies.
 
@@ -155,9 +156,9 @@ xxx :
 ---------------------------------------
 
 ### APT
-![image](/images/logo-apt copie.jpg)
 
 **France**
+![image](/images/logo-apt copie.jpg)
 
 See map: [Google Maps](http://maps.google.fr/?q=%2C+%2C+%2C+fr)
 
@@ -168,9 +169,9 @@ The goal of APT is to offer efficient and economically interesting solutions to 
 ---------------------------------------
 
 ### U.T.E. electronic gmbh & co.kg
-![image](/images/UTE_col_gruen_200x104_0.jpg)
 
 **Germany**
+![image](/images/UTE_col_gruen_200x104_0.jpg)
 
 See map: [Google Maps](http://maps.google.com?q=%2C+%2C+%2C+de)
 
@@ -181,9 +182,9 @@ U.T.E. is a german based distributor of electronic products for the high end mar
 ---------------------------------------
 
 ### Critical Power Supplies
-![image](/images/criticalpowersupplies.png)
 
 **United Kingdom**
+![image](/images/criticalpowersupplies.png)
 
 See map: [Google Maps](http://maps.google.co.uk?q=%2C+%2C+%2C+gb)
 
@@ -198,9 +199,9 @@ Critical Power Supplies is a leading independent UK multi-brand supplier of crit
 ---------------------------------------
 
 ### Prime Technologies
-![image](/images/partners_primetechnologies_logo.png)
 
 **Poland**
+![image](/images/partners_primetechnologies_logo.png)
 
 Prime Technologies provides valuable technology solutions for datacenters, internet service providers, telecom operators system integrators and other enterprises. Between solutions offered one can find:
 
@@ -213,6 +214,50 @@ Prime Technologies provides valuable technology solutions for datacenters, inter
 -   other passive and active equipment for IT infrastructure
 
 [www.primetech.com.pl](http://www.primetech.com.pl/)
+
+---------------------------------------
+
+### Elmitel
+
+**Slovenia/Croatia**
+![image](/images/elmitel.png)
+
+See map: [Google Maps](http://maps.google.si?q=%2C+%2C+%2C+si)  
+**xxx**  
+xxx
+xxx 
+xxx 
+
+xxx \
+xxx :
+
+-   xxx
+-   xxx 
+-   xxx 
+  
+-   [www.elmitel.com](http://www.elmitel.com)
+
+---------------------------------------
+
+### Dividec
+
+**Greece**
+![image](/images/dividec.png)
+
+See map: [Google Maps](http://maps.google.gr?q=%2C+%2C+%2C+gr)  
+**xxx**  
+xxx
+xxx 
+xxx 
+
+xxx \
+xxx :
+
+-   xxx
+-   xxx 
+-   xxx 
+  
+-   [www.watticonsume.com/iwatt/](http://watticonsume.com/iwatt/)
 
 ---------------------------------------
 

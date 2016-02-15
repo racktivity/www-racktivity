@@ -42,9 +42,9 @@ xxx :
 ![image](/images/enertronic.png)
 
 See map: [Google Maps](http://maps.google.es?q=%2C+%2C+%2C+es)  
-**xxx**  
+**Your technology partner**  
 Enertronic S.A. provides Technological solutions in energy management, UPS, automation, surge protection and control. 
-We are since 2006 a Spanish reference in Data Centers energy management, providing solutions for some of the biggest Data Centers in Spain, requiring TIER IV certification.  
+Founded in 2006 we are a Spanish reference in Data Centers energy management, providing solutions for some of the biggest Data Centers in Spain, requiring TIER IV certification.  
 We provide true and reliable solutions to improve P.U.E. and to certify to ISO 50.001 in the field of IT, Data Centers, Telecom, Utilities, Cable operators, Broadcast, etc. 
 
 Our services :

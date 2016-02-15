@@ -107,7 +107,7 @@ Complemented with reliable managed services solutions, MERA-TECH provides end to
 
 Wires & Wireless was founded in 2001, as a structured cabling company, to design, implement and manage critical voice and data communications networks. Wires recognizes the need to deliver consistently high quality, reliable, and innovative solutions across all industry sectors. Today, Wires professionally designs, installs, and maintains cost effective and future-proof networking systems for organisations of any size.
 
-[www.wires.co.za/](http://wires.co.za/)
+[www.wires.co.za](http://wires.co.za/)
 
 ---------------------------------------
 
@@ -177,7 +177,7 @@ See map: [Google Maps](http://maps.google.com?q=%2C+%2C+%2C+de)
 
 U.T.E. is a german based distributor of electronic products for the high end market. The company focuses on supply of datacenter equipment including UPS systems and energy monitoring equipment.
 
-[http://www.ute.de/](http://www.ute.de/racktivity)
+[http://www.ute.de](http://www.ute.de/racktivity)
 
 ---------------------------------------
 
@@ -188,9 +188,6 @@ U.T.E. is a german based distributor of electronic products for the high end mar
 
 See map: [Google Maps](http://maps.google.co.uk?q=%2C+%2C+%2C+gb)
 
-United States
-
-See map: [Google Maps](http://maps.google.com?q=%2C+%2C+%2C+%2C+us)
 
 Critical Power Supplies is a leading independent UK multi-brand supplier of critical power and energy solutions including uninterruptible power supplies and standby power generators to 6MVA. As a multi-brand supplier we are well placed to provide you with the right power solution.
 
@@ -257,7 +254,7 @@ xxx :
 -   xxx 
 -   xxx 
   
--   [www.watticonsume.com/iwatt/](http://watticonsume.com/iwatt/)
+-   [www.watticonsume.com/iwatt](http://watticonsume.com/iwatt/)
 
 ---------------------------------------
 

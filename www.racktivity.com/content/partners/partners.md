@@ -107,7 +107,7 @@ Complemented with reliable managed services solutions, MERA-TECH provides end to
 
 Wires & Wireless was founded in 2001, as a structured cabling company, to design, implement and manage critical voice and data communications networks. Wires recognizes the need to deliver consistently high quality, reliable, and innovative solutions across all industry sectors. Today, Wires professionally designs, installs, and maintains cost effective and future-proof networking systems for organisations of any size.
 
-[www.wires.co.za](http://wires.co.za/)
+[www.wires.co.za](http://wires.co.za)
 
 ---------------------------------------
 
@@ -118,7 +118,7 @@ Wires & Wireless was founded in 2001, as a structured cabling company, to design
 
 EO Smartbuilding, innove en tant que premier intégrateur de salles informatiques et datacenters, garantissant ses installations plus de vingt ans et assurant une économie substantielle d’espace et d’énergie, ceci grâce à ses ingénieurs certifiés et ses partenaires, leaders mondiaux dans la fourniture d’équipements et de solutions pour datacenters.
 
-[www.eodatacenter.com/](http://www.eodatacenter.com/)
+[www.eodatacenter.com/](http://www.eodatacenter.com)
 
 ---------------------------------------
 
@@ -239,7 +239,7 @@ xxx :
 ### Dividec
 
 **Greece**
-![image](/images/dividec.png)
+![image](/images/watt.png)
 
 See map: [Google Maps](http://maps.google.gr?q=%2C+%2C+%2C+gr)  
 **xxx**  
@@ -261,7 +261,7 @@ xxx :
 ### ITCare s.r.l.
 
 **Italy**
-![image](/images/Logo.JPG)
+![image](/images/itcare.png)
 
 ITCare is an IT consulting Company building and providing solutions either in Systems, Process and Service Management. Our crew is highly specialized and constantly up to date, via training and certifications.
 

@@ -1,6 +1,6 @@
 +++
 #Don't remove title!
-title = "Support"
+title = "Support - email : support@racktivity.com - call : +32 9 324 2090"
 page_disc = "Racktivity doesn’t try to automate the support process with a series of scripts, menus and automated call handlers. If you need to speak with us about a technical question on our products, or need some assistance with using our products already installed on your site."
 section_pic = "/images/page-pic.jpg"
 +++
@@ -279,10 +279,3 @@ VersionTracker23may2014.pdf")
 
 
 [Link to the DCPM user manual](/pdf/DCPM%20-%20Manual_0.pdf "DCPM - Manual.pdf")
-
-
-
-
-
-
-

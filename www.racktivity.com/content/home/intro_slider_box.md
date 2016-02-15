@@ -18,9 +18,9 @@ slider2_button = "More"
 slider2_text4 = "EnergyDNA™ is the patent-pending set of technologies developed by Racktivity in direct response to the industry’s desire to better understand power within the data center."
 
 slider3_pic= "images/slider2-2.jpg"
-slider3_text1 = "Did you know?"
-slider3_text2 = "Our EnergySwitchss PDUs are equipped with unique features such as 'Electronic Fast Fuse Protection'"
-slider3_text3 = "LEARN ABOUT OUR NEW MODULAR FLEX PDU"
+slider3_text1 = "AC or DC Monitoring?"
+slider3_text2 = "Our AC² and DC² allow for remote power monitoring'"
+slider3_text3 = "          "
 slider3_button = "More"
 slider3_text4 = "EnergyDNA™ is the patent-pending set of technologies developed by Racktivity in direct response to the industry’s desire to better understand power within the data center."
 

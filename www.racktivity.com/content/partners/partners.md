@@ -131,18 +131,9 @@ Gila is considered as the main pillar for distributing the products of the major
 ![image](/images/belcom.png)
 
 See map: [Google Maps](http://maps.google.fr?q=%2C+%2C+%2C+fr)  
-**xxx**  
-xxx
-xxx 
-xxx 
+ 
+Belcom247 is an experienced and trustworthy provider of round the clock specialist field operations services to global data network operators. Belcom247 designs, installs and maintains critical network and storage infrastructure on behalf of its multinational clients and guarantees best in class emergency maintenance response times at the world’s top 100 data centres.
 
-xxx \
-xxx :
-
--   xxx
--   xxx 
--   xxx 
-  
 -   [www.belcom247.com](http://www.belcom247.com)
 
 ---------------------------------------
@@ -217,13 +208,7 @@ xxx
 xxx 
 xxx 
 
-xxx \
-xxx :
 
--   xxx
--   xxx 
--   xxx 
-  
 -   [www.elmitel.com](http://www.elmitel.com)
 
 ---------------------------------------

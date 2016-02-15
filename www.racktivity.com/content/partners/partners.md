@@ -107,24 +107,25 @@ Complemented with reliable managed services solutions, MERA-TECH provides end to
 
 Wires & Wireless was founded in 2001, as a structured cabling company, to design, implement and manage critical voice and data communications networks. Wires recognizes the need to deliver consistently high quality, reliable, and innovative solutions across all industry sectors. Today, Wires professionally designs, installs, and maintains cost effective and future-proof networking systems for organisations of any size.
 
-[www.wires.co.za/](http://wires.co.za/)
+[www.wires.co.za](http://wires.co.za/)
 
 ---------------------------------------
 
 ### EO Smart Building
+
+**Tunisie**
 ![image](/images/eo-logo.png)
 
-**Tunisia**
-<br>
-<br>
-<br>
+EO Smartbuilding, innove en tant que premier intégrateur de salles informatiques et datacenters, garantissant ses installations plus de vingt ans et assurant une économie substantielle d’espace et d’énergie, ceci grâce à ses ingénieurs certifiés et ses partenaires, leaders mondiaux dans la fourniture d’équipements et de solutions pour datacenters.
+
+[www.eodatacenter.com/](http://www.eodatacenter.com/)
 
 ---------------------------------------
 
 ### Gila
-![image](/images/gila-logo.jpg)
 
 **Egypt**
+![image](/images/gila-logo.jpg)
 
 Gila is considered as the main pillar for distributing the products of the major international electrical agencies in Egypt as well as a reliable partner for other distinguished companies.
 
@@ -135,7 +136,7 @@ Gila is considered as the main pillar for distributing the products of the major
 ### Belcom
 
 **France**
-![image](/images/datasign-logo_0.jpg)
+![image](/images/belcom.png)
 
 See map: [Google Maps](http://maps.google.fr?q=%2C+%2C+%2C+fr)  
 **xxx**  
@@ -155,9 +156,9 @@ xxx :
 ---------------------------------------
 
 ### APT
-![image](/images/logo-apt copie.jpg)
 
 **France**
+![image](/images/logo-apt copie.jpg)
 
 See map: [Google Maps](http://maps.google.fr/?q=%2C+%2C+%2C+fr)
 
@@ -168,28 +169,25 @@ The goal of APT is to offer efficient and economically interesting solutions to 
 ---------------------------------------
 
 ### U.T.E. electronic gmbh & co.kg
-![image](/images/UTE_col_gruen_200x104_0.jpg)
 
 **Germany**
+![image](/images/UTE_col_gruen_200x104_0.jpg)
 
 See map: [Google Maps](http://maps.google.com?q=%2C+%2C+%2C+de)
 
 U.T.E. is a german based distributor of electronic products for the high end market. The company focuses on supply of datacenter equipment including UPS systems and energy monitoring equipment.
 
-[http://www.ute.de/](http://www.ute.de/racktivity)
+[http://www.ute.de](http://www.ute.de/racktivity)
 
 ---------------------------------------
 
 ### Critical Power Supplies
-![image](/images/criticalpowersupplies.png)
 
 **United Kingdom**
+![image](/images/criticalpowersupplies.png)
 
 See map: [Google Maps](http://maps.google.co.uk?q=%2C+%2C+%2C+gb)
 
-United States
-
-See map: [Google Maps](http://maps.google.com?q=%2C+%2C+%2C+%2C+us)
 
 Critical Power Supplies is a leading independent UK multi-brand supplier of critical power and energy solutions including uninterruptible power supplies and standby power generators to 6MVA. As a multi-brand supplier we are well placed to provide you with the right power solution.
 
@@ -198,9 +196,9 @@ Critical Power Supplies is a leading independent UK multi-brand supplier of crit
 ---------------------------------------
 
 ### Prime Technologies
-![image](/images/partners_primetechnologies_logo.png)
 
 **Poland**
+![image](/images/partners_primetechnologies_logo.png)
 
 Prime Technologies provides valuable technology solutions for datacenters, internet service providers, telecom operators system integrators and other enterprises. Between solutions offered one can find:
 
@@ -213,6 +211,50 @@ Prime Technologies provides valuable technology solutions for datacenters, inter
 -   other passive and active equipment for IT infrastructure
 
 [www.primetech.com.pl](http://www.primetech.com.pl/)
+
+---------------------------------------
+
+### Elmitel
+
+**Slovenia/Croatia**
+![image](/images/elmitel.png)
+
+See map: [Google Maps](http://maps.google.si?q=%2C+%2C+%2C+si)  
+**xxx**  
+xxx
+xxx 
+xxx 
+
+xxx \
+xxx :
+
+-   xxx
+-   xxx 
+-   xxx 
+  
+-   [www.elmitel.com](http://www.elmitel.com)
+
+---------------------------------------
+
+### Dividec
+
+**Greece**
+![image](/images/dividec.png)
+
+See map: [Google Maps](http://maps.google.gr?q=%2C+%2C+%2C+gr)  
+**xxx**  
+xxx
+xxx 
+xxx 
+
+xxx \
+xxx :
+
+-   xxx
+-   xxx 
+-   xxx 
+  
+-   [www.watticonsume.com/iwatt](http://watticonsume.com/iwatt/)
 
 ---------------------------------------
 

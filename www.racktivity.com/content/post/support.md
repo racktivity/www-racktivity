@@ -1,6 +1,6 @@
 +++
 #Don't remove title!
-title = "Support - email : support@racktivity.com - call : +32 9 324 2090"
+title = "Support"
 page_disc = "Racktivity doesn’t try to automate the support process with a series of scripts, menus and automated call handlers. If you need to speak with us about a technical question on our products, or need some assistance with using our products already installed on your site."
 section_pic = "/images/page-pic.jpg"
 +++

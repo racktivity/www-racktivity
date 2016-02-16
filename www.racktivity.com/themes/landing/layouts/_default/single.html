@@ -1,6 +1,12 @@
 {{ partial "head.html" . }}
 <body>
 {{ partial "header.html" . }}
+{{if eq .Section "news"}}
+<style type="text/css">
+  img{float: left;margin-right: 20px;margin-bottom: 20px;margin-top: 0px;}
+  p{text-align: justify;}
+  </style>
+  {{end}}
 {{ if eq .Title "Company" }}
   <style type="text/css">
     .content-text img { float: right; display: block; margin-left: 57px; margin-top: 4px; margin-bottom: 41px; clear: both;max-width: 185px;}

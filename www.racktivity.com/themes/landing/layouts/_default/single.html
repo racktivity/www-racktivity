@@ -2,11 +2,11 @@
 <body>
 {{ partial "header.html" . }}
 {{if eq .Section "news"}}
-<style type="text/css">
-  img{float: left;margin-right: 20px;margin-bottom: 20px;margin-top: 0px;}
-  p{text-align: justify;}
+  <style type="text/css">
+    img{float: left;margin-right: 20px;margin-bottom: 20px;margin-top: 0px;}
+    p{text-align: justify;}
   </style>
-  {{end}}
+{{end}}
 {{ if eq .Title "Company" }}
   <style type="text/css">
     .content-text img { float: right; display: block; margin-left: 57px; margin-top: 4px; margin-bottom: 41px; clear: both;max-width: 185px;}
@@ -88,8 +88,6 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
   <section class="content" style="padding-bottom: 50px;">
   <div class="container">
     <div class="row">
-    
-    
     {{ if ne .Section "news" }}
     {{ if ne .Section "post" }}
     {{if ne .Params.hide_menu "True"}}
@@ -98,10 +96,6 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
         <ul>
 
           {{ if eq .Section "products" }}
-
-
-
-
           {{ $currentParent := replace .RelPermalink .Params.real_link "" }}
                     {{ $currentParent := replace $currentParent .Section "" }}
                     {{ $currentParent := replace $currentParent "/" "" }}
@@ -145,25 +139,13 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
       </div>
       {{ end }}
       {{ end }}
-      {{ end }}
-      {{ if eq .Section "post" }}
-      <div class="col-md-12 content-text">
+    {{ end }}
+      <div class="col-md-{{ if or (eq .Section "post") (eq .Section "news") }}12{{else}}8{{end}} content-text">
         <h1>
           {{ .Title }}
         </h1>
         <p>{{ .Content }}</p>
       </div>
-      {{end}}
-    {{ if eq .Section "news" }}
-        <div class="col-md-12 content-text">
-            <h1>
-              {{ .Title }}
-            </h1>
-            <p>{{ .Content }}</p>
-          </div>
-    {{end}}
-
-
     </div>
   </div>
 </section>

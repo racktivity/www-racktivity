@@ -6,7 +6,11 @@ title = "Co-Founder and Chairman Willem Hendrickx appointed CEO of Green IT Glob
 list_image = "/images/team/willem.jpg"
 +++
 
+
+
+
 ![](/images/team/willem.jpg)
+#### Willem Hendrickx will lead Green IT Globe’s international expansion, disrupting the existing clouds in a way that will change IT.
 
 February 15, 2016, GHENT, BELGIUM --- Green IT Globe NV, a fast growing technology company is about to radically change the industry by building a decentralized and energy-efficient cloud. Green IT Globe will deploy its revolutionary cloud network in more than 20 countries, bringing cloud capacity close to the user rather than sourcing it from large, often overseas, datacenters.
 

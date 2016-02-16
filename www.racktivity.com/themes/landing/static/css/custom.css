@@ -49,7 +49,7 @@ header a { color: #FFF; }
 .panel-shape { position: absolute; width: 101px; top: 48px; left: -13px; bottom: 13px; height: 88px; background: url(../images/serv-white.png) no-repeat; }
 .panel-shape i { color: #21a6df; text-align: center; font-size: 30px !important; margin: 30px 27px; }
 .Product-part { background-image: url(../images/product-BG.jpg); padding: 30px 0 120px 0; }
-.footer { background-color: #212121; font-size: 16px; position: relative; }
+.footer { background-color: #212121; font-size: 16px;}
 .media-part {background-color: #FDFDFD;}
 .black-part { background-color: #212121; }
 .about-us { position: relative; color: #fff; margin-top: 76px; margin-left: 81px; height: 382px; padding-bottom: 164px; }
@@ -317,3 +317,6 @@ h6 + p { float: left; }
 .media-left a img {width: 140px;border: 3px solid #DADADA;margin-right: 8px;}
 .media-left, .media-right, .media-body {color: #797979;font-size: 16px;line-height: 27px;}
 .media-body h3 {margin-top: 3px;margin-bottom: 9px;}
+html { position: relative; min-height: 100%;}
+body {margin-bottom: 358px;}
+footer { position: absolute; bottom: 0; width: 100%;}

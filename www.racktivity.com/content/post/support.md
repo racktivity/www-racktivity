@@ -11,6 +11,8 @@ If you need to speak with us about a technical question on our products, or need
 You can be sure that our support team will be there for you, and have been empowered to draw from all of our corporate resources
 to get you the information you need, when you need it.
 
+EMAIL : support@racktivity.com - CALL : +32 9 324 2095
+
 
 
 ## Supported models
@@ -279,10 +281,3 @@ VersionTracker23may2014.pdf")
 
 
 [Link to the DCPM user manual](/pdf/DCPM%20-%20Manual_0.pdf "DCPM - Manual.pdf")
-
-
-
-
-
-
-

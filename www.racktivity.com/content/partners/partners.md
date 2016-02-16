@@ -211,27 +211,21 @@ Prime Technologies provides valuable technology solutions for datacenters, inter
 
 See map: [Google Maps](http://maps.google.si?q=%2C+%2C+%2C+si)  
 
-**xxx**  
-xxx
-xxx 
-xxx 
-
+Since 1994 providing solutions in electrical installations and telecommunications (Cable TV, FTTH Networks) 
 
 [www.elmitel.com](http://www.elmitel.com)
 
 ---------------------------------------
 
-### Dividec
+### Dividec - What-i-consume
 
 **Greece**
 ![image](/images/watt.png)
 
 See map: [Google Maps](http://maps.google.gr?q=%2C+%2C+%2C+gr)  
 
-**xxx**  
-xxx
-xxx 
-xxx 
+Watt-i-consume helps organisations measure accurately the power consumption of ANY device, Rack, Data Centre, production line, building.
+By adding our IP enabled multimeter into your network, you will immediately identify what is exactly costing to operate, built your product, or maintain your customer infrastructure.
 
 [www.watticonsume.com/iwatt](http://watticonsume.com/iwatt/)
 

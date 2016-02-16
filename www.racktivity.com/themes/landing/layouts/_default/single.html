@@ -82,6 +82,9 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
   <section class="content" style="padding-bottom: 50px;">
   <div class="container">
     <div class="row">
+    
+    
+    {{ if ne .Section "news" }}
     {{ if ne .Section "post" }}
     {{if ne .Params.hide_menu "True"}}
       <div class="col-md-4 section-side">
@@ -136,12 +139,25 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
       </div>
       {{ end }}
       {{ end }}
-      <div class="col-md-{{ if eq .Section "post" }}12{{else}}8{{end}} content-text">
+      {{ end }}
+      {{ if eq .Section "post" }}
+      <div class="col-md-12 content-text">
         <h1>
           {{ .Title }}
         </h1>
         <p>{{ .Content }}</p>
       </div>
+      {{end}}
+    {{ if eq .Section "news" }}
+        <div class="col-md-12 content-text">
+            <h1>
+              {{ .Title }}
+            </h1>
+            <p>{{ .Content }}</p>
+          </div>
+    {{end}}
+
+
     </div>
   </div>
 </section>

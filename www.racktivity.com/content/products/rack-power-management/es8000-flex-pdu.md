@@ -7,12 +7,15 @@ parent = "rack-power-management"
 image = "/images/products_energyswitch_0U_gallery1.png"
 real_link = "es8000-flex-pdu"
 +++
-Racktivity's power distribution EnergySwitch Smart PDUs equip your data center with the industry’s most advanced metering and switching capability.  
+Racktivity's new Flex EnergySwitch Smart PDUs equip your data center with the industry’s most advanced metering and switching capability in a modular design, allowing a high range of combinations pf C13 and C19 outlets with integrated retention.  
+
 All Racktivity EnergySwitch smart PDUs are built upon Racktivity’s real-time operating system, EnergyOS™ to provide the highest degree of granular real-time PowerQuality type metrics. EnergyOS™ implements the hardware-related portions of Racktivity's EnergyDNA™ technology to provide real-time remote PDU-level and outlet-level true RMS monitoring of current (A), voltage (V), power (VA, W), power factor (%) and energy consumption (kWh) with +/- 1% accuracy.
 
 All of this allows you to work with current, relevant and actionable power utilization data to make informed decisions on load balancing and managing IT assets based on event triggers and energy consumption to lower total cost of ownership.
 
 The Racktivity smart PDUs provide you with a powerful system for energy and capacity optimisation with reliable IT asset protection, all in one unit.
+
+ESTIMATED AVAILABILITY : Q3 - 2016
 
 Want to find out more on how our smart PDUs help protect your business continuity and reduce your opex?  
 [Click here to read the article.](/our-smart-pdus-increase-your-uptime-reduce-opex).
@@ -23,15 +26,16 @@ Want to find out more on how our smart PDUs help protect your business continuit
 * Pro-actively prevents downtime by creating customised alarms
 * Identify and eliminate idle servers
 * Identify failing power supplies
+* Allowing sensor connection via USB or Racktivity R-BUS-V3 which provides highly granular information regarding environmental status
 * Plan capacity and avoid inefficient power usage
-* Compatible with the E²Sensor, Racktivity’s environmental sensor which provides highly granular information regarding environmental status
-* Full-feature and easy integration with our DCPM, the ultimate server software to monitor, manage and optimise your power usage and environmental information
+* Full-feature and easy integration with our DCPM V2 solution, the ultimate hosting software to monitor, manage and optimise your power usage and environmental information
 * Know exactly how much energy each customer consumes, enabling you to provide correct billing information to your customers
 * Vertically rackmountable without loosing space in the server rack
 
 ## features
 
 * Real time, true RMS measurements at outlet level: power, apparent power, current, power factor, KiloVolt AmpHrs, Consumption
+* Unique Oscilloscope and up to 59th harmonics visualisation per outlet
 * Individual power outlet-level switching
 * Server-based authentication
 * EnergyOS operating system, implementing Racktivity’s EnergyDNA technology, which leverages Digital Signal Processing (DSP) chipsets including Fast-Fourier Transformations to provide the most detailed understanding about power you can get from any source
@@ -40,21 +44,17 @@ Want to find out more on how our smart PDUs help protect your business continuit
 ## technical specifications
 
 *   Form-factor: 0U
-*   Phase: 1 phase
-*   Input total: 32 A
-*   C13 (8A): 21x
-*   C19 (16A): 3x
+*   Inpout: 1 or 3 phase 32A
 *   Circuit breaker:  
     Type: 16A - Magnetic  
-    N° of breakers: 3
-*   Dimensions (inch): H x W x D: 71.3 x 2 x 3.1
-*   Dimensions (cm): H x W x D: 181 x 5 x 8
+    N° of breakers: 3 or 6
 *   Rack mountable
-*   LCD-TFT with control buttons
-*   LED power ON/OFF and services status indicators at each oulet
-*   Colour: Signal white (RAL 9003)
-*   Approval: UL 60950-1 (not all models)
+*   3 external USB ports
+*   2 control buttons
+*   RGB LED power ON/OFF and programmable status RGB Led at each outlet
+*   Colour: Signal white (RAL 9003) - others in option
 *   CE/RoHS Compliant  
+*   inlet : 3 m (9.84 ft H07RN-F cable with IEC60309 3 or 5 pin plug 
 
 ## Other technical specifications
 
@@ -63,16 +63,15 @@ Want to find out more on how our smart PDUs help protect your business continuit
 * Billing grade accuracy +/- 1%
 * Inlet - PDU totals: Voltage (V), Power (W), Apparent Power (VA), Current (A), Power Factor (%), Frequency (Hz), Energy Consumption (kWh), KiloVolt Amp Hours (kVAh)
 * Outlet: Power (W), Apparent Power (VA), Current (A), Power Factor (%), Energy Consumption (kWh), Kilovolt Ampère Hours (kVAh)
-* Internal temperature sensor
 * Event logging
 * Detailed logging: besides logging all measurements every 5 minutes, all power related behaviour deemed ‘deviant’ is logged for several seconds before & after occuring
 * Oscilloscope view: realtime wave form graph of voltage & current per outlet
 * **SECURE**
 * SNMP TRAPs, SETs, GETs support
 * Secure web site (HTTPS)
-* SSL certificate
+* SSL TLS 1.2 or higher certificate
 * Visible alarm indicator
-* Warning level for Voltage, Power, Current, Temperature & more
+* Warning level for Voltage, Power, Current
 * Programmable outlet startup sequence
 * Priority outlet overcurrent management
 * Programmable electronic soft fuse
@@ -80,11 +79,11 @@ Want to find out more on how our smart PDUs help protect your business continuit
 * Inrush current protection when toggling outlets on or off using zero cross switching
 * Server-based authentication/authorisation
 * **CONTROL**
-* Ethernet 10/100 Mbps auto detecting, half/full duplex connection
-* Racktivity R-BUS connector for connecting E²Sensors
+* Dual Gigabit auto detecting internet
+* Racktivity R-BUSV3 connector for connecting Racktivity Sensors
 * Remote access web interface through web browser
-* CLI (Command Line Interface): directly and over Telnet
-* Display: control & monitor outlet states, warnings, voltage, current, power factor, network settings, oscilloscope view...
+* CLI (Command Line Interface): directly and over Telnet SSH
+* Control & monitor outlet states, warnings, voltage, current, power factor, network settings, oscilloscope view via NFC I/F
 
 ## look & feel
 <a href="/images/products_energyswitch_0U_gallery1.png" class="fancybox link">![](/images/products_energyswitch_0U_gallery1.png)</a>
@@ -97,7 +96,6 @@ Want to find out more on how our smart PDUs help protect your business continuit
 <a href="/images/products_energyswitch_0U_gallery8.png" class="fancybox link">![](/images/products_energyswitch_0U_gallery8.png)</a>
 
 ## downloads
-[Download the EnergySwitch product sheet (pdf)](/pdf/PS EnergySwitch_8.pdf)
+[Download the ES8000 product sheet (pdf)](/pdf/PS EnergySwitch_8.pdf)
 
 ## documentation
-[Download the ES2000 & 6000 Series user manual Firmware 3.x](/pdf/ES2000 & 6000 Series - User Manual_3.pdf)

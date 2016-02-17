@@ -22,7 +22,7 @@ EMAIL : support@racktivity.com - CALL : +32 9 324 2095
 
 
 
-[ES6124-16 (3 phase, 16A)](/products/rack-power-management/es6124-16-3-phase-16a)<br>
+### [ES6124-16 (3 phase, 16A)](/products/rack-power-management/es6124-16-3-phase-16a)<br>
 
 
 
@@ -35,12 +35,14 @@ EMAIL : support@racktivity.com - CALL : +32 9 324 2095
 [Download Racktivity's latest firmware for our ES2000-6000 Series. Check out the README.txt file prior to upgrade!](/pdf/Racktivity_ES2000-6000_Series_v3.2.0.7_Firmware_Update_Package_1.rar "Racktivity_ES2000-6000_Series_v3.2.0.7_Firmware_Update_Package.rar")    
 [Download Racktivity's latest firmware overview](/pdf/VersionTracker_0.pdf "VersionTracker.pdf")
 
+
+
 ----------------------------------------
 
 
 [![image](/images/products_energyswitch_0U_gallery1%5B1%5D_0.png?itok=Sc5Ny2VK)](/products/rack-power-management/es6124-32-3-phase-32a)
 
-[ES6124-32 (3 phase, 32A)](/products/rack-power-management/es6124-32-3-phase-32a) <br>
+### [ES6124-32 (3 phase, 32A)](/products/rack-power-management/es6124-32-3-phase-32a) <br>
 
 
 
@@ -56,7 +58,7 @@ EMAIL : support@racktivity.com - CALL : +32 9 324 2095
 
 [![image](/images/products_energyswitch_1U_gallery2%5B1%5D.png?itok=1FfKUs5J)](/products/rack-power-management/es1108-16-euk-euuk)
 
-[ES1108-16-EUK (EU/UK model)](/products/rack-power-management/es1108-16-euk-euuk)<br>
+### [ES1108-16-EUK (EU/UK model)](/products/rack-power-management/es1108-16-euk-euuk)<br>
 
 
 
@@ -64,15 +66,13 @@ EMAIL : support@racktivity.com - CALL : +32 9 324 2095
 [Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package_4.rar "ES_Series_-_API_Information_package.rar")    
 [Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual_0%5B1%5D.pdf "Racktivity_EnergySwitch_ES%20Series-Service_Manual_0[1].pdf")    
 [Download Racktivity's latest firmware overview](/pdf/VersionTracker23may2014_3.pdf "VersionTracker23may2014.pdf")<br>
-<br>
-
 
 -------------------------------------
 
 
 [![image](/images/products_energyswitch_0U_gallery2%5B1%5D%5B1%5D.png?itok=KhPD3BIb)](/products/rack-power-management/es2224-32-1-phase-32a)
 
-[ES2224-32 (1 phase, 32A)](/products/rack-power-management/es2224-32-1-phase-32a)<br>
+### [ES2224-32 (1 phase, 32A)](/products/rack-power-management/es2224-32-1-phase-32a)<br>
 
 [Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package_1_0.rar "ES_Series_-_API_Information_package_1.rar")    
 [Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual%5B1%5D_2.pdf "Racktivity_EnergySwitch_ES%20Series-Service_Manual[1].pdf")    
@@ -85,7 +85,7 @@ EMAIL : support@racktivity.com - CALL : +32 9 324 2095
 
 [![image](/images/products_energyswitch_0U_gallery2%5B1%5D%5B3%5D.png?itok=1GEqA3kq)](/products/rack-power-management/es6224-16-3-phase-16a)
 
-[ES6224-16 (3 phase, 16A)](/products/rack-power-management/es6224-16-3-phase-16a)<br>
+### [ES6224-16 (3 phase, 16A)](/products/rack-power-management/es6224-16-3-phase-16a)<br>
 
 
 
@@ -103,7 +103,7 @@ EMAIL : support@racktivity.com - CALL : +32 9 324 2095
 
 
 
-[ES2124-30 (1 phase, 30A - US model)](/products/rack-power-management/es2124-30-1-phase-30a-us)<br>
+### [ES2124-30 (1 phase, 30A - US model)](/products/rack-power-management/es2124-30-1-phase-30a-us)<br>
 
 
 
@@ -122,7 +122,7 @@ EMAIL : support@racktivity.com - CALL : +32 9 324 2095
 
 
 
-[ES6224-32 (3 phase, 32A)](/products/rack-power-management/es6224-32-3-phase-32a)<br>
+### [ES6224-32 (3 phase, 32A)](/products/rack-power-management/es6224-32-3-phase-32a)<br>
 
 
 
@@ -141,7 +141,7 @@ EMAIL : support@racktivity.com - CALL : +32 9 324 2095
 
 
 
-[ES1108-16-US (US model)](/products/rack-power-management/es1108-16-us-us)<br>
+### [ES1108-16-US (US model)](/products/rack-power-management/es1108-16-us-us)<br>
 
 
 
@@ -151,7 +151,7 @@ EMAIL : support@racktivity.com - CALL : +32 9 324 2095
 [Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package_0.rar "ES_Series_-_API_Information_package.rar")    
 [Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%20Series-Service_Manual_0.pdf "Racktivity_EnergySwitch_ES Series-Service_Manual.pdf")    
 [Download Racktivity's latest firmware overview](/pdf/VersionTracker23may2014_6.pdf "VersionTracker23may2014.pdf")<br>
-<br>
+
 
 
 ----------------------------------------
@@ -160,7 +160,7 @@ EMAIL : support@racktivity.com - CALL : +32 9 324 2095
 
 
 
-[ES2124-32 (1 phase, 32A)](/products/rack-power-management/es2124-32-1-phase-32a)<br>
+### [ES2124-32 (1 phase, 32A)](/products/rack-power-management/es2124-32-1-phase-32a)<br>
 
 
 
@@ -182,7 +182,7 @@ EMAIL : support@racktivity.com - CALL : +32 9 324 2095
 
 
 
-[DC power monitoring with DC²Meter](/products/infrastructure-power-management/dc-power-monitoring)<br>
+### [DC power monitoring with DC²Meter](/products/infrastructure-power-management/dc-power-monitoring)<br>
 
 
 
@@ -190,7 +190,6 @@ EMAIL : support@racktivity.com - CALL : +32 9 324 2095
 [Download the DC²Meter User Manual (pdf)](/pdf/DC2Meter%20Series%20-%20User%20Manual.pdf "DC2Meter Series - User Manual.pdf")    
 [Download Racktivity's latest firmware overview](/pdf/VersionTracker23may2014_8.pdf "
 VersionTracker23may2014.pdf")
-<br><br><br><br>
 
 
 ----------------------------------------
@@ -199,14 +198,14 @@ VersionTracker23may2014.pdf")
 
 
 
-[ACL Master](/products/infrastructure-power-management/acl-master)<br>
+### [ACL Master](/products/infrastructure-power-management/acl-master)<br>
 
 
 
 
 [Download the ACL Series user manual](/pdf/ACL%20Series%20-%20User%20Manual_8.pdf "ACL Series - User Manual.pdf")    
 [Download Racktivity's latest firmware overview](/pdf/VersionTracker23may2014_9.pdf "VersionTracker23may2014.pdf")
-<br><br><br><br>
+
 
 ----------------------------------------
 
@@ -214,14 +213,14 @@ VersionTracker23may2014.pdf")
 
 
 
-[ACL Slave](/products/infrastructure-power-management/acl-slave)<br>
+### [ACL Slave](/products/infrastructure-power-management/acl-slave)<br>
 
 
 
 [Download the ACL Series user manual](/pdf/ACL%20Series%20-%20User%20Manual_12.pdf "ACL Series - User Manual.pdf")    
 [Download Racktivity's latest firmware overview](/pdf/VersionTracker23may2014_10.pdf "VersionTracker23may2014.pdf")
 
-<br><br><br><br>
+
 
 ----------------------------------------
 
@@ -229,13 +228,13 @@ VersionTracker23may2014.pdf")
 
 
 
-[ACLD Display](/products/infrastructure-power-management/acld-display)<br>
+### [ACLD Display](/products/infrastructure-power-management/acld-display)<br>
 
 
 [Download the ACL Series user manual](/pdf/ACL%20Series%20-%20User%20Manual_10.pdf "ACL Series - User Manual.pdf")
-<br>
+
 [Download Racktivity's latest firmware overview](/pdf/VersionTracker23may2014_9.pdf "VersionTracker23may2014.pdf")
-<br><br><br><br><br>
+
 
 ----------------------------------------
 
@@ -243,7 +242,7 @@ VersionTracker23may2014.pdf")
 
 
 
-[AC power monitoring with AC²Meter](/products/infrastructure-power-management/ac-power-monitoring-ac%C2%B2meter)<br>
+### [AC power monitoring with AC²Meter](/products/infrastructure-power-management/ac-power-monitoring-ac%C2%B2meter)<br>
 
 
 
@@ -252,7 +251,7 @@ VersionTracker23may2014.pdf")
 [Download the AC²Meter User Manual (pdf)](/pdf/AC2Meter%20Series%20-%20User%20Manual_0.pdf "AC2Meter Series - User Manual.pdf")    
 [Download the latest firmware overview (pdf)](/pdf/VersionTracker28march2014_11.pdf "VersionTracker28march2014.pdf")
 
-<br><br><br><br>
+
 
 ----------------------------------------
 
@@ -260,13 +259,13 @@ VersionTracker23may2014.pdf")
 
 
 
-[E²Sensor](/products/e2sensor/e%C2%B2sensor)<br>
+### [E²Sensor](/products/e2sensor/e%C2%B2sensor)
 
 
 
 [Download the E²Sensor user manual (pdf)](/pdf/Racktivity_EnergySensor-User_Manual_0.pdf "Racktivity_EnergySensor-User_Manual.pdf")
 
-<br><br><br><br><br>
+
 
 ----------------------------------------
 
@@ -274,7 +273,7 @@ VersionTracker23may2014.pdf")
 
 
 
-[DCPM](/products/power-management-software/dcpm)<br>
+### [DCPM](/products/power-management-software/dcpm)
 
 
 

@@ -5,7 +5,7 @@ title = "header"
 black_title1 = "Resources"
 black_title2 = "Partners"
 black_title3 = "Customers"
-black_link1 = "/resources/racktivity-warranty"
+black_link1 = "/resources/modern-lexicon"
 black_link2 = "/partners/partners"
 black_link3 = "/customers/customers"
 

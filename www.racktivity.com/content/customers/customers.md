@@ -7,7 +7,7 @@ section_pic = "/images/page-pic.jpg"
 
 
 
-![image](/images/customers_01.png)
+![image](/images/customers_02.png)
 
 
 

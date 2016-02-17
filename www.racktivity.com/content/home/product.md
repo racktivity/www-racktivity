@@ -5,7 +5,7 @@ title = "product"
 section_title = "PRODUCTS"
 section_disc = "Racktivity offers an unrivalled set of products and features to distribute, measure, monitor and control the power of your infrastructure.The combination of our appliances and our DCIM like Data Center Performance Management software gives you a detailed scope and full control of your infrastructure."
 
-product1_link = "/products/power-management-software/"
+product1_link = "/products/rack-power-management/"
 product1_icon = "/images/es.png"
 product1_title = "ES PDU Series - Rack power management"
 product1_disc = "The EnergySwitch™ Family, Racktivity’s metered and switched Power Distribution Units (PDUs) with the optional WiC MODBUS compatible gateway."

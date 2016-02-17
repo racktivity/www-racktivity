@@ -8,6 +8,6 @@ real_link = "wic-gateway"
 image = "/images/dc1.png"
 +++
 
-The Racktivity WhatsInsight Controller
+
 The WhatsInsight Controller (WiC) offers you two very distinct features. Functioning as an SSL Proxy for Racktivity Metering Devices as well as a data collector for DCPM, the WhatsInsight Controller surely fits your needs. Both functionalities will be scrutinized in following paragraphs.
 

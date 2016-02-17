@@ -1,5 +1,5 @@
 +++
-title= "Power management software"
+title= "Power management software (DCIM/DCPM)"
 page_disc = "Fully distributed multi-location, multi-vendor performance management solution. Manage, visualize and control all of your energy from 1 pane of glass. Pure genius."
 section_pic = "/images/product-banner4.jpg"
 parent = "top"

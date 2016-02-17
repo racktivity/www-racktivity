@@ -1,10 +1,10 @@
 +++
-weight=1
-title= "WIC-gateway and Modbus I/F"
+weight=4
+title= "WiC-gateway and Modbus I/F"
 page_disc = "To give a total overview of your power consumption, Racktivity has complemented its product line with a new family of power meter and monitoring devices."
 section_pic = "/images/product-banner2.jpg"
 parent = "infrastructure-power-management"
-real_link = "ac-power-monitoring-ac2meter"
+real_link = "wic-gateway"
 image = "/images/dc1.png"
 +++
 

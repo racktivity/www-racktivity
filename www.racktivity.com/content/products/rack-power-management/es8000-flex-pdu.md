@@ -7,7 +7,7 @@ parent = "rack-power-management"
 image = "/images/products_energyswitch_0U_gallery1.png"
 real_link = "es8000-flex-pdu"
 +++
-Racktivity's new Flex EnergySwitch Smart PDUs equip your data center with the industry’s most advanced metering and switching capability in a modular design, allowing a high range of combinations pf C13 and C19 outlets with integrated retention.  
+Racktivity's new Flex EnergySwitch Smart PDUs equip your data center with the industry’s most advanced metering and switching capability in a modular design, allowing a high range of combinations of C13 and C19 outlets with integrated retention.  
 
 All Racktivity EnergySwitch smart PDUs are built upon Racktivity’s real-time operating system, EnergyOS™ to provide the highest degree of granular real-time PowerQuality type metrics. EnergyOS™ implements the hardware-related portions of Racktivity's EnergyDNA™ technology to provide real-time remote PDU-level and outlet-level true RMS monitoring of current (A), voltage (V), power (VA, W), power factor (%) and energy consumption (kWh) with +/- 1% accuracy.
 

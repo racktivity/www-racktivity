@@ -96,7 +96,6 @@ Want to find out more on how our smart PDUs help protect your business continuit
 <a href="/images/products_energyswitch_0U_gallery8.png" class="fancybox link">![](/images/products_energyswitch_0U_gallery8.png)</a>
 
 ## downloads
-[Download the EnergySwitch product sheet (pdf)](/pdf/PS EnergySwitch_8.pdf)
+[Download the ES8000 product sheet (pdf)](/pdf/PS EnergySwitch_8.pdf)
 
 ## documentation
-[Download the ES2000 & 6000 Series user manual Firmware 3.x](/pdf/ES2000 & 6000 Series - User Manual_3.pdf)

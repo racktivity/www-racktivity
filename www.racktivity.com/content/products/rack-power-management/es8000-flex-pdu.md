@@ -2,7 +2,7 @@
 weight=11
 title= "ES8000 (0U – Flex PDU – Modular system)"
 page_disc = "Racktivity's power distribution EnergySwitch Smart PDUs equip your data center with the industry’s most advanced metering and switching capability.  "
-section_pic = "/images/product-banner1.jpg"
+section_pic = "/images/es8000-banner_02.jpg"
 parent = "rack-power-management"
 image = "/images/products_energyswitch_0U_gallery1.png"
 real_link = "es8000-flex-pdu"
@@ -96,6 +96,6 @@ Want to find out more on how our smart PDUs help protect your business continuit
 <a href="/images/products_energyswitch_0U_gallery8.png" class="fancybox link">![](/images/products_energyswitch_0U_gallery8.png)</a>
 
 ## downloads
-[Download the ES8000 product sheet (pdf)](/pdf/PS EnergySwitch_8.pdf)
+[Download the ES8000 product sheet (pdf)](/pdf/Racktivity FLEX PDU - Product Sheet _ DRAFT F4_LR.pdf)
 
 ## documentation

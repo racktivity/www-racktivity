@@ -301,15 +301,17 @@ h6 + p { float: left; }
 #intro { background: #FFF !important; }
 #player, .fallback,  iframe {background-color: #FFF !important;}
 .player .controls { background-color: #FFF !important; }
-.slider1 h1 {}
-.slider1 h4 {}
-.slider1 h4 + span {}
+.slider1 h1 {color: #FFF;}
+.slider1 h4 {text-shadow: none;}
+.slider1 h4 + span {text-shadow: none;}
 .slider2 h1 {}
 .slider2 h4 {}
 .slider2 h4 + span {}
 .slider3 h1 {color: #FFF;text-shadow: 2px 2px 6px rgba(0,0,0,0.5);}
 .slider3 h4 {max-width: 100%;}
 .slider3 h4 + span {}
+.slider1 input {background: rgba(255, 255, 255, 0.8);color: #333;margin-top: 90px;}
+.slider1 input:hover {background: rgba(255, 255, 255, 0.8);color: #333; opacity: 0.9}
 .slider3 input {background: rgba(255, 255, 255, 0.8);color: #333;margin-top: 90px;}
 .slider3 input:hover {background: rgba(255, 255, 255, 0.8);color: #333; opacity: 0.9}
 .navbar-nav li:first-child a:hover { background: none !important;}

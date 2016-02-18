@@ -19,7 +19,7 @@ Racktivity’s unique approach to power management and environmental monitoring 
 **The Netherlands**
 ![image](/images/kannegieter.png)
 
-See map: [Google Maps](http://maps.google.nl?q=%2C+%2C+%2C+nl)  
+See map: [Google Maps](http://maps.google.nl?q=astronaut+28+amersfoort+nl)  
 
 Your network infrastructure has to be  reliable, durable and safe, so employees can communicate seamlessly in a secure and fast way. That’s why you want a reliable and experienced partner which deliver you added value in quality, both in products and services. Kannegieter is such a partner!  With over 56 years of experience in the field of data cabling, networking and smart distribution solutions we always find the right solutions for our clients. At Kannegieter we work with top brands and our clients can count on an extensive product and service portfolio in the areas of:  
 
@@ -40,7 +40,7 @@ Your network infrastructure has to be  reliable, durable and safe, so employees 
 **Spain**
 ![image](/images/enertronic.png)
 
-See map: [Google Maps](http://maps.google.es?q=%2C+%2C+%2C+es)  
+See map: [Google Maps](http://maps.google.es?q=Sierra + de + Guadarrama + 9 + Bis+ 28830 +San + Fernando + de + Henares + Madrid + es)  
 **Your technology partner**  
 Enertronic S.A. provides Technological solutions in energy management, UPS, automation, surge protection and control. 
 Founded in 2006 we are a Spanish reference in Data Centers energy management, providing solutions for some of the biggest Data Centers in Spain, requiring TIER IV certification.  
@@ -61,7 +61,7 @@ Our services :
 **Switzerland**
 ![image](/images/datasign-logo_0.jpg)
 
-See map: [Google Maps](http://maps.google.ch?q=%2C+%2C+%2C+ch)  
+See map: [Google Maps](a)   
 **Datacenter with ideas**  
 The demand for constant availability in our interconnected society is increasing. As a result, today’s datacenters are exceedingly complex entities requiring operational stability of the highest standards, where expenses can quickly exceed expectations.
 Therefore, clever solutions and non-mainstream inventiveness are needed to keep production and operating costs at a reasonable price.

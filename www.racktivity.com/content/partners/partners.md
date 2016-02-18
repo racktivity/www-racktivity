@@ -61,7 +61,7 @@ Our services :
 **Switzerland**
 ![image](/images/datasign-logo_0.jpg)
 
-See map: [Google Maps](http://maps.google.ch?q= Breitenweg + 5 + 6370 + stans + ch)  
+See map: [Google Maps](http://maps.google.ch?q=Breitenweg+5+6370+stans+ch)  
 **Datacenter with ideas**  
 The demand for constant availability in our interconnected society is increasing. As a result, today’s datacenters are exceedingly complex entities requiring operational stability of the highest standards, where expenses can quickly exceed expectations.
 Therefore, clever solutions and non-mainstream inventiveness are needed to keep production and operating costs at a reasonable price.
@@ -156,7 +156,7 @@ Belcom247 is an experienced and trustworthy provider of round the clock speciali
 **France**
 ![image](/images/logo-apt copie.jpg)
 
-See map: [Google Maps](http://maps.google.fr/?q=%2C+%2C+%2C+fr)
+See map: [Google Maps](http://maps.google.fr/?q=avenue+de+l'europe+tour+europa+94320+thiais+fr)
 
 The goal of APT is to offer efficient and economically interesting solutions to suit the needs of a production IT. APT proposes you software or hardware solutions to optimize your production on a daily basis.
 
@@ -182,7 +182,7 @@ U.T.E. is a german based distributor of electronic products for the high end mar
 **United Kingdom**
 ![image](/images/criticalpowersupplies.png)
 
-See map: [Google Maps](http://maps.google.co.uk?q=%2C+%2C+%2C+gb)
+See map: [Google Maps](http://maps.google.co.uk?q=unit+f+howland+business+park+thame+OX9+3GQ+Oxfordshire+UK)
 
 
 Critical Power Supplies is a leading independent UK multi-brand supplier of critical power and energy solutions including uninterruptible power supplies and standby power generators to 6MVA. As a multi-brand supplier we are well placed to provide you with the right power solution.
@@ -196,7 +196,7 @@ Critical Power Supplies is a leading independent UK multi-brand supplier of crit
 **Poland**
 ![image](/images/partners_primetechnologies_logo.png)
 
-See map: [Google Maps](http://maps.google.pl?q=%2C+%2C+%2C+pl)
+See map: [Google Maps](http://maps.google.pl?q=ul+krótka+2+45-301+opole)
 
 Prime Technologies provides valuable technology solutions for datacenters, internet service providers, telecom operators system integrators and other enterprises. Between solutions offered one can find:
 
@@ -217,7 +217,7 @@ Prime Technologies provides valuable technology solutions for datacenters, inter
 **Slovenia/Croatia**
 ![image](/images/elmitel.png)
 
-See map: [Google Maps](http://maps.google.si?q=%2C+%2C+%2C+si)  
+See map: [Google Maps](http://maps.google.si?q=orehovci+1a+9250+gornja+radgona)  
 
 Since 1994 providing solutions in electrical installations and telecommunications (Cable TV, FTTH Networks) 
 

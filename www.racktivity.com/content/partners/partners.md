@@ -230,7 +230,7 @@ Since 1994 providing solutions in electrical installations and telecommunication
 **Greece**
 ![image](/images/watt.png)
 
-See map: [Google Maps](http://maps.google.gr?q=%2C+%2C+%2C+gr)  
+See map: [Google Maps](http://maps.google.com?q=24+Stylianou+Lena+2019+Strovolos+Nicosia+cyprus)  
 
 Watt-i-consume helps organisations measure accurately the power consumption of ANY device, Rack, Data Centre, production line, building.
 By adding our IP enabled multimeter into your network, you will immediately identify what is exactly costing to operate, built your product, or maintain your customer infrastructure.
@@ -244,7 +244,7 @@ By adding our IP enabled multimeter into your network, you will immediately iden
 **Italy**
 ![image](/images/itcare.png)
 
-See map: [Google Maps](http://maps.google.it?q=%2C+%2C+%2C+it)
+See map: [Google Maps](http://maps.google.it?q=corso+enrico+berlinger+12/c+45030+occhiobello+italy)
 
 ITCare is an IT consulting Company building and providing solutions either in Systems, Process and Service Management. Our crew is highly specialized and constantly up to date, via training and certifications.
 

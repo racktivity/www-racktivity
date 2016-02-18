@@ -117,7 +117,7 @@ Wires & Wireless was founded in 2001, as a structured cabling company, to design
 **Tunisie**
 ![image](/images/eo-logo.png)
 
-See map: [Google Maps](http://maps.google.tn?q=%2C+%2C+%2C+tn)
+See map: [Google Maps](http://maps.google.tn?q=74+Avenue+de+Carthago+1000+tunis)
 
 EO Smartbuilding, innove en tant que premier intégrateur de salles informatiques et datacenters, garantissant ses installations plus de vingt ans et assurant une économie substantielle d’espace et d’énergie, ceci grâce à ses ingénieurs certifiés et ses partenaires, leaders mondiaux dans la fourniture d’équipements et de solutions pour datacenters.
 
@@ -130,7 +130,7 @@ EO Smartbuilding, innove en tant que premier intégrateur de salles informatique
 **Egypt**
 ![image](/images/gila-logo.jpg)
 
-See map: [Google Maps](http://maps.google.eg?q=%2C+%2C+%2C+eg)
+See map: [Google Maps](http://maps.google.com?q=33+26th+July+Street+cairo+eg)
 
 Gila is considered as the main pillar for distributing the products of the major international electrical agencies in Egypt as well as a reliable partner for other distinguished companies.
 
@@ -143,7 +143,7 @@ Gila is considered as the main pillar for distributing the products of the major
 **France**
 ![image](/images/belcom.png)
 
-See map: [Google Maps](http://maps.google.fr?q=%2C+%2C+%2C+fr)  
+See map: [Google Maps](http://maps.google.fr?q=7+rue+petit+92210+clichy+fr)  
  
 Belcom247 is an experienced and trustworthy provider of round the clock specialist field operations services to global data network operators. Belcom247 designs, installs and maintains critical network and storage infrastructure on behalf of its multinational clients and guarantees best in class emergency maintenance response times at the world’s top 100 data centres.
 
@@ -169,7 +169,7 @@ The goal of APT is to offer efficient and economically interesting solutions to 
 **Germany**
 ![image](/images/UTE_col_gruen_200x104_0.jpg)
 
-See map: [Google Maps](http://maps.google.com?q=%2C+%2C+%2C+de)
+See map: [Google Maps](http://maps.google.de?q=Friedrich+Ebert+Str+112a+58454+witten)
 
 U.T.E. is a german based distributor of electronic products for the high end market. The company focuses on supply of datacenter equipment including UPS systems and energy monitoring equipment.
 

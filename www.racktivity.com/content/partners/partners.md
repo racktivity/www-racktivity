@@ -40,7 +40,7 @@ Your network infrastructure has to be  reliable, durable and safe, so employees 
 **Spain**
 ![image](/images/enertronic.png)
 
-See map: [Google Maps](http://maps.google.es?q=Sierra + de + Guadarrama + 9 + Bis+ 28830 +San + Fernando + de + Henares + Madrid + es)  
+See map: [Google Maps](http://maps.google.es?q=Sierra+de+Guadarrama+9+Bis+28830+San+Fernando+de+Henares+Madrid+es)  
 **Your technology partner**  
 Enertronic S.A. provides Technological solutions in energy management, UPS, automation, surge protection and control. 
 Founded in 2006 we are a Spanish reference in Data Centers energy management, providing solutions for some of the biggest Data Centers in Spain, requiring TIER IV certification.  
@@ -83,7 +83,7 @@ Our services:
 **Middle East & UK**
 ![image](/images/meratech.png)
 
-See map: [Google Maps](http://maps.google.co.uk?q=%2C+%2C+%2C+gb)
+See map: [Google Maps](http://maps.google.co.uk?q=London+Chiswick+Park+Building+3+566+Chiswick+High+Road+Chiswick+London+W4+5YA+United+Kingdom)
 
 MERA-TECH offers a second to none video systems integration and consultancy service to some of the biggest satellite operators in EMEA. Through its close relations with respectable hardware and software vendors, MERA-TECH has successfully deployed several DTH systems that impressed its customers in terms of budget, quality and reliability and covers the following areas:
 

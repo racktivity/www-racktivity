@@ -8,6 +8,7 @@ slider1_text1 = "Racktivity animated data center floor plan"
 slider1_text2 = "Want to find out where the Racktivity products go in your data center?! .. Check out our data center floor plan and find out."
 slider1_text3 = "LEARN ABOUT OUR NEW MODULAR FLEX PDU"
 slider1_button = "More"
+slider1_button_link = "/data-center-floor-plan-solution-overview"
 slider1_text4 = "Racktivity's power distribution EnergySwitch Smart PDUs equip your data center with the industry’s most advanced metering and switching capability."
 
 slider2_pic= "images/slider1-1.jpg"

@@ -86,14 +86,14 @@ Want to find out more on how our smart PDUs help protect your business continuit
 * Control & monitor outlet states, warnings, voltage, current, power factor, network settings, oscilloscope view via NFC I/F
 
 ## look & feel
-<a href="/images/products_energyswitch_0U_gallery1.png" class="fancybox link">![](/images/products_energyswitch_0U_gallery1.png)</a>
-<a href="/images/products_energyswitch_0U_gallery2.png" class="fancybox link">![](/images/products_energyswitch_0U_gallery2.png)</a>
-<a href="/images/products_energyswitch_0U_gallery3.png" class="fancybox link">![](/images/products_energyswitch_0U_gallery3.png)</a>
-<a href="/images/products_energyswitch_0U_gallery4.png" class="fancybox link">![](/images/products_energyswitch_0U_gallery4.png)</a>
+<a href="/images/unit_styling4.jpg" class="fancybox link">![](/images/unit_styling4.jpg)</a>
+<a href="/images/unit_styling1.jpg" class="fancybox link">![](/images/unit_styling1.jpg)</a>
+<a href="/images/unit_styling5.jpg" class="fancybox link">![](/images/unit_styling5.jpg)</a>
+<!-- <a href="/images/products_energyswitch_0U_gallery4.png" class="fancybox link">![](/images/products_energyswitch_0U_gallery4.png)</a>
 <a href="/images/products_energyswitch_0U_gallery5.png" class="fancybox link">![](/images/products_energyswitch_0U_gallery5.png)</a>
 <a href="/images/products_energyswitch_0U_gallery6.png" class="fancybox link">![](/images/products_energyswitch_0U_gallery6.png)</a>
 <a href="/images/products_energyswitch_0U_gallery7.png" class="fancybox link">![](/images/products_energyswitch_0U_gallery7.png)</a>
-<a href="/images/products_energyswitch_0U_gallery8.png" class="fancybox link">![](/images/products_energyswitch_0U_gallery8.png)</a>
+<a href="/images/products_energyswitch_0U_gallery8.png" class="fancybox link">![](/images/products_energyswitch_0U_gallery8.png)</a> -->
 
 ## downloads
 [Download the ES8000 product sheet (pdf)](/pdf/Racktivity FLEX PDU - Product Sheet _ DRAFT F4_LR.pdf)

@@ -61,7 +61,7 @@ Our services :
 **Switzerland**
 ![image](/images/datasign-logo_0.jpg)
 
-See map: [Google Maps](a)   
+See map: [Google Maps](http://maps.google.ch?q= Breitenweg + 5 + 6370 + stans + ch)  
 **Datacenter with ideas**  
 The demand for constant availability in our interconnected society is increasing. As a result, today’s datacenters are exceedingly complex entities requiring operational stability of the highest standards, where expenses can quickly exceed expectations.
 Therefore, clever solutions and non-mainstream inventiveness are needed to keep production and operating costs at a reasonable price.

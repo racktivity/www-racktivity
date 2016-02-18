@@ -19,7 +19,7 @@ Racktivity’s unique approach to power management and environmental monitoring 
 **The Netherlands**
 ![image](/images/kannegieter.png)
 
-See map: [Google Maps](http://maps.google.nl?q=%2C+%2C+%2C+nl)  
+See map: [Google Maps](http://maps.google.nl?q=astronaut+28+amersfoort+nl)  
 
 Your network infrastructure has to be  reliable, durable and safe, so employees can communicate seamlessly in a secure and fast way. That’s why you want a reliable and experienced partner which deliver you added value in quality, both in products and services. Kannegieter is such a partner!  With over 56 years of experience in the field of data cabling, networking and smart distribution solutions we always find the right solutions for our clients. At Kannegieter we work with top brands and our clients can count on an extensive product and service portfolio in the areas of:  
 
@@ -40,7 +40,7 @@ Your network infrastructure has to be  reliable, durable and safe, so employees 
 **Spain**
 ![image](/images/enertronic.png)
 
-See map: [Google Maps](http://maps.google.es?q=%2C+%2C+%2C+es)  
+See map: [Google Maps](http://maps.google.es?q=Sierra+de+Guadarrama+9+Bis+28830+San+Fernando+de+Henares+Madrid+es)  
 **Your technology partner**  
 Enertronic S.A. provides Technological solutions in energy management, UPS, automation, surge protection and control. 
 Founded in 2006 we are a Spanish reference in Data Centers energy management, providing solutions for some of the biggest Data Centers in Spain, requiring TIER IV certification.  
@@ -61,7 +61,7 @@ Our services :
 **Switzerland**
 ![image](/images/datasign-logo_0.jpg)
 
-See map: [Google Maps](http://maps.google.ch?q=%2C+%2C+%2C+ch)  
+See map: [Google Maps](http://maps.google.ch?q=Breitenweg+5+6370+stans+ch)  
 **Datacenter with ideas**  
 The demand for constant availability in our interconnected society is increasing. As a result, today’s datacenters are exceedingly complex entities requiring operational stability of the highest standards, where expenses can quickly exceed expectations.
 Therefore, clever solutions and non-mainstream inventiveness are needed to keep production and operating costs at a reasonable price.
@@ -83,7 +83,7 @@ Our services:
 **Middle East & UK**
 ![image](/images/meratech.png)
 
-See map: [Google Maps](http://maps.google.co.uk?q=%2C+%2C+%2C+gb)
+See map: [Google Maps](http://maps.google.co.uk?q=London+Chiswick+Park+Building+3+566+Chiswick+High+Road+Chiswick+London+W4+5YA+United+Kingdom)
 
 MERA-TECH offers a second to none video systems integration and consultancy service to some of the biggest satellite operators in EMEA. Through its close relations with respectable hardware and software vendors, MERA-TECH has successfully deployed several DTH systems that impressed its customers in terms of budget, quality and reliability and covers the following areas:
 
@@ -99,12 +99,12 @@ Complemented with reliable managed services solutions, MERA-TECH provides end to
 
 ---------------------------------------
 
-### Wires
+### Wires & Wireless
 
 **South Africa**
 ![image](/images/wires-logo.png)
 
-See map: [Google Maps](http://maps.google.co.za?q=%2C+%2C+%2C+za)
+See map: [Google Maps](http://maps.google.co.za?q=129+11th+Street+Parkmore+Sandton+Johannesburg+2146)
 
 Wires & Wireless was founded in 2001, as a structured cabling company, to design, implement and manage critical voice and data communications networks. Wires recognizes the need to deliver consistently high quality, reliable, and innovative solutions across all industry sectors. Today, Wires professionally designs, installs, and maintains cost effective and future-proof networking systems for organisations of any size.
 
@@ -117,7 +117,7 @@ Wires & Wireless was founded in 2001, as a structured cabling company, to design
 **Tunisie**
 ![image](/images/eo-logo.png)
 
-See map: [Google Maps](http://maps.google.tn?q=%2C+%2C+%2C+tn)
+See map: [Google Maps](http://maps.google.tn?q=74+Avenue+de+Carthago+1000+tunis)
 
 EO Smartbuilding, innove en tant que premier intégrateur de salles informatiques et datacenters, garantissant ses installations plus de vingt ans et assurant une économie substantielle d’espace et d’énergie, ceci grâce à ses ingénieurs certifiés et ses partenaires, leaders mondiaux dans la fourniture d’équipements et de solutions pour datacenters.
 
@@ -130,7 +130,7 @@ EO Smartbuilding, innove en tant que premier intégrateur de salles informatique
 **Egypt**
 ![image](/images/gila-logo.jpg)
 
-See map: [Google Maps](http://maps.google.eg?q=%2C+%2C+%2C+eg)
+See map: [Google Maps](http://maps.google.com?q=33+26th+July+Street+cairo+eg)
 
 Gila is considered as the main pillar for distributing the products of the major international electrical agencies in Egypt as well as a reliable partner for other distinguished companies.
 
@@ -143,7 +143,7 @@ Gila is considered as the main pillar for distributing the products of the major
 **France**
 ![image](/images/belcom.png)
 
-See map: [Google Maps](http://maps.google.fr?q=%2C+%2C+%2C+fr)  
+See map: [Google Maps](http://maps.google.fr?q=7+rue+petit+92210+clichy+fr)  
  
 Belcom247 is an experienced and trustworthy provider of round the clock specialist field operations services to global data network operators. Belcom247 designs, installs and maintains critical network and storage infrastructure on behalf of its multinational clients and guarantees best in class emergency maintenance response times at the world’s top 100 data centres.
 
@@ -156,7 +156,7 @@ Belcom247 is an experienced and trustworthy provider of round the clock speciali
 **France**
 ![image](/images/logo-apt copie.jpg)
 
-See map: [Google Maps](http://maps.google.fr/?q=%2C+%2C+%2C+fr)
+See map: [Google Maps](http://maps.google.fr/?q=avenue+de+l'europe+tour+europa+94320+thiais+fr)
 
 The goal of APT is to offer efficient and economically interesting solutions to suit the needs of a production IT. APT proposes you software or hardware solutions to optimize your production on a daily basis.
 
@@ -169,7 +169,7 @@ The goal of APT is to offer efficient and economically interesting solutions to 
 **Germany**
 ![image](/images/UTE_col_gruen_200x104_0.jpg)
 
-See map: [Google Maps](http://maps.google.com?q=%2C+%2C+%2C+de)
+See map: [Google Maps](http://maps.google.de?q=Friedrich+Ebert+Str+112a+58454+witten)
 
 U.T.E. is a german based distributor of electronic products for the high end market. The company focuses on supply of datacenter equipment including UPS systems and energy monitoring equipment.
 
@@ -182,7 +182,7 @@ U.T.E. is a german based distributor of electronic products for the high end mar
 **United Kingdom**
 ![image](/images/criticalpowersupplies.png)
 
-See map: [Google Maps](http://maps.google.co.uk?q=%2C+%2C+%2C+gb)
+See map: [Google Maps](http://maps.google.co.uk?q=unit+f+howland+business+park+thame+OX9+3GQ+Oxfordshire+UK)
 
 
 Critical Power Supplies is a leading independent UK multi-brand supplier of critical power and energy solutions including uninterruptible power supplies and standby power generators to 6MVA. As a multi-brand supplier we are well placed to provide you with the right power solution.
@@ -196,7 +196,7 @@ Critical Power Supplies is a leading independent UK multi-brand supplier of crit
 **Poland**
 ![image](/images/partners_primetechnologies_logo.png)
 
-See map: [Google Maps](http://maps.google.pl?q=%2C+%2C+%2C+pl)
+See map: [Google Maps](http://maps.google.pl?q=ul+krótka+2+45-301+opole)
 
 Prime Technologies provides valuable technology solutions for datacenters, internet service providers, telecom operators system integrators and other enterprises. Between solutions offered one can find:
 
@@ -217,7 +217,7 @@ Prime Technologies provides valuable technology solutions for datacenters, inter
 **Slovenia/Croatia**
 ![image](/images/elmitel.png)
 
-See map: [Google Maps](http://maps.google.si?q=%2C+%2C+%2C+si)  
+See map: [Google Maps](http://maps.google.si?q=orehovci+1a+9250+gornja+radgona)  
 
 Since 1994 providing solutions in electrical installations and telecommunications (Cable TV, FTTH Networks) 
 
@@ -230,7 +230,7 @@ Since 1994 providing solutions in electrical installations and telecommunication
 **Greece**
 ![image](/images/watt.png)
 
-See map: [Google Maps](http://maps.google.gr?q=%2C+%2C+%2C+gr)  
+See map: [Google Maps](http://maps.google.com?q=24+Stylianou+Lena+2019+Strovolos+Nicosia+cyprus)  
 
 Watt-i-consume helps organisations measure accurately the power consumption of ANY device, Rack, Data Centre, production line, building.
 By adding our IP enabled multimeter into your network, you will immediately identify what is exactly costing to operate, built your product, or maintain your customer infrastructure.
@@ -244,7 +244,7 @@ By adding our IP enabled multimeter into your network, you will immediately iden
 **Italy**
 ![image](/images/itcare.png)
 
-See map: [Google Maps](http://maps.google.it?q=%2C+%2C+%2C+it)
+See map: [Google Maps](http://maps.google.it?q=corso+enrico+berlinger+12/c+45030+occhiobello+italy)
 
 ITCare is an IT consulting Company building and providing solutions either in Systems, Process and Service Management. Our crew is highly specialized and constantly up to date, via training and certifications.
 

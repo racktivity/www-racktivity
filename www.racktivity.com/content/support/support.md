@@ -280,3 +280,7 @@ VersionTracker23may2014.pdf")
 
 
 [Link to the DCPM user manual](/pdf/DCPM%20-%20Manual_0.pdf "DCPM - Manual.pdf")
+
+--------------------------------
+
+[WiC documentation](https://drive.google.com/a/codescalers.com/file/d/0B5eAYyB3Xuo_cGZNRktfRjR1LTg/view)

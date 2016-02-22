@@ -2,7 +2,7 @@
 #Don't remove title!
 title = "Company"
 page_disc = "Racktivity offers an unrivalled set of products and features to **distribute, measure, monitor and control the power of your infrastructure**"
-section_pic = "/images/page-pic.jpg"
+section_pic = "/images/banner-es1108 series.jpg"
 +++
 
 ### Racktivity has a world-class team of seasoned executives, researchers, technologists and investors. ###

@@ -56,7 +56,6 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
   .content-text p a{margin-right:20px;}
   </style>
 {{ end }}
-
 <section class="page-disc" style="background: url({{.Params.section_pic}}) center center no-repeat">
 <div class="container">
   <div class="row">
@@ -74,7 +73,7 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
     <div class="row">
       <div class="col-md-12">
         <ul>
-          <li><a href="#">Home</a></li>
+          <li><a href="/">Home</a></li>
           {{ if eq .Section "post" }}
           <li><a href="#">{{.Title}}</a></li>
           {{ else }}
@@ -132,9 +131,16 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
                   {{ end }}
                 </ul>
                 {{ else }}
-            {{ range $element := where .Site.Pages "Section" .Section }}
-             <li><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
-            {{ end }}
+              {{ range $element := where .Site.Pages "Section" .Section }}
+                {{if eq .Section "customers" }}
+                  {{if ne $element.Title "Customers" }}
+                  <li><a href="/case-studies">Case Studies</a></li>
+                  {{ end }}
+                  <li><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
+                 {{else}}
+                 <li><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
+                 {{ end }}
+              {{ end }}
           {{ end }}
         </ul>
       </div>

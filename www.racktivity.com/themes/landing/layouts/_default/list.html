@@ -1,12 +1,21 @@
 {{ partial "head.html" . }}
 <body>
 {{ partial "header.html" . }}
+
+{{ if eq .Title "Case-studies" }}
+  <style>
+  .node img{
+    position: inherit !important;
+  }
+  </style>
+{{ end }}
+
 <section class="bred-crum">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
         <ul>
-          <li><a href="#">Home</a></li>
+          <li><a href="/">Home</a></li>
           <li><a href="#">{{title .Title}}</a></li>
         </ul>
       </div>
@@ -82,12 +91,11 @@
                           {{ if eq .Section "case-studies" }}
                             <div id="node-28" class="node node-product-category node-promoted node-teaser clearfix" typeof="sioc:Item foaf:Document">
                                 <table cellpadding="0" cellspacing="0">
-                                  <tr>
-                                    
-                                    <td class="content" valign="top"><h3><a href="{{.RelPermalink}}" style="text-decoration:none;">{{ .Title }}</a></h3>
-                                      <div class="summary"> {{ .Params.summary }} <a href="{{ .Params.pdf }}" class="moreinfo">Download PDF</a> </div></td>
-                                      <td><a href="{{.RelPermalink}}" style="text-decoration:none;"> <img typeof="foaf:Image" src="{{ .Params.image }}" width="220" height="120" alt="" /></a></td>
-                                  </tr>
+                                    <tr>
+                                      <td><a style="display: block;" href="{{.RelPermalink}}" style="text-decoration:none;"> <img typeof="foaf:Image" src="{{ .Params.image }}" alt="" /></a></td>
+                                      <td class="content" valign="top"><h3><a href="{{.RelPermalink}}" style="text-decoration:none;">{{ .Title }}</a></h3>
+                                        <div class="summary"> {{ .Params.summary }} <a href="{{.RelPermalink}}" class="moreinfo">More info</a> </div></td>
+                                    </tr>
                                 </table>
                               </div>
                             {{ end }}
@@ -98,8 +106,6 @@
                   </div>
                 </div>
               </div>
-
-
         </div>
         <br/>
       </div>

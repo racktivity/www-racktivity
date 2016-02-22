@@ -2,7 +2,7 @@
 #Don't remove title!
 title = "Support"
 page_disc = "Racktivity doesn’t try to automate the support process with a series of scripts, menus and automated call handlers. If you need to speak with us about a technical question on our products, or need some assistance with using our products already installed on your site."
-section_pic = "/images/page-pic.jpg"
+section_pic = "/images/banner-es1108 series.jpg"
 +++
 
 Racktivity doesn’t try to automate the support process with a series of scripts, menus and automated call handlers.

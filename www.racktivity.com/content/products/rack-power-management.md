@@ -1,5 +1,6 @@
 +++
 title= "Rack Power Management (PDU)"
+keywords = ["Inlet monitoring" ,"PDU" ,"intelligent PDU","Switched PDU","Smart PDU","Individual Socket Level Switching & Monitorin"]
 page_disc = "The EnergySwitch™ Family, Racktivity’s next-generation metered and switched Power Distribution Units (PDUs)."
 section_pic = "/images/product-banner1.jpg"
 parent = "top"

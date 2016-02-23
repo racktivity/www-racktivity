@@ -1,5 +1,6 @@
 +++
 title= "DCPM"
+keywords = ["DCIM","IT Power management","IT Asset management","Capacity planning"]
 page_disc = "DCPM, Performance & Power Management System, is the ultimate software to monitor, visualize, control and automate power and environmental parameters with the goal to increase the reliability and uptime of your data center and telecom infrastructure while at the same time reducing your opex and carbon footprint."
 section_pic = "/images/product-banner4.jpg"
 parent = "power-management-software"

@@ -8,13 +8,13 @@ section_pic = "/images/banner-es1108 series.jpg"
 ### Racktivity has a world-class team of seasoned executives, researchers, technologists and investors. ###
 
 
-![image](/images/com_logo1.jpg)
-![image](/images/incubaid2.jpg)
-![image](/images/awingu.png)
-![image](/images/openvstorage.png)
-![image](/images/codescalers.png)
-![image](/images/gig.png)
-![image](/images/mothership.png)
+[![image](/images/com_logo1.jpg)](/)
+[![image](/images/incubaid2.jpg)](http://www.incubaid.com)
+[![image](/images/awingu.png)](http://www.awingu.com)
+[![image](/images/openvstorage.png)](https://www.openvstorage.com)
+[![image](/images/codescalers.png)](http://www.codescalers.com)
+[![image](/images/gig.png)](http://www.greenitglobe.com)
+[![image](/images/mothership.png)](https://www.mothership1.com)
 
 Racktivity has created the industry’s first and only complete system for energy management within the data center.
 Racktivity was formed with the aim of helping customers understand and control energy distribution in near real-time across the enterprise. With this enhanced visibility, organisations can better align IT business operations with their true cost. Racktivity provides extreme granularity to our customers across their entire enterprise, across structures, sites and geographies.

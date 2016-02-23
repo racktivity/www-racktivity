@@ -1,6 +1,6 @@
 +++
 title= "Rack Power Management (PDU)"
-keywords = ["Inlet monitoring" ,"PDU" ,"intelligent PDU","Switched PDU","Smart PDU","Individual Socket Level Switching & Monitorin"]
+keywords = ["Inlet monitoring" ,"PDU" ,"intelligent PDU","Switched PDU","Smart PDU","Individual Socket Level Switching & Monitorin","siemon","powertekpdus","mpltechnologygrou","geist","geistglobal","obvius","Eaton ePDU Power Distribution Units","Eaton ePDU G3 Platform Power Distribution Units","enlogic","Enlogic Power Distribution Units","Enlogic PDUs Hot Swap Network Management Card","Riello iPower PDUs","chatsworthproducts","schleifenbauer","servertechnology","Leviton","austin-hughes"]
 page_disc = "The EnergySwitch™ Family, Racktivity’s next-generation metered and switched Power Distribution Units (PDUs)."
 section_pic = "/images/product-banner1.jpg"
 parent = "top"

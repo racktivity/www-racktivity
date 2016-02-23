@@ -1,5 +1,6 @@
 +++
 title= "Infrastructure power management"
+keywords = ["Socomec" ,"Socomec Diris range" ,"ztedevice","Janitza","Ted spider","Open Energymonitoring","Energy36 - Multi-lines electric meter and analyser"]
 page_disc = "The DC and AC monitoring and management solution focused on telecommunication, broadband, wireless and broadcast service providers."
 section_pic = "/images/product-banner2.jpg"
 parent = "top"

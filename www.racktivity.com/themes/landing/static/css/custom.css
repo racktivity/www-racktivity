@@ -6,6 +6,8 @@ a { color: #FFF; }
 a:hover { color: #FFF; }
 header { border-top: 6px solid #333 }
 header a { color: #FFF; }
+.email-link {color: #000 ! important;}
+.email-footer{color: #636363 }
 .whyus-menu { padding: 0; }
 .whyus-menu li { list-style: none; display: inline-block; }
 .whyus-menu li a {padding: 8px 20px 12px 12px; display: block; font-size: 12px;}

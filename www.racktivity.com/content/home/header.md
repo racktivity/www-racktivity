@@ -28,6 +28,7 @@ contact_text1 = "+32 9 324 2090"
 
 contact_title2 = "EMAIL US"
 contact_text2 = "sales@racktivity.com"
+link ="#"
 
 contact_title3 = "WORKING HOURS"
 contact_text3 = "Mon - Fri 9.00 - 17.00"

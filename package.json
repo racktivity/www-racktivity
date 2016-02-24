@@ -1,0 +1,20 @@
+{
+  "name": "racktivity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.aydo.com:static-websites/www-new-racktivity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "string": "^3.3.1",
+    "toml": "^2.3.0"
+  }
+}

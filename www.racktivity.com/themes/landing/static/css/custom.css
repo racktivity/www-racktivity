@@ -179,6 +179,8 @@ header a { color: #FFF; }
 .main-menu .nav > li > a {padding: 14px 27px !important;}
 }
 @media (max-width: 992px) {
+.search-icon { top: 19px !important; right: 11px !important; }
+.search-wrap { float: none !important; text-align: center; padding-top: 15px;margin: 0 auto !important;width: 159px;}
 .menu-footer li a { padding: 23px 0; }
 .quiq-links { height: auto; display: inline-block; width: 100%; margin: 20px 0; }
 .footer-info { margin: 0; }
@@ -328,3 +330,6 @@ h6 + p { float: left; }
 html { position: relative; min-height: 100%;}
 body {margin-bottom: 358px;}
 footer { position: absolute; bottom: 0; width: 100%;}
+.search-wrap { float: right; position: relative;}
+.search-box {border: 0;background: #545454;padding: 3px 10px;font-size: 12px !important;color: #FFF; outline: 0;margin: 4px 0 0 0;-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;}
+.search-icon {position: absolute;right: 8px;top: 4px;z-index: 2;color: #333333;color: #A9A9A9;}

@@ -7,6 +7,76 @@
     p{text-align: justify;}
   </style>
 {{end}}
+
+{{ if eq .Title "Search" }}
+  <style type="text/css">
+    .search-wrapper {
+        min-height: 400px;
+    }
+
+    .search-wrapper #results {
+      padding-left: 0;
+    }
+
+    .search-wrapper #results .result {
+      list-style: none;
+      padding: 8px;
+      margin-top: 5px;
+      border-bottom: 1px solid #E9E9E9;
+    }
+
+    .search-wrapper #results .result .title {
+      color: #3483AA;
+    }
+
+    .search-wrapper #results .result .url {
+      color: #42B54E;
+    }
+
+    .search-wrapper #results .result .summary {
+      color: #919191;
+      margin-top: 10px;
+    }
+
+    .search-wrapper #results .result .summary strong {
+      color: #5A5A5A;
+    }
+
+    .search-wrapper .pager {
+      color: black;
+      padding-left: 0;
+    }
+
+    .search-wrapper .pager .page {
+      color: #949495;
+      list-style: none;
+      display: inline-block;
+      padding: 5px 12px;
+      margin-right: -5px;
+    }
+
+    .search-wrapper .pager .page:hover {
+      color: #4997C9;
+      cursor: pointer;
+    }
+
+    .search-wrapper .pager .page.selected {
+      color: black;
+      font-weight: bold;
+      text-decoration: underline;
+    }
+
+    .search-wrapper .pager .page.disabled {
+      color: #ECECEC;
+    }
+
+    .search-wrapper .pager .page.disabled:hover,
+    .search-wrapper .pager .page.selected:hover {
+      cursor: default;
+    }
+  </style>
+{{ end }}
+
 {{ if eq .Title "Company" }}
   <style type="text/css">
     .content-text img { float: right; display: block; margin-left: 57px; margin-top: 4px; margin-bottom: 41px; clear: both;max-width: 185px;}
@@ -56,6 +126,7 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
   .content-text p a{margin-right:20px;}
   </style>
 {{ end }}
+<<<<<<< HEAD
 <section class="page-disc" style="background: url({{.Params.section_pic}}) center center no-repeat">
 <div class="container">
   <div class="row">
@@ -63,11 +134,23 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
       <p>
         {{.Params.page_disc}}
       </p>
-    </div>
-  </div>
-</div>
+=======
 
-</section>
+{{ if ne .Title "Search" }}
+  <section class="page-disc" style="background: url({{.Params.section_pic}}) center center no-repeat">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12"><h1>{{.Title}}</h1>
+          <p>
+            {{.Params.page_disc}}
+          </p>
+        </div>
+      </div>
+>>>>>>> enable-search
+    </div>
+  </section>
+{{ end }}
+
 <section class="bred-crum">
   <div class="container">
     <div class="row">

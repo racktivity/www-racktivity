@@ -7,6 +7,6 @@ http://gig-racktivity.aydo.com:8347 {
        interval 300
        key ../keys/id_rsa
        path ../..
-       then hugo -s www.racktivity.com
+       then /bin/bash -c 'grunt ; hugo -s www.racktivity.com'
     }
 }

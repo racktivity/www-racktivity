@@ -126,16 +126,6 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
   .content-text p a{margin-right:20px;}
   </style>
 {{ end }}
-<<<<<<< HEAD
-<section class="page-disc" style="background: url({{.Params.section_pic}}) center center no-repeat">
-<div class="container">
-  <div class="row">
-    <div class="col-md-12"><h1>{{.Title}}</h1>
-      <p>
-        {{.Params.page_disc}}
-      </p>
-=======
-
 {{ if ne .Title "Search" }}
   <section class="page-disc" style="background: url({{.Params.section_pic}}) center center no-repeat">
     <div class="container">
@@ -146,7 +136,6 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
           </p>
         </div>
       </div>
->>>>>>> enable-search
     </div>
   </section>
 {{ end }}

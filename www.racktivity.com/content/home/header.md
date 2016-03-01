@@ -14,6 +14,9 @@ black_link3 = "/customers/customers"
 black_title4 = "Search"
 black_link4 = "/search"
 
+black_title5 = "blog"
+black_link5 = "/blog"
+
 social_icon1 = "facebook"
 social_icon2 = "google-plus"
 social_icon3 = "twitter"

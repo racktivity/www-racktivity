@@ -23,13 +23,13 @@ See map: [Google Maps](http://maps.google.nl?q=astronaut+28+amersfoort+nl)
 
 Your network infrastructure has to be  reliable, durable and safe, so employees can communicate seamlessly in a secure and fast way. That’s why you want a reliable and experienced partner which deliver you added value in quality, both in products and services. Kannegieter is such a partner!  With over 56 years of experience in the field of data cabling, networking and smart distribution solutions we always find the right solutions for our clients. At Kannegieter we work with top brands and our clients can count on an extensive product and service portfolio in the areas of:  
 
-•	Wireless, switches, power over Ethernet, Passive Optical Lan. 
-•	Copper- and fiber optic cabling infrastructure. 
-•	Racks, cabinets and industrial enclosures.
-•	UPS systems, PDU’s, power & power management. 
-•	Measurement tools and supplies. 
-•	Voice and data cable.
-•	Datacentre solution. 
+-	Wireless, switches, power over Ethernet, Passive Optical Lan. 
+-	Copper- and fiber optic cabling infrastructure. 
+-	Racks, cabinets and industrial enclosures.
+-	UPS systems, PDU’s, power & power management. 
+-	Measurement tools and supplies. 
+-	Voice and data cable.
+-	Datacentre solution. 
     
 [www.kannegieter.nl](http://www.kannegieter.nl)
 

@@ -9,7 +9,6 @@
   }
   </style>
 {{ end }}
-
 <section class="bred-crum">
   <div class="container">
     <div class="row">
@@ -100,6 +99,24 @@
                               </div>
                             {{ end }}
                           {{ end }}
+                         <ul id="show-more">
+                          {{ range $element := .Data.Pages }}
+                          {{ if eq .Section "blog" }}
+                            <li>                              
+                            <div class="media">                              
+                              <div class="media-body">
+                                <h3><a href="{{.RelPermalink}}">{{ title .Title }}</a></h3>
+                                  {{ .Summary }}
+                                 
+                                  <a href="{{.RelPermalink}}">Read more...</a>
+                              </div>
+                            </div>
+                            <hr />
+                            </li>
+                            {{ end }}
+                          {{ end }}
+                          <div id="loadMore">Load More</div>                      
+                          </ul>
                         </div>
                       </div>
                     </div>

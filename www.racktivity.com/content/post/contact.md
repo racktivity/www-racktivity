@@ -39,7 +39,7 @@ Taxation Registration VAT: BE0809832610 (RPR Ghent)
 
 * contact form
 
-<form id="contact-form" action="//formspree.io/magedf@codescalers.com" method="POST" class="col-md-7 nopadding">
+<form id="contact-form" action="//formspree.io/sales@racktivity.com" method="POST" class="col-md-7 nopadding">
 <!-- <form id="contact-form" action="//formspree.io/info@openvstorage.com" method="POST" class="col-md-7 nopadding"> -->
     <input type="hidden" name="_next" value="/thanks" />
     <input type="hidden" name="_subject" value="Message from Open vStorage wesbite" />

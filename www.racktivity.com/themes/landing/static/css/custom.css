@@ -148,6 +148,8 @@ header a { color: #FFF; }
 @media (max-width: 1376px) {
 .about-us { margin-left: 9%; }
 .links ul li a { padding: 0 18px; }
+.whyus-menu li a {
+    padding: 8px 13px 12px 12px;}
 }
 @media (max-width: 1290px) {
 .quiq-links { height: auto; }
@@ -191,6 +193,7 @@ header a { color: #FFF; }
 .video-side iframe {margin-bottom: 0px;margin-top: 0px !important;height: 300px;}
 .main-menu .nav > li > a {padding: 14px 16px !important;}
 .row .black-part {display: inline-block;margin-top: 45px !important;}
+
 }
 @media (max-width: 768px) {
 .product-header { font-size: 14px; }

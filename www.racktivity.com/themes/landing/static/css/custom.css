@@ -336,3 +336,4 @@ footer { position: absolute; bottom: 0; width: 100%;}
 #show-more li {display:none; list-style: none; }
 #show-more {padding: 0 }
 #loadMore {  cursor:pointer;width: 129px; text-align: center; margin: 0 auto;background: #21A6DF; color: #FFF;padding: 8px 10px;font-size: 16px;}
+.navbar-nav li.active:first-child a:hover { background-image: none !important; }

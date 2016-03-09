@@ -23,11 +23,14 @@ $(".search-box").keyup(function(event){
 $('#search').val(window.location.href.split('#')[1]);
 
 size_li = $("#show-more li").size();
-x=4;
-$('#show-more li:lt('+x+')').show();
+visibleItems = 4;
+$('#show-more li:lt(' + visibleItems + ')').show();
 $('#loadMore').click(function () {
-  x= (x+4 <= size_li) ? x+4 : size_li;
-  $('#show-more li:lt('+x+')').show();
+  visibleItems = (visibleItems + 4 <= size_li) ? visibleItems + 4 : size_li;
+  $('#show-more li:lt(' + visibleItems + ')').show();
+  if(visibleItems === size_li){
+    $('#loadMore').hide();
+  }
 });
 
 });

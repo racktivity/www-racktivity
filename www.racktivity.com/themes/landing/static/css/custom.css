@@ -323,7 +323,7 @@ h6 + p { float: left; }
 .slider3 input {background: rgba(255, 255, 255, 0.8);color: #333;margin-top: 90px;}
 .slider3 input:hover {background: rgba(255, 255, 255, 0.8);color: #333; opacity: 0.9}
 /*.navbar-nav li:first-child a:hover { background: none !important;}*/
-.views-row  h3 a {color: #21A6DF;font-size: 25px;}
+.views-row  h3 a {color: #21A6DF;font-size: 25px;line-height: 30px;}
 .media-left a img {width: 140px;border: 3px solid #DADADA;margin-right: 8px;}
 .media-left, .media-right, .media-body {color: #797979;font-size: 16px;line-height: 27px;}
 .media-body h3 {margin-top: 3px;margin-bottom: 9px;}

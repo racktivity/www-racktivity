@@ -15,7 +15,11 @@
       <div class="col-md-12">
         <ul>
           <li><a href="/">Home</a></li>
+          {{if eq .Title "Blogs"}}
           <li><a href="#">{{title .Title}}</a></li>
+          {{else}}
+          <li><a href="#">Blog</a></li>
+          {{end}}
         </ul>
       </div>
     </div>
@@ -27,7 +31,11 @@
       
       <div class="col-md-12 content-text">
         <h1>
-          {{ .Title }}
+          {{ if eq .Title "Blogs" }}
+            Blog
+            {{else}}
+            {{.Title}}            
+          {{end}}
         </h1>
         <div id="content" class="columns twelve">
         <div class="content-system"> <a id="main-content"></a>
@@ -101,7 +109,7 @@
                           {{ end }}
                          <ul id="show-more">
                           {{ range $element := .Data.Pages }}
-                          {{ if eq .Section "blog" }}
+                            {{ if eq .Section "blog" }}
                             <li>                              
                             <div class="media">                              
                               <div class="media-body">
@@ -115,7 +123,9 @@
                             </li>
                             {{ end }}
                           {{ end }}
-                          <div id="loadMore">Load More</div>                      
+                            {{if eq .Title "Blogs"}}
+                              <div id="loadMore">Load More</div>
+                            {{ end }}
                           </ul>
                         </div>
                       </div>

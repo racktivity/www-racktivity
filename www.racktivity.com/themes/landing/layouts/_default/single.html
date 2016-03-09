@@ -160,6 +160,7 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
   <section class="content" style="padding-bottom: 50px;">
   <div class="container">
     <div class="row">
+    {{ if ne .Section "blog" }}
     {{ if ne .Section "news" }}
     {{ if ne .Section "post" }}
     {{if ne .Params.hide_menu "True"}}
@@ -206,9 +207,9 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
               {{ range $element := where .Site.Pages "Section" .Section }}
                 {{if eq .Section "customers" }}
                   {{if ne $element.Title "Customers" }}
-                  <li><a href="/case-studies">Case Studies</a></li>
+                    <li><a href="/case-studies">Case Studies</a></li>
                   {{ end }}
-                  <li><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
+                    <li><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
                  {{else}}
                  <li><a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a></li>
                  {{ end }}
@@ -219,7 +220,8 @@ label, legend {display: block;font-weight: bold;font-size: 13px;}
       {{ end }}
       {{ end }}
     {{ end }}
-      <div class="col-md-{{ if or (eq .Section "post") (eq .Section "news") }}12{{else}}8{{end}} content-text">
+    {{ end }}
+      <div class="col-md-{{ if or (eq .Section "post") (eq .Section "news") (eq .Section "blog") }}12{{else}}8{{end}} content-text">
         <h1>
           {{ .Title }}
         </h1>

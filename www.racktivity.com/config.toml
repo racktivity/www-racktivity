@@ -10,3 +10,5 @@ port = 9090
 
 [permalinks]
     post = "/:filename"
+    partners = "/:filename"
+    customers = "/:filename"

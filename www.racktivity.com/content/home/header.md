@@ -6,10 +6,10 @@ black_title1 = "Resources"
 black_link1 = "/resources/modern-lexicon"
 
 black_title2 = "Partners"
-black_link2 = "/partners/partners"
+black_link2 = "/partners"
 
 black_title3 = "Customers"
-black_link3 = "/customers/customers"
+black_link3 = "/customers"
 
 black_title4 = "Search"
 black_link4 = "/search"

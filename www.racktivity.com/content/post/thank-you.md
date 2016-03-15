@@ -5,5 +5,6 @@ page_disc = "Racktivity's power distribution EnergySwitch Smart PDUs equip your 
 section_pic = "/images/product-banner1.jpg"
 +++
 
-### The white paper will be sent to you in the next 24 hours.
+### your submission has been received, and We will contact you soon.
 
+ 

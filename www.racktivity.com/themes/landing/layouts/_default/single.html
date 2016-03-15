@@ -7,6 +7,11 @@
     p{text-align: justify;}
   </style>
 {{end}}
+{{if eq .Title "Thank you!"}}
+  <style type="text/css">
+  .page-disc {display: none;}
+  </style>
+{{end}}
 
 {{ if eq .Title "Search" }}
   <style type="text/css">

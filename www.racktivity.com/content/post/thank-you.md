@@ -5,6 +5,6 @@ page_disc = "Racktivity's power distribution EnergySwitch Smart PDUs equip your 
 section_pic = "/images/product-banner1.jpg"
 +++
 
-### your submission has been received, and We will contact you soon.
+### Your submission has been received, and We will contact you soon.
 
  

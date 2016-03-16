@@ -29,11 +29,4 @@ slider3_button = "More"
 slider3_button_link = "products/infrastructure-power-management"
 slider3_text4 = "With the AC² units installed in all our electrical cabinets with can see any micro interruptions and at the same time invoice each department accurately for energy consumption - Chief Facility Coordinator - Electricity of a main Belgian Industrial company."
 
-slider4_pic= "images/slider4.jpg"
-slider4_text1 = "Did you know?"
-slider4_text2 = "Our EnergySwitchss PDUs are equipped with unique features such as 'Electronic Fast Fuse Protection'"
-slider4_text3 = "LEARN ABOUT OUR NEW MODULAR FLEX PDU"
-slider4_button = "More"
-slider4_text4 = "Racktivity has a distinctive vision on what value add in power management means - Luc Neysens, CEO at Isabel"
-
 +++

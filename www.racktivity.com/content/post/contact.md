@@ -32,7 +32,7 @@ Taxation Registration VAT: BE0809832610 (RPR Ghent)
 
 [marketing@racktivity.com](marketing@racktivity.com)
 
-* support contact
+* Support contact
 
 [support@racktivity.com](mailto:sales@racktivity.com)
 </div>

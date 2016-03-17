@@ -7,6 +7,6 @@ http://www-racktivity.aydo.com:8999 {
        interval 300
        key ../keys/id_rsa
        path ../
-       hugo -s www.racktivity.com'
+       then hugo -s www.racktivity.com'
     }
 }

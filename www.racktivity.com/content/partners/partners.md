@@ -219,7 +219,16 @@ Prime Technologies provides valuable technology solutions for datacenters, inter
 
 See map: [Google Maps](http://maps.google.si?q=orehovci+1a+9250+gornja+radgona)  
 
-Since 1994 providing solutions in electrical installations and telecommunications (Cable TV, FTTH Networks) 
+Elmitel provides a wide portfolio of solutions for data centers, ISPs and system integrators. The company is active in the telecommunication and electrical industry for more than 20 years.
+
+The solutions, among others, are:
+- planning and optimization of the existing power management equipment
+- a wide range of environmental monitoring solutions
+
+Above-mentioned services allow customers to have full control over power expenses, unplanned behaviour and environmental conditions in their data centers."
+
+The company will be present as a bronze sponsor at the "Neprekinjeno poslovanje 2016" (Business Continuity) conference in Ljubljana on the beginning of June this year. The conference is a very niche one and has a nice reputation between the CIOs.
+
 
 [www.elmitel.com](http://www.elmitel.com)
 

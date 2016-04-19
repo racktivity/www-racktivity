@@ -15,38 +15,31 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 
 
-## Supported models
+## Downloads
 ---------------------------------------
 
 [![image](/images/products_energyswitch_0U_gallery1%5B3%5D.png?itok=2pYUKPQ5)](/products/rack-power-management/es6124-16-3-phase-16a)
 
-
-
-### [ES6124-16 (3 phase, 16A)](/products/rack-power-management/es6124-16-3-phase-16a) Downloads<br>
-
-
-
-
- 
-* [Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package.rar "ES_Series_-_API_Information_package.rar")    
-* [Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual.pdf "Racktivity_EnergySwitch_ES%20Series-Service_Manual.pdf")    
-* [Download the ES2000 & 6000 Series user manual Firmware](/pdf/Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf "Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf")   [Download the v3.3.1.1 firmware for the ES2000-6000 Series. Follow enclosed instructions carefully!](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip "Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip")    
-* [Download Racktivity's latest firmware overview](/pdf/VersionTracker_0.pdf "VersionTracker.pdf")
-
-
+### EnergySwitch [ES6124-16](/products/rack-power-management/es6124-16-3-phase-16a) (3 phase, 16A)<br>
+   
+* User Manual - [download (pdf)](/pdf/Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf)
+* Firmware v3.3.1.1 - [download (zip)](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip) Follow enclosed instructions carefully!
+* API Documentation - [download (rar)](/rar/ES_Series_-_API_Information_package.rar "ES_Series_-_API_Information_package.rar")
+* Service Manual - [download (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual.pdf)
 
 ----------------------------------------
 
 
 [![image](/images/products_energyswitch_0U_gallery1%5B1%5D_0.png?itok=Sc5Ny2VK)](/products/rack-power-management/es6124-32-3-phase-32a)
 
-### [ES6124-32 (3 phase, 32A)](/products/rack-power-management/es6124-32-3-phase-32a) <br>
+### EnergySwitch [ES6124-32](/products/rack-power-management/es6124-32-3-phase-32a) (3 phase, 32A)<br>
 
 
 
 [Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package.rar "ES_Series_-_API_Information_package.rar")    
 [Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual.pdf "Racktivity_EnergySwitch_ES%20Series-Service_Manual.pdf")    
-[Download the ES2000 & 6000 Series user manual Firmware](/pdf/Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf "Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf")   [Download the v3.3.1.1 firmware for the ES2000-6000 Series. Follow enclosed instructions carefully!](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip "Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip")    
+[Download the ES2000 & 6000 Series user manual Firmware](/pdf/Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf "Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf")   
+[Download the v3.3.1.1 firmware for the ES2000-6000 Series. Follow enclosed instructions carefully!](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip "Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip")    
 [Download Racktivity's latest firmware overview](/pdf/VersionTracker_1.pdf "VersionTracker.pdf")
 
 
@@ -54,7 +47,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 [![image](/images/products_energyswitch_1U_gallery2%5B1%5D.png?itok=1FfKUs5J)](/products/rack-power-management/es1108-16-euk-euuk)
 
-### [ES1108-16-EUK (EU/UK model)](/products/rack-power-management/es1108-16-euk-euuk)<br>
+### EnergySwitch [ES1108-16-EU/UK](/products/rack-power-management/es1108-16-euk-euuk) (EU/UK model)<br>
 
 
 
@@ -68,24 +61,26 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 [![image](/images/products_energyswitch_0U_gallery2%5B1%5D%5B1%5D.png?itok=KhPD3BIb)](/products/rack-power-management/es2224-32-1-phase-32a)
 
-### [ES2224-32 (1 phase, 32A)](/products/rack-power-management/es2224-32-1-phase-32a)<br>
+### EnergySwitch [ES2224-32](/products/rack-power-management/es2224-32-1-phase-32a) (1 phase, 32A)<br>
 
 [Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package.rar "ES_Series_-_API_Information_package.rar")    
 [Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual.pdf "Racktivity_EnergySwitch_ES%20Series-Service_Manual.pdf")    
-[Download the ES2000 & 6000 Series user manual Firmware](/pdf/Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf "Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf")   [Download the v3.3.1.1 firmware for the ES2000-6000 Series. Follow enclosed instructions carefully!](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip "Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip")    
+[Download the ES2000 & 6000 Series user manual Firmware](/pdf/Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf "Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf")   
+[Download the v3.3.1.1 firmware for the ES2000-6000 Series. Follow enclosed instructions carefully!](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip "Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip")    
 [Download Racktivity's latest firmware overview](/pdf/VersionTracker_2.pdf "VersionTracker.pdf")
 
 ---------------------------------------
 
 [![image](/images/products_energyswitch_0U_gallery2%5B1%5D%5B3%5D.png?itok=1GEqA3kq)](/products/rack-power-management/es6224-16-3-phase-16a)
 
-### [ES6224-16 (3 phase, 16A)](/products/rack-power-management/es6224-16-3-phase-16a)<br>
+### EnergySwitch [ES6224-16](/products/rack-power-management/es6224-16-3-phase-16a) (3 phase, 16A)<br>
 
 
 
 [Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package.rar "ES_Series_-_API_Information_package.rar")    
 [Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual.pdf "Racktivity_EnergySwitch_ES%20Series-Service_Manual.pdf")    
-[Download the ES2000 & 6000 Series user manual Firmware](/pdf/Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf "Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf")   [Download the v3.3.1.1 firmware for the ES2000-6000 Series. Follow enclosed instructions carefully!](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip "Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip")    
+[Download the ES2000 & 6000 Series user manual Firmware](/pdf/Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf "Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf")   
+[Download the v3.3.1.1 firmware for the ES2000-6000 Series. Follow enclosed instructions carefully!](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip "Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip")    
 [Download Racktivity's latest firmware overview](/pdf/VersionTracker_3.pdf "VersionTracker.pdf")
 
 ----------------------------------------
@@ -95,7 +90,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 
 
-### [ES2124-30 (1 phase, 30A - US model)](/products/rack-power-management/es2124-30-1-phase-30a-us)<br>
+### EnergySwitch [ES2124-30L](/products/rack-power-management/es2124-30-1-phase-30a-us) (1 phase, 30A - US model)<br>
 
 
 
@@ -103,7 +98,8 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
  
 [Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package.rar "ES_Series_-_API_Information_package.rar")    
 [Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual.pdf "Racktivity_EnergySwitch_ES%20Series-Service_Manual.pdf")    
-[Download the ES2000 & 6000 Series user manual Firmware](/pdf/Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf "Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf")   [Download the v3.3.1.1 firmware for the ES2000-6000 Series. Follow enclosed instructions carefully!](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip "Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip")    
+[Download the ES2000 & 6000 Series user manual Firmware](/pdf/Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf "Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf")   
+[Download the v3.3.1.1 firmware for the ES2000-6000 Series. Follow enclosed instructions carefully!](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip "Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip")    
 [Download Racktivity's latest firmware overview](/pdf/VersionTracker_4.pdf "VersionTracker.pdf")
 
 ----------------------------------------
@@ -112,7 +108,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 
 
-### [ES6224-32 (3 phase, 32A)](/products/rack-power-management/es6224-32-3-phase-32a)<br>
+### EnergySwitch [ES6224-32](/products/rack-power-management/es6224-32-3-phase-32a) (3 phase, 32A)<br>
 
 
 
@@ -130,7 +126,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 
 
-### [ES1108-16-US (US model)](/products/rack-power-management/es1108-16-us-us)<br>
+### EnergySwitch [ES1108-16-US](/products/rack-power-management/es1108-16-us-us) (US model)<br>
 
 
 
@@ -149,7 +145,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 
 
-### [ES2124-32 (1 phase, 32A)](/products/rack-power-management/es2124-32-1-phase-32a)<br>
+### EnergySwitch [ES2124-32](/products/rack-power-management/es2124-32-1-phase-32a) (1 phase, 32A)<br>
 
 
 
@@ -170,7 +166,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 
 
-### [DC power monitoring with DC²Meter](/products/infrastructure-power-management/dc-power-monitoring)<br>
+### DC²Meter [DCS12-02](/products/infrastructure-power-management/dc-power-monitoring)<br>
 
 
 
@@ -186,7 +182,7 @@ VersionTracker23may2014.pdf")
 
 
 
-### [ACL Master](/products/infrastructure-power-management/acl-master)<br>
+### ACL Series Master [ACLM24-01](/products/infrastructure-power-management/acl-master)<br>
 
 
 
@@ -201,7 +197,7 @@ VersionTracker23may2014.pdf")
 
 
 
-### [ACL Slave](/products/infrastructure-power-management/acl-slave)<br>
+### ACL Series Slave[ACLS04-03](/products/infrastructure-power-management/acl-slave)<br>
 
 
 
@@ -216,7 +212,7 @@ VersionTracker23may2014.pdf")
 
 
 
-### [ACLD Display](/products/infrastructure-power-management/acld-display)<br>
+### ACL Display [ACLD24-01](/products/infrastructure-power-management/acld-display)<br>
 
 
 [Download the ACL Series user manual](/pdf/ACL%20Series%20-%20User%20Manual_10.pdf "ACL Series - User Manual.pdf")
@@ -230,7 +226,7 @@ VersionTracker23may2014.pdf")
 
 
 
-### [AC power monitoring with AC²Meter](/products/infrastructure-power-management/ac-power-monitoring-ac%C2%B2meter)<br>
+### AC²Meter [ACS08-03](/products/infrastructure-power-management/ac-power-monitoring-ac%C2%B2meter)<br>
 
 
 
@@ -247,7 +243,7 @@ VersionTracker23may2014.pdf")
 
 
 
-### [E²Sensor](/products/e2sensor/e%C2%B2sensor)
+### E²Sensor [ESN100-11](/products/e2sensor/e%C2%B2sensor)
 
 
 
@@ -261,7 +257,7 @@ VersionTracker23may2014.pdf")
 
 
 
-### [DCPM](/products/power-management-software/dcpm)
+### Monitoring software [DCPM](/products/power-management-software/dcpm)
 
 
 

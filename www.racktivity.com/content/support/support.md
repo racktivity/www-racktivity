@@ -109,6 +109,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 * Firmware v3.3.1.1 - [download (zip)](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip) (follow enclosed instructions carefully!)
 * API Documentation - [download (zip)](/rar/Racktivity_ES_Series_API_Documentation.zip)
 * Service Manual - [download (pdf)](/pdf/Racktivity EnergySwitch - Service Manual.pdf)
+
 --------------------------------------
 
 [![image](/images/products_energyswitch_1U_gallery2%5B1%5D.png?itok=1FfKUs5J)](/products/rack-power-management/es1108-16-euk-euuk)
@@ -133,6 +134,14 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 ----------------------------------------
 
+[![image](/images/products_energysensor_gallery1.png?itok=6A1QUlg1)](/products/environmental-management/E2Sensor/)
+
+### [E²Sensor ESN100-11](/products/e2sensor/e%C2%B2sensor)
+
+* User Manual - [download (pdf)](/pdf/Racktivity E²Sensor - User Manual.pdf)
+
+----------------------------------------
+
 [![image](/images/IMG_9163.jpg?itok=cprYKGts)](/products/infrastructure-power-management/acl-master)
 
 ### [ACL Series Master ACLM24-01](/products/infrastructure-power-management/acl-master)<br>
@@ -154,14 +163,6 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 ### [ACL Display ACLD24-01](/products/infrastructure-power-management/acld-display)<br>
 
 * User Manual - [download (pdf)](/pdf/Racktivity ACL Series - User Manual.pdf)
-
-----------------------------------------
-
-[![image](/images/products_energysensor_gallery1.png?itok=6A1QUlg1)](/products/environmental-management/E2Sensor/)
-
-### [E²Sensor ESN100-11](/products/e2sensor/e%C2%B2sensor)
-
-* User Manual - [download (pdf)](/pdf/Racktivity E²Sensor - User Manual.pdf)
 
 ----------------------------------------
 

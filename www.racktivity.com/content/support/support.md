@@ -22,18 +22,16 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 
 
-### [ES6124-16 (3 phase, 16A)](/products/rack-power-management/es6124-16-3-phase-16a)<br>
+### [ES6124-16 (3 phase, 16A)](/products/rack-power-management/es6124-16-3-phase-16a) Downloads<br>
 
 
 
 
  
-[Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package_2.rar "ES_Series_-_API_Information_package.rar")    
-[Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual%5B1%5D_0.pdf "Racktivity_EnergySwitch_ES%20Series-Service_Manual[1].pdf")    
-[Download the ES2000 & 6000 Series user manual Firmware 3.x](/pdf/ES2000%20%26%206000%20Series%20-%20User%20Manual%20v3.0_3.pdf "ES2000 &amp; 6000 Series - User Manual v3.0.pdf")    
-[Download the ES2000 & 6000 Series user manual Firmware <3.x](/pdf/ES2000%20%26%206000%20Series%20-%20User%20Manual_0.pdf "ES2000 &amp; 6000 Series - User Manual.pdf")    
-[Download Racktivity's latest firmware for our ES2000-6000 Series. Check out the README.txt file prior to upgrade!](/pdf/Racktivity_ES2000-6000_Series_v3.2.0.7_Firmware_Update_Package_1.rar "Racktivity_ES2000-6000_Series_v3.2.0.7_Firmware_Update_Package.rar")    
-[Download Racktivity's latest firmware overview](/pdf/VersionTracker_0.pdf "VersionTracker.pdf")
+* [Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package.rar "ES_Series_-_API_Information_package.rar")    
+* [Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual.pdf "Racktivity_EnergySwitch_ES%20Series-Service_Manual.pdf")    
+* [Download the ES2000 & 6000 Series user manual Firmware](/pdf/Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf "Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf")   [Download the v3.3.1.1 firmware for the ES2000-6000 Series. Follow enclosed instructions carefully!](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip "Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip")    
+* [Download Racktivity's latest firmware overview](/pdf/VersionTracker_0.pdf "VersionTracker.pdf")
 
 
 
@@ -46,11 +44,9 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 
 
-[Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package_3.rar "ES_Series_-_API_Information_package.rar")    
-[Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual%5B1%5D_1.pdf "Racktivity_EnergySwitch_ES%20Series-Service_Manual[1].pdf")    
-[Download the ES2000 & 6000 Series user manual Firmware 3.x](/pdf/ES2000%20%26%206000%20Series%20-%20User%20Manual%20v3.0_5.pdf "ES2000 &amp; 6000 Series - User Manual v3.0.pdf")    
-[Download the ES2000 & 6000 Series user manual Firmware < 3.x](/pdf/ES2000%20%26%206000%20Series%20-%20User%20Manual_1.pdf "ES2000 &amp; 6000 Series - User Manual.pdf")    
-[Download Racktivity's latest firmware for our ES2000-6000 Series. Check out the README.txt file prior to upgrade!](/pdf/Racktivity_ES2000-6000_Series_v3.2.0.7_Firmware_Update_Package_2.rar "Racktivity_ES2000-6000_Series_v3.2.0.7_Firmware_Update_Package.rar")    
+[Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package.rar "ES_Series_-_API_Information_package.rar")    
+[Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual.pdf "Racktivity_EnergySwitch_ES%20Series-Service_Manual.pdf")    
+[Download the ES2000 & 6000 Series user manual Firmware](/pdf/Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf "Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf")   [Download the v3.3.1.1 firmware for the ES2000-6000 Series. Follow enclosed instructions carefully!](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip "Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip")    
 [Download Racktivity's latest firmware overview](/pdf/VersionTracker_1.pdf "VersionTracker.pdf")
 
 
@@ -63,8 +59,8 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 
 [Download the EnergySwitch ES1000/1100 Series User Manual (pdf)](/pdf/ES1000%20%26%201100%20Series%20-%20User%20Manual_0.pdf "ES1000 &amp; 1100 Series - User Manual.pdf")    
-[Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package_4.rar "ES_Series_-_API_Information_package.rar")    
-[Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual_0%5B1%5D.pdf "Racktivity_EnergySwitch_ES%20Series-Service_Manual_0[1].pdf")    
+[Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package.rar "ES_Series_-_API_Information_package.rar")    
+[Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual.pdf "Racktivity_EnergySwitch_ES%20Series-Service_Manual.pdf")    
 [Download Racktivity's latest firmware overview](/pdf/VersionTracker23may2014_3.pdf "VersionTracker23may2014.pdf")<br>
 
 -------------------------------------
@@ -74,11 +70,9 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 ### [ES2224-32 (1 phase, 32A)](/products/rack-power-management/es2224-32-1-phase-32a)<br>
 
-[Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package_1_0.rar "ES_Series_-_API_Information_package_1.rar")    
-[Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual%5B1%5D_2.pdf "Racktivity_EnergySwitch_ES%20Series-Service_Manual[1].pdf")    
-[Download the ES2000 & 6000 Series user manual Firmware 3.x](/pdf/ES2000%20%26%206000%20Series%20-%20User%20Manual%20v3.0_7.pdf "ES2000 &amp; 6000 Series - User Manual v3.0.pdf")    
-[Download the ES2000 & 6000 Series user manual Firmware < 3.x](/pdf/ES2000%20%26%206000%20Series%20-%20User%20Manual_2.pdf "ES2000 &amp; 6000 Series - User Manual.pdf")    
-[Download Racktivity's latest firmware for our ES2000-6000 Series. Check out the README.txt file prior to upgrade!](/pdf/Racktivity_ES2000-6000_Series_v3.2.0.7_Firmware_Update_Package_3.rar "Racktivity_ES2000-6000_Series_v3.2.0.7_Firmware_Update_Package.rar")    
+[Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package.rar "ES_Series_-_API_Information_package.rar")    
+[Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual.pdf "Racktivity_EnergySwitch_ES%20Series-Service_Manual.pdf")    
+[Download the ES2000 & 6000 Series user manual Firmware](/pdf/Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf "Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf")   [Download the v3.3.1.1 firmware for the ES2000-6000 Series. Follow enclosed instructions carefully!](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip "Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip")    
 [Download Racktivity's latest firmware overview](/pdf/VersionTracker_2.pdf "VersionTracker.pdf")
 
 ---------------------------------------
@@ -89,11 +83,9 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 
 
-[Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package_1_1.rar "ES_Series_-_API_Information_package_1.rar")    
-[Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual%5B1%5D_3.pdf "Racktivity_EnergySwitch_ES%20Series-Service_Manual[1].pdf")    
-[Download the ES2000 & 6000 Series user manual Firmware 3.x](/pdf/ES2000%20%26%206000%20Series%20-%20User%20Manual%20v3.0_9.pdf "ES2000 &amp; 6000 Series - User Manual v3.0.pdf")    
-[Download the ES2000 & 6000 Series user manual Firmware < 3.x](/pdf/ES2000%20%26%206000%20Series%20-%20User%20Manual_3.pdf "ES2000 &amp; 6000 Series - User Manual.pdf")    
-[Download Racktivity's latest firmware for our ES2000-6000 Series. Check out the README.txt file prior to upgrade!](/pdf/Racktivity_ES2000-6000_Series_v3.2.0.7_Firmware_Update_Package_4.rar "Racktivity_ES2000-6000_Series_v3.2.0.7_Firmware_Update_Package.rar")    
+[Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package.rar "ES_Series_-_API_Information_package.rar")    
+[Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual.pdf "Racktivity_EnergySwitch_ES%20Series-Service_Manual.pdf")    
+[Download the ES2000 & 6000 Series user manual Firmware](/pdf/Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf "Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf")   [Download the v3.3.1.1 firmware for the ES2000-6000 Series. Follow enclosed instructions carefully!](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip "Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip")    
 [Download Racktivity's latest firmware overview](/pdf/VersionTracker_3.pdf "VersionTracker.pdf")
 
 ----------------------------------------
@@ -109,11 +101,9 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 
  
-[Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package_1_2.rar "ES_Series_-_API_Information_package_1.rar")    
-[Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual%5B1%5D_4.pdf "Racktivity_EnergySwitch_ES%20Series-Service_Manual[1].pdf")    
-[Download the ES2000 & 6000 Series user manual Firmware 3.x](/pdf/ES2000%20%26%206000%20Series%20-%20User%20Manual%20v3.0_11.pdf "ES2000 &amp; 6000 Series - User Manual v3.0.pdf")    
-[Download the ES2000 & 6000 Series user manual Firmware < 3.x](/pdf/ES2000%20%26%206000%20Series%20-%20User%20Manual_5.pdf "ES2000 &amp; 6000 Series - User Manual.pdf")    
-[Download Racktivity's latest firmware for our ES2000-6000 Series. Check out the README.txt file prior to upgrade!](/pdf/Racktivity_ES2000-6000_Series_v3.2.0.7_Firmware_Update_Package_5.rar "Racktivity_ES2000-6000_Series_v3.2.0.7_Firmware_Update_Package.rar")    
+[Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package.rar "ES_Series_-_API_Information_package.rar")    
+[Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual.pdf "Racktivity_EnergySwitch_ES%20Series-Service_Manual.pdf")    
+[Download the ES2000 & 6000 Series user manual Firmware](/pdf/Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf "Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf")   [Download the v3.3.1.1 firmware for the ES2000-6000 Series. Follow enclosed instructions carefully!](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip "Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip")    
 [Download Racktivity's latest firmware overview](/pdf/VersionTracker_4.pdf "VersionTracker.pdf")
 
 ----------------------------------------
@@ -130,9 +120,8 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
  
 [Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package.rar "ES_Series_-_API_Information_package.rar")    
 [Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%20Series-Service_Manual.pdf "Racktivity_EnergySwitch_ES Series-Service_Manual.pdf")    
-[Download the Energy Switch ES2000 & 6000 series user manual](/pdf/ES2000%20%26%206000%20Series%20-%20User%20Manual_4.pdf "ES2000 &amp; 6000 Series - User Manual.pdf")    
-[Download the Energy Switch ES2000 & 6000 series user manual Frimware 3.x](/pdf/ES2000%20%26%206000%20Series%20-%20User%20Manual%20v3.0.pdf "ES2000 &amp; 6000 Series - User Manual v3.0.pdf")    
-[Download Racktivity's latest firmware for our ES2000-6000 Series. Check out the README.txt file prior to upgrade!](/pdf/Racktivity_ES2000-6000_Series_v3.2.0.7_Firmware_Update_Package.rar "Racktivity_ES2000-6000_Series_v3.2.0.7_Firmware_Update_Package.rar")    
+[Download the ES2000 & 6000 Series user manual Firmware](/pdf/Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf "Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf")    
+[Download the v3.3.1.1 firmware for the ES2000-6000 Series. Follow enclosed instructions carefully!](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip "Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip")    
 [Download Racktivity's latest firmware overview](/pdf/VersionTracker_5.pdf "VersionTracker.pdf")
 
 ----------------------------------------
@@ -148,7 +137,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 
 [Download the EnergySwitch ES1000/1100 Series User Manual (pdf)](/pdf/ES1000%20%26%201100%20Series%20-%20User%20Manual.pdf "ES1000 &amp; 1100 Series - User Manual.pdf")    
-[Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package_0.rar "ES_Series_-_API_Information_package.rar")    
+[Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package.rar "ES_Series_-_API_Information_package.rar")    
 [Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%20Series-Service_Manual_0.pdf "Racktivity_EnergySwitch_ES Series-Service_Manual.pdf")    
 [Download Racktivity's latest firmware overview](/pdf/VersionTracker23may2014_6.pdf "VersionTracker23may2014.pdf")<br>
 
@@ -166,11 +155,10 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 
  
-[Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package_1.rar "ES_Series_-_API_Information_package.rar")    
-[Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual%5B1%5D.pdf "Racktivity_EnergySwitch_ES%20Series-Service_Manual[1].pdf")    
-[Download the ES2000 & 6000 Series user manual Firmware 3.x](/pdf/ES2000%20%26%206000%20Series%20-%20User%20Manual%20v3.0_1.pdf "ES2000 &amp; 6000 Series - User Manual v3.0.pdf")    
-[Download the ES2000 & 6000 Series user manual Firmware < 3.x](/pdf/ES2000%20%26%206000%20Series%20-%20User%20Manual.pdf "ES2000 &amp; 6000 Series - User Manual.pdf")    
-[Download Racktivity's latest firmware for our ES2000-6000 Series. Check out the README.txt file prior to upgrade!](/pdf/Racktivity_ES2000-6000_Series_v3.2.0.7_Firmware_Update_Package_0.rar "Racktivity_ES2000-6000_Series_v3.2.0.7_Firmware_Update_Package.rar")    
+[Download the EnergySwitch ES Series API Documentation (rar)](/rar/ES_Series_-_API_Information_package.rar "ES_Series_-_API_Information_package.rar")    
+[Download the EnergySwitch ES Series Service Manual (pdf)](/pdf/Racktivity_EnergySwitch_ES%2520Series-Service_Manual.pdf "Racktivity_EnergySwitch_ES%20Series-Service_Manual.pdf")    
+[Download the ES2000 & 6000 Series user manual Firmware](/pdf/Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf "Racktivity%20EnergySwitch%200U%20-%20User Manual.pdf")     
+[Download the v3.3.1.1 firmware for the ES2000-6000 Series. Follow enclosed instructions carefully!](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip "Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip")    
 [Download Racktivity's latest firmware overview](/pdf/VersionTracker.pdf "VersionTracker.pdf")
 
 ----------------------------------------

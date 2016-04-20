@@ -174,7 +174,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 --------------------------------
 
-[![image](/images/PM0816-01.PNG)](/products/rack-power-management/pm0816-01/)
+[![image](/images/PM0816-01_small.png)](/products/rack-power-management/pm0816-01/)
 
 ### [PowerManager PM0816-01](/products/rack-power-management/pm0816-01/)
 
@@ -182,9 +182,9 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 --------------------------------
 
-[![image](/images/WIC01-01.jpg]
+[![image](/images/WIC01-01_small.png)]
 
-### [WhatsInsight Controller WIC01-01]
+### **WhatsInsight Controller WIC01-01**
 
 * Quick Start Guide - [download (pdf)](/pdf/Racktivity WhatsInsight Controller - Quick Start Guide.pdf)
 

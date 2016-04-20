@@ -182,4 +182,10 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 --------------------------------
 
-[WiC documentation](https://drive.google.com/a/codescalers.com/file/d/0B5eAYyB3Xuo_cGZNRktfRjR1LTg/view)
+[![image](/images/WIC01-01.jpg]
+
+### [WhatsInsight Controller WIC01-01]
+
+* Quick Start Guide - [download (pdf)](/pdf/Racktivity WhatsInsight Controller - Quick Start Guide.pdf)
+
+--------------------------------

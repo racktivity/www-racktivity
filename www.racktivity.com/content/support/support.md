@@ -174,4 +174,12 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 --------------------------------
 
+[![image](/images/PM0816-01.PNG)](/products/rack-power-management/pm0816-01/)
+
+### [PowerManager PM0816-01](/products/rack-power-management/pm0816-01/)
+
+* User Manual - [download (pdf)](/pdf/Racktivity PowerManager 1U - User Manual.pdf)
+
+--------------------------------
+
 [WiC documentation](https://drive.google.com/a/codescalers.com/file/d/0B5eAYyB3Xuo_cGZNRktfRjR1LTg/view)

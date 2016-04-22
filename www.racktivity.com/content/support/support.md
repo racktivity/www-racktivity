@@ -23,6 +23,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 * User Manual - [download (pdf)](/pdf/Racktivity AC²Meter - User Manual.pdf)    
 * Firmware v3.1.1.0 - [download (rar)](/rar/Racktivity_AC2Meter_Series_v3.1.1.0_Firmware_Update_Package.rar) (follow enclosed instructions carefully!)
+* MIB File - [download (zip)](/rar/Racktivity MIB.zip)
 
 ----------------------------------------
 
@@ -32,6 +33,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 * User Manual - [download (pdf)](/pdf/Racktivity DC²Meter - User Manual.pdf)    
 * Firmware v3.2.0.14 - [download (zip)](/rar/Racktivity_DCS_Series_v3.2.0.14_Firmware_Update_Package.zip) (follow enclosed instructions carefully!)
+* MIB File - [download (zip)](/rar/Racktivity MIB.zip)
 
 ---------------------------------------
 
@@ -43,6 +45,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 * Firmware v3.3.1.1 - [download (zip)](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip) (follow enclosed instructions carefully!)
 * API Documentation - [download (zip)](/rar/Racktivity_ES_Series_API_Documentation.zip)
 * Service Manual - [download (pdf)](/pdf/Racktivity EnergySwitch - Service Manual.pdf)
+* MIB File - [download (zip)](/rar/Racktivity MIB.zip)
 
 ---------------------------------------
 
@@ -54,6 +57,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 * Firmware v3.3.1.1 - [download (zip)](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip) (follow enclosed instructions carefully!)
 * API Documentation - [download (zip)](/rar/Racktivity_ES_Series_API_Documentation.zip)
 * Service Manual - [download (pdf)](/pdf/Racktivity EnergySwitch - Service Manual.pdf)
+* MIB File - [download (zip)](/rar/Racktivity MIB.zip)
 
 ---------------------------------------
 
@@ -65,6 +69,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 * Firmware v3.3.1.1 - [download (zip)](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip) (follow enclosed instructions carefully!)
 * API Documentation - [download (zip)](/rar/Racktivity_ES_Series_API_Documentation.zip)
 * Service Manual - [download (pdf)](/pdf/Racktivity EnergySwitch - Service Manual.pdf)
+* MIB File - [download (zip)](/rar/Racktivity MIB.zip)
 
 ---------------------------------------
 
@@ -76,6 +81,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 * Firmware v3.3.1.1 - [download (zip)](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip) (follow enclosed instructions carefully!)
 * API Documentation - [download (zip)](/rar/Racktivity_ES_Series_API_Documentation.zip)
 * Service Manual - [download (pdf)](/pdf/Racktivity EnergySwitch - Service Manual.pdf)
+* MIB File - [download (zip)](/rar/Racktivity MIB.zip)
 
 ----------------------------------------
 
@@ -87,6 +93,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 * Firmware v3.3.1.1 - [download (zip)](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip) (follow enclosed instructions carefully!)
 * API Documentation - [download (zip)](/rar/Racktivity_ES_Series_API_Documentation.zip)
 * Service Manual - [download (pdf)](/pdf/Racktivity EnergySwitch - Service Manual.pdf)
+* MIB File - [download (zip)](/rar/Racktivity MIB.zip)
 
 ---------------------------------------
 
@@ -98,6 +105,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 * Firmware v3.3.1.1 - [download (zip)](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip) (follow enclosed instructions carefully!)
 * API Documentation - [download (zip)](/rar/Racktivity_ES_Series_API_Documentation.zip)
 * Service Manual - [download (pdf)](/pdf/Racktivity EnergySwitch - Service Manual.pdf)
+* MIB File - [download (zip)](/rar/Racktivity MIB.zip)
 
 ----------------------------------------
 
@@ -109,6 +117,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 * Firmware v3.3.1.1 - [download (zip)](/rar/Racktivity_ES2000-6000_Series_v3.3.1.1_Firmware_Update_Package.zip) (follow enclosed instructions carefully!)
 * API Documentation - [download (zip)](/rar/Racktivity_ES_Series_API_Documentation.zip)
 * Service Manual - [download (pdf)](/pdf/Racktivity EnergySwitch - Service Manual.pdf)
+* MIB File - [download (zip)](/rar/Racktivity MIB.zip)
 
 --------------------------------------
 
@@ -120,6 +129,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 * Firmware v3.0.1.0 - [download (zip)](/rar/Racktivity_ES1100_Series_v3.0.1.0_Firmware_Update_Package.rar) (follow enclosed instructions carefully!)
 * API Documentation - [download (zip)](/rar/Racktivity_ES_Series_API_Documentation.zip)
 * Service Manual - [download (pdf)](/pdf/Racktivity EnergySwitch - Service Manual.pdf)
+* MIB File - [download (zip)](/rar/Racktivity MIB.zip)
 
 ----------------------------------------
 
@@ -131,6 +141,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 * Firmware v3.0.1.0 - [download (zip)](/rar/Racktivity_ES1100_Series_v3.0.1.0_Firmware_Update_Package.rar) (follow enclosed instructions carefully!)
 * API Documentation - [download (zip)](/rar/Racktivity_ES_Series_API_Documentation.zip)
 * Service Manual - [download (pdf)](/pdf/Racktivity EnergySwitch - Service Manual.pdf)
+* MIB File - [download (zip)](/rar/Racktivity MIB.zip)
 
 ----------------------------------------
 
@@ -147,6 +158,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 ### [ACL Series Master ACLM24-01](/products/infrastructure-power-management/acl-master)<br>
 
 * User Manual - [download (pdf)](/pdf/Racktivity ACL Series - User Manual.pdf)
+* MIB File - [download (zip)](/rar/Racktivity MIB.zip)
 
 ----------------------------------------
 
@@ -179,6 +191,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 ### [PowerManager PM0816-01](/products/rack-power-management/pm0816-01/)
 
 * User Manual - [download (pdf)](/pdf/Racktivity PowerManager 1U - User Manual.pdf)
+* MIB File - [download (zip)](/rar/Racktivity PowerManager 1U MIB.zip)
 
 ----------------------------------------
 

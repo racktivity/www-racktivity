@@ -170,7 +170,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 ----------------------------------------
 
-[![image](/images/IMG_6756_0.JPG?itok=6bKLCEP1)](/products/infrastructure-power-management/acld-display)
+[![image](/images/IMG_9173.jpg)](/products/infrastructure-power-management/acld-display)
 
 ### [ACL Display ACLD24-01](/products/infrastructure-power-management/acld-display)<br>
 

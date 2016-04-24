@@ -12,3 +12,4 @@ port = 9090
     post = "/:filename"
     partners = "/:filename"
     customers = "/:filename"
+    support = "/:filename"

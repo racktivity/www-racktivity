@@ -192,6 +192,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 * User Manual - [download (pdf)](/pdf/Racktivity PowerManager 1U - User Manual.pdf)
 * MIB File - [download (zip)](/rar/Racktivity PowerManager 1U MIB.zip)
+* Latest available firmware: v1.01
 
 ----------------------------------------
 

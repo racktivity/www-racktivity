@@ -19,7 +19,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 [![image](/images/DC1.png?itok=-mwX_CEQ)](/products/infrastructure-power-management/ac-power-monitoring-ac2meter/)
 
-### [AC²Meter ACS08-03](/products/infrastructure-power-management/ac-power-monitoring-ac%C2%B2meter)<br>
+### [AC²Meter ACS08-03](/products/infrastructure-power-management/ac-power-monitoring-ac2meter/)<br>
 
 * User Manual - [download (pdf)](/pdf/Racktivity AC²Meter - User Manual.pdf)    
 * Firmware v3.1.1.0 - [download (rar)](/rar/Racktivity_AC2Meter_Series_v3.1.1.0_Firmware_Update_Package.rar) (follow enclosed instructions carefully!)

@@ -147,7 +147,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 [![image](/images/products_energysensor_gallery1.png?itok=6A1QUlg1)](/products/environmental-management/E2Sensor/)
 
-### [E²Sensor ESN100-11](/products/e2sensor/e%C2%B2sensor)
+### [E²Sensor ESN100-11](/products/environmental-management/E2Sensor/)
 
 * User Manual - [download (pdf)](/pdf/Racktivity E²Sensor - User Manual.pdf)
 

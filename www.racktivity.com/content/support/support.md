@@ -19,7 +19,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 [![image](/images/DC1.png?itok=-mwX_CEQ)](/products/infrastructure-power-management/ac-power-monitoring-ac2meter/)
 
-### [AC²Meter ACS08-03](/products/infrastructure-power-management/ac-power-monitoring-ac%C2%B2meter)<br>
+### [AC²Meter ACS08-03](/products/infrastructure-power-management/ac-power-monitoring-ac2meter/)<br>
 
 * User Manual - [download (pdf)](/pdf/Racktivity AC²Meter - User Manual.pdf)    
 * Firmware v3.1.1.0 - [download (rar)](/rar/Racktivity_AC2Meter_Series_v3.1.1.0_Firmware_Update_Package.rar) (follow enclosed instructions carefully!)
@@ -147,7 +147,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 [![image](/images/products_energysensor_gallery1.png?itok=6A1QUlg1)](/products/environmental-management/E2Sensor/)
 
-### [E²Sensor ESN100-11](/products/e2sensor/e%C2%B2sensor)
+### [E²Sensor ESN100-11](/products/environmental-management/E2Sensor/)
 
 * User Manual - [download (pdf)](/pdf/Racktivity E²Sensor - User Manual.pdf)
 
@@ -192,6 +192,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 * User Manual - [download (pdf)](/pdf/Racktivity PowerManager 1U - User Manual.pdf)
 * MIB File - [download (zip)](/rar/Racktivity PowerManager 1U MIB.zip)
+* Latest available firmware: v1.01
 
 ----------------------------------------
 

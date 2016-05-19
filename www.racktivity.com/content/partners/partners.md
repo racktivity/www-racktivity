@@ -99,19 +99,6 @@ Complemented with reliable managed services solutions, MERA-TECH provides end to
 
 ---------------------------------------
 
-### Wires & Wireless
-
-**South Africa**
-![image](/images/wires-logo.png)
-
-See map: [Google Maps](http://maps.google.co.za?q=129+11th+Street+Parkmore+Sandton+Johannesburg+2146)
-
-Wires & Wireless was founded in 2001, as a structured cabling company, to design, implement and manage critical voice and data communications networks. Wires recognizes the need to deliver consistently high quality, reliable, and innovative solutions across all industry sectors. Today, Wires professionally designs, installs, and maintains cost effective and future-proof networking systems for organisations of any size.
-
-[www.wires.co.za](http://wires.co.za)
-
----------------------------------------
-
 ### EO Smart Building
 
 **Tunisie**
@@ -225,9 +212,7 @@ The solutions, among others, are:
 - planning and optimization of the existing power management equipment
 - a wide range of environmental monitoring solutions
 
-Above-mentioned services allow customers to have full control over power expenses, unplanned behaviour and environmental conditions in their data centers."
-
-The company will be present as a bronze sponsor at the "Neprekinjeno poslovanje 2016" (Business Continuity) conference in Ljubljana on the beginning of June this year. The conference is a very niche one and has a nice reputation between the CIOs.
+Above-mentioned services allow customers to have full control over power expenses, unplanned behaviour and environmental conditions in their data centers.
 
 
 [www.elmitel.com](http://www.elmitel.com)

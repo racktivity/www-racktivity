@@ -24,6 +24,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 * User Manual - [download (pdf)](/pdf/Racktivity AC²Meter - User Manual.pdf)    
 * Firmware v3.1.1.0 - [download (rar)](/rar/Racktivity_AC2Meter_Series_v3.1.1.0_Firmware_Update_Package.rar) (follow enclosed instructions carefully!)
 * MIB File - [download (zip)](/rar/Racktivity MIB.zip)
+* StruxureWare DDF - [download (zip)](/rar/Racktivity_AC2Meter_Series_StruxureWare_DDF.zip)
 
 ----------------------------------------
 
@@ -34,6 +35,7 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 * User Manual - [download (pdf)](/pdf/Racktivity DC²Meter - User Manual.pdf)    
 * Firmware v3.2.0.14 - [download (zip)](/rar/Racktivity_DCS_Series_v3.2.0.14_Firmware_Update_Package.zip) (follow enclosed instructions carefully!)
 * MIB File - [download (zip)](/rar/Racktivity MIB.zip)
+* StruxureWare DDF - [download (zip)](/rar/Racktivity_DC2Meter_Series_StruxureWare_DDF.zip)
 
 ---------------------------------------
 

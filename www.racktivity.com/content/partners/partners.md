@@ -212,7 +212,7 @@ The solutions, among others, are:
 - planning and optimization of the existing power management equipment
 - a wide range of environmental monitoring solutions
 
-Above-mentioned services allow customers to have full control over power expenses, unplanned behaviour and environmental conditions in their data centers."
+Above-mentioned services allow customers to have full control over power expenses, unplanned behaviour and environmental conditions in their data centers.
 
 
 [www.elmitel.com](http://www.elmitel.com)

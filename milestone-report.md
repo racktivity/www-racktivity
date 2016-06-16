@@ -3,15 +3,15 @@
 # Summary
 |Milestone|ETA|
 |---------|---|
-|[August](#milestone-august)|0 seconds|
-|[December](#milestone-december)|0 seconds|
-|[July](#milestone-july)|0 seconds|
-|[June](#milestone-june)|0 seconds|
-|[May](#milestone-may)|0 seconds|
-|[November](#milestone-november)|0 seconds|
-|[October](#milestone-october)|0 seconds|
-|[September](#milestone-september)|0 seconds|
-|[No milestone](#no-milestone)|0 seconds|
+|[August](#milestone-august)|N/A|
+|[December](#milestone-december)|N/A|
+|[July](#milestone-july)|N/A|
+|[June](#milestone-june)|N/A|
+|[May](#milestone-may)|N/A|
+|[November](#milestone-november)|N/A|
+|[October](#milestone-october)|N/A|
+|[September](#milestone-september)|N/A|
+|[No milestone](#no-milestone)|N/A|
 
 ## [Milestone August](milestones/4:August.md)
 

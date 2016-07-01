@@ -11,7 +11,7 @@
 |[November](#milestone-november)|N/A|
 |[October](#milestone-october)|N/A|
 |[September](#milestone-september)|N/A|
-|[No milestone](#no-milestone)|2016/06/30|
+|[No milestone](#no-milestone)|2016/07/01|
 
 ## [Milestone August](milestones/4:August.md)
 
@@ -67,4 +67,4 @@
 ## No milestone
 |Issue|Title|State|Owner|ETA|
 |-----|-----|-----|-----|---|
-|[#6](https://github.com/racktivity/www-racktivity/issues/6)|Update the Racktivity website (www)|:red_circle: Open||[2016/06/30](https://github.com/racktivity/www-racktivity/issues/6#issuecomment-None)|
+|[#6](https://github.com/racktivity/www-racktivity/issues/6)|Update the Racktivity website (www)|:red_circle: Open||[2016/07/01](https://github.com/racktivity/www-racktivity/issues/6#issuecomment-None)|

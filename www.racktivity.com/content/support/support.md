@@ -99,6 +99,18 @@ EMAIL : <a href="mailto:support@racktivity.com">support@racktivity.com</a> - CAL
 
 ---------------------------------------
 
+![image](/images/products_energyswitch_0U_gallery1.png?itok=slFXMJMw)
+
+### **EnergySwitch ES6324-32** (3 phase, 32A)<br>
+
+* User Manual - [download (pdf)](/pdf/Racktivity EnergySwitch 0U - User Manual.pdf)
+* Firmware v3.3.2.2 - [download (zip)](/rar/Racktivity_ES2000-6000_Series_v3.3.2.2_Firmware_Update_Package.zip) (follow enclosed instructions carefully!)
+* API Documentation - [download (zip)](/rar/Racktivity_ES_Series_API_Documentation.zip)
+* Service Manual - [download (pdf)](/pdf/Racktivity EnergySwitch - Service Manual.pdf)
+* MIB File - [download (zip)](/rar/Racktivity MIB.zip)
+
+--------------------------------------
+
 [![image](/images/products_energyswitch_0U_gallery2%5B1%5D%5B3%5D.png?itok=1GEqA3kq)](/products/rack-power-management/es6224-16-3-phase-16a)
 
 ### [EnergySwitch ES6224-16](/products/rack-power-management/es6224-16-3-phase-16a) (3 phase, 16A)<br>

@@ -1,4 +1,4 @@
-http://www.racktivity.com:90  http://racktivity.com:90 {
+http://www.racktivity.com:90, http://racktivity.com:90 {
     bind 0.0.0.0
     gzip
     root www.racktivity.com/en
@@ -8,6 +8,6 @@ http://www.racktivity.com:90  http://racktivity.com:90 {
        branch production
        key ../keys/id_rsa
        path ../..
-       then /bin/bash -c 'grunt ; hugo -s www.racktivity.com'
+       then hugo -s www.racktivity.com
     }
 }

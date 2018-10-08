@@ -24,7 +24,7 @@ Green IT Globe will be present at the Mobile World Congress in Barcelona (22-25 
 About Green IT Globe
 We believe IT should be as available and simple as Energy. We are empowering the world with green, disruptive and cost-effective IT, protecting every ones privacy. Green IT Globe is a European technology-led initiative that provides a sustainable alternative to power-hungry datacenters by delivering a platform solution that is 10x more efficient, 10x less power-hungry and 10x more secure and private. We are about 100 people and have offices in Belgium, Germany, Moscow, Netherlands, Dubai and Egypt
 
-[Green IT Globe](www.greenitglobe.com)
+[Green IT Globe](https://www.gig.tech/)
 
 [About Willem Hendrickx](https://www.linkedin.com/in/willemhendrickx)
 

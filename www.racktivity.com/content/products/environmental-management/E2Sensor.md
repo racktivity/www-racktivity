@@ -78,5 +78,5 @@ Look & Feel
 Downloads
 ---------
 
-[Download the E²Sensor product sheet (pdf)](/pdf/PS%20E%C2%B2Sensor.pdf "PS E²Sensor.pdf")  
-[Download the E²Sensor User Manual (pdf)](/pdf/Racktivity_EnergySensor-User_Manual.pdf "Racktivity_EnergySensor-User_Manual.pdf")
+[Download the E²Sensor product sheet (pdf)](/pdf/ps_e²sensor.pdf "ps_e²sensor.pdf")  
+[Download the E²Sensor User Manual (pdf)](/pdf/racktivity_e²sensor_user_manual.pdf "racktivity_e²sensor_user_manual.pdf")

@@ -54,7 +54,7 @@ Want to find out more on how our smart PDUs help protect your business continuit
 *   RGB LED power ON/OFF and programmable status RGB Led at each outlet
 *   Colour: Signal white (RAL 9003) - others in option
 *   CE/RoHS Compliant  
-*   inlet : 3 m (9.84 ft H07RN-F cable with IEC60309 3 or 5 pin plug 
+*   inlet : 3 m (9.84 ft H07RN-F cable with IEC60309 3 or 5 pin plug
 
 ## Other technical specifications
 
@@ -96,6 +96,6 @@ Want to find out more on how our smart PDUs help protect your business continuit
 <a href="/images/products_energyswitch_0U_gallery8.png" class="fancybox link">![](/images/products_energyswitch_0U_gallery8.png)</a> -->
 
 ## downloads
-[Download the ES8000 product sheet (pdf)](/pdf/Racktivity FLEX PDU - Product Sheet _ DRAFT F4_LR.pdf)
+[Download the ES8000 product sheet (pdf)](/pdf/racktivity_flex_pdu_product_sheet_draft_f4_lr.pdf)
 
 ## documentation

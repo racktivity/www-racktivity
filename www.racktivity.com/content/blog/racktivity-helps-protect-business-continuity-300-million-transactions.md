@@ -9,7 +9,7 @@ Earlier, we already announced you that Isabel - a leading provider of solutions 
 
 Want to find out more about this collaboration and why exactly they decided to work with Racktivity?
 
-[Read the full Isabel Case Study here](/pdf/CS Isabel-view.pdf)
+[Read the full Isabel Case Study here](/pdf/cs_isabel_view.pdf)
 
 <br>
 

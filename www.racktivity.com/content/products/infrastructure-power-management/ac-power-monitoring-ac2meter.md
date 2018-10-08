@@ -98,4 +98,4 @@ Look & Feel
 Downloads
 ---------
 
-[Download the AC²Meter Product Sheet (pdf)](/pdf/PS%20AC%C2%B2Meter.pdf "PS AC²Meter.pdf")
+[Download the AC²Meter Product Sheet (pdf)](/pdf/ps_ac²_meter.pdf "ps_ac²_meter.pdf")

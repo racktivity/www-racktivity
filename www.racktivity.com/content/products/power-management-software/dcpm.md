@@ -128,6 +128,6 @@ Look & Feel
 Documentation
 -------------
 
-[Download the DCPM Product Sheet (pdf)](/pdf/PS DCPM.pdf "PS DCPM.pdf")   
-[Download the Racktivity Corporate Brochure (pdf)](/pdf/corporate brochure-view.pdf "corporate brochure-view.pdf")    
-[Download the DCPM manual version 1.5.1](/pdf/Racktivity DCPM - User Manual.pdf)
+[Download the DCPM Product Sheet (pdf)](/pdf/ps_dcpm.pdf "ps_dcpm.pdf")   
+[Download the Racktivity Corporate Brochure (pdf)](/pdf/corporate_brochure_view.pdf)    
+[Download the DCPM manual version 1.5.1](/pdf/racktivity_dcpm_user_manual.pdf)

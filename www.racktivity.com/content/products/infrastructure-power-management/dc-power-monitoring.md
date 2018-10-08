@@ -97,4 +97,4 @@ Look & Feel
 Documentation
 -------------
 
-[Racktivity product sheet DC²Meter.pdf](/pdf/Racktivity%20product%20sheet%20DC%C2%B2Meter.pdf)
+[Racktivity product sheet DC²Meter.pdf](/pdf/racktivity_product_sheet_dc²meter.pdf)

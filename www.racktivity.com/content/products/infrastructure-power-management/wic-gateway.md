@@ -11,4 +11,4 @@ image = "/images/dc1.png"
 
 The WhatsInsight Controller (WiC) offers you two very distinct features. Functioning as an SSL Proxy for Racktivity Metering Devices as well as a data collector for DCPM, the WhatsInsight Controller surely fits your needs. Both functionalities will be scrutinized in following paragraphs.
 <br>
-[Download the WiC documentation](/pdf/Racktivity%20WhatsInsight%20Controller%20Intro_V0.pdf "Racktivity WhatsInsight Controller Intro_V0.pdf")
+[Download the WiC documentation](/pdf/racktivity_whatsInsight_controller_intro_v0.pdf "racktivity_whatsInsight_controller_intro_v0.pdf")

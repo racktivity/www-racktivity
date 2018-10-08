@@ -71,4 +71,4 @@ Look & Feel
 Documentation
 -------------
 
-[Download the ACL Series user manual](/pdf/ACL%20Series%20-%20User%20Manual_9.pdf "ACL Series - User Manual.pdf")
+[Download the ACL Series user manual](/pdf/racktivity_acl_series_user_manual.pdf")

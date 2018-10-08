@@ -14,7 +14,7 @@ section_pic = "/images/banner-support.jpg"
 [![image](/images/openvstorage.png)](http://www.openvstorage.com)
 [![image](/images/codescalers.png)](http://www.codescalers.com)
 [![image](/images/gig.png)](http://www.greenitglobe.com)
-[![image](/images/mothership.png)](http://www.mothership1.com)
+![image](/images/mothership.png)
 
 Racktivity has created the industry’s first and only complete system for energy management within the data center.
 Racktivity was formed with the aim of helping customers understand and control energy distribution in near real-time across the enterprise. With this enhanced visibility, organisations can better align IT business operations with their true cost. Racktivity provides extreme granularity to our customers across their entire enterprise, across structures, sites and geographies.
@@ -31,12 +31,3 @@ The company was founded in february, 2009 by Wilbert Ingels, CTO, following seni
 
 
 The Racktivity management team has a proven track record in developing and bringing innovative technologies to a commercial success, including Cyclades and Avocent (now both Emerson), Raritan, Q-Layer (acquired by SUN Microsystems), Datacenter Technologies (acquired by Symantec), Nimsoft (acquired by Computer Associates), Hostbasket (acquired by Telenet), and Dedigate (acquired by Terremark).The company received its first round of venture capital funding in 2009 from Big Bang Ventures and its second round of funding thru Partech Internatiional and Hummingbird Ventures (formerly Big Bang).
-
-
-
-
-
-
-
-
-

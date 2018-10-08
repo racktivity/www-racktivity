@@ -5,7 +5,7 @@ section_pic = "/images/page-pic.jpg"
 +++
 
 
-Racktivity has helped Belgacom International Carrier Services (BICS), an international communication service provider to increase visibility over power and environmental factors underpinning its critical global network. 
+Racktivity has helped Belgacom International Carrier Services (BICS), an international communication service provider to increase visibility over power and environmental factors underpinning its critical global network.
 With Racktivity, BICS is able to improve its troubleshooting and proactive maintenance while ensuring it is receiving agreed level of service for co-location site providers.
 
 With revenues of over 1.65 billion euros, BICS delivers best-in-class international wholesale solutions to any communication service provider worldwide. Through its Mosaic portfolio, a comprehensive, flexible and innovative suite of solutions designed to be used individually, or collectively, BICS meets the existing and future requirements of the global telecoms industry.
@@ -35,7 +35,7 @@ However, the organisation has a wide range of equipment from multiple vendors as
 BICS looked at a number of power management and monitoring solutions as Geert Bisback, International Field Engineer co-responsible for the technical selection and operational deployment explains, “Uptime and remote control is essential in our industry and after thorough investigation we selected Racktivity as technology partner to develop and implement this project.”
 
 The Racktivity EnergySwitch Family has been developed to measure, monitor and control the power consumption of servers and appliances in the data center rack.
-Unlike other so-called “Smart PDUs”, EnergySwitch is able to measure and calculate true power consumption using a higher sampling frequency on a per outlet basis for both Voltage and Amperage. 
+Unlike other so-called “Smart PDUs”, EnergySwitch is able to measure and calculate true power consumption using a higher sampling frequency on a per outlet basis for both Voltage and Amperage.
 This level of detail is essential for accurate power management within the data center and allows for a better monitoring, in-time warnings and actions to deliver higher uptime by enhancing disaster prevention and recovery strategies.
 
 <br>
@@ -45,13 +45,11 @@ This level of detail is essential for accurate power management within the data 
 
 To evaluate the potential of the Racktivity solution, BICS ran extensive testing of the product family at three sites in Belgium.
 This project allowed Racktivity to integrate its Data Center Performance Manager (DCPM) software within BICS own monitoring platform including the creation of thresholds and custom alerts based on specific thresholds and trends.
-The success of the testing and system integration gave BICS the confidence to roll out Racktivity across its distributed infrastructure. 
+The success of the testing and system integration gave BICS the confidence to roll out Racktivity across its distributed infrastructure.
 
 A “flying team” is currently following a schedule to deploy Racktivity devices at sites across the world.
 Typically, each site consists of one or more EnergySwitch Smart PDU’s. In addition, many of the sites also have DC²Sensors and AC²Sensors to provide accurate monitoring of all current conditions of both alternating and direct current. Each installation has the ability to include optional sensors for temperature, humidity and sensors to determine if a rack has been opened to enhance remote security.
 
 Aside from the advanced technology, Racktivity also demonstrates the right “can do” attitude, pre point of sale and after. This is a continuous process of discussing and mutually learning from each other to get to the best possible outcome.
 
-[Download the full BICS case study here (PDF)](/pdf/Read the BICS case study.pdf)
-
-
+[Download the full BICS case study here (PDF)](/pdf/read_the_bics_case_study.pdf)

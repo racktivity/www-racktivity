@@ -113,4 +113,4 @@ Documentation
 -------------
 
 [Connection on 3 phase breakers + N](/images/Tap%20off%20box_slave_3ph.jpg "Tap off box_slave_3ph.jpg")  
-[Download the ACL Series user manual](/pdf/ACL%20Series%20-%20User%20Manual_11.pdf "ACL Series - User Manual.pdf")
+[Download the ACL Series user manual](/pdf/racktivity_acl_series_user_manual.pdf "racktivity_acl_series_user_manual.pdf")

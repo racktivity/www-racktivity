@@ -1,11 +1,10 @@
-http://www.racktivity.com:90, http://racktivity.com:90 {
+http://www.racktivity.aydo.com:5050  http://racktivity.aydo.com:5050 {
     bind 0.0.0.0
     gzip
     root www.racktivity.com/en
     git {
        repo git@github.com:racktivity/www-racktivity.git
        interval 300
-       branch production
        key ../keys/id_rsa
        path ../..
        then hugo -s www.racktivity.com

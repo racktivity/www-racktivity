@@ -85,4 +85,4 @@ The PM0816-01 PDUs are now in promotion.[Contact us now](/contact) for a great p
 ### Download      
 
 
-[Click here to download the PM0816-01 product sheet (PDF)](/pdf/PS%20PowerManager%20PM0816-01_0.pdf)
+[Click here to download the PM0816-01 product sheet (PDF)](/pdf/ps_power_manager_pm0816-01_0.pdf)

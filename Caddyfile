@@ -5,7 +5,6 @@ http://www.racktivity.aydo.com:5050  http://racktivity.aydo.com:5050 {
     git {
        repo git@github.com:racktivity/www-racktivity.git
        interval 300
-       branch production
        key ../keys/id_rsa
        path ../..
        then hugo -s www.racktivity.com
